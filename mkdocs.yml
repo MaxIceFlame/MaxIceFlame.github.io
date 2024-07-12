@@ -1,3 +1,10 @@
 site_name: MaxLine文档站
+site_url: https://maxiceflame.github.io/MaxLineWiki/
+site_author: MaxIceFlame
 theme:
-  name: material
+  name: readthedocs
+nav:
+  - {"首页":"index.md"}
+  - {"更新日志":"update.md"}
+  - {"关卡信息":"level.md"}
+  - {"关于":"credit.md"}
