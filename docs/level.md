@@ -20,7 +20,7 @@
 |     空间     | Yann Tiersen - Comptine D'un Autre Été, L'après-Midi |                 Max冰焰                  |
 |     霖      |              初云CLoudie - The Rain Remix              |                  华华猪                   |
 |     探索     |  Chronos - The Discovery [VIP Mix feat. Max Studio]  |            Max余焰<br/>Max冰焰             |
-|    周年庆     |      MAPLEX / 098765 - MaxLine 1st Anniversary       | GP0108<br/>lyckay<br/>Max冰焰<br/>qqxqqx |
+|    周年庆     |      MAPLEX / 098765_ - MaxLine 1st Anniversary      | GP0108<br/>lyckay<br/>Max冰焰<br/>qqxqqx |
 |     帝国     |        Two Steps From Hell - Empire Of Angels        |          Mandroid<br/>GP0108           |
 |     滑稽     |                     MöSS - 23:33                     |           Lusaslan<br/>Max冰焰           |
 |     雨夜     |                      四季音色 - 雨夜                       |               Pumpkin_Z                |
