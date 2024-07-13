@@ -1,4 +1,4 @@
-# MaxLine文档站
+# MaxLine - 关于
 *****
 ## 制作人员
 ![studio](img/studio.png)
@@ -120,4 +120,4 @@ Z1029
 **本游戏为《跳舞的线》饭制游戏。原游戏版权归属米麦互动**
 
 ## 游戏原声
-![music](img/music.png) 详见[网易云音乐](https://music.163.com/djradio?id=1004185369)
+![music](img/music.png) [跳舞的线饭制游戏「MaxLine」官方原声](https://music.163.com/djradio?id=1004185369 "网易云音乐")

@@ -1,10 +1,14 @@
-site_name: MaxLine文档站
-site_url: https://maxiceflame.github.io/MaxLineWiki/
-site_author: MaxIceFlame
+site_name: 冰焰文档站
+site_url: https://maxiceflame.github.io/MaxIceFlameDocumentation/
+site_author: Max冰焰
 theme:
   name: readthedocs
 nav:
-  - {"首页":"index.md"}
-  - {"更新日志":"update.md"}
-  - {"关卡信息":"level.md"}
-  - {"关于":"credit.md"}
+  - 冰焰文档站:
+      - {"首页":"index.md"}
+      - {"饭制模板":"template.md"}
+  - MaxLine:
+      - {"介绍":"ml_wiki/intro.md"}
+      - {"关卡信息":"ml_wiki/level.md"}
+      - {"更新日志":"ml_wiki/update.md"}
+      - {"关于":"ml_wiki/about.md"}
