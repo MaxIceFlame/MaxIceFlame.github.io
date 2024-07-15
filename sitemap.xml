@@ -1,33 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>https://maxiceflame.github.io/MaxIceFlameDocumentation/</loc>
-         <lastmod>2024-07-13</lastmod>
-         <changefreq>daily</changefreq>
+        <loc>https://maxiceflame.github.io/MaxIceFlameDocumentation/</loc>
+        <lastmod>2024-07-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/en/"/>
     </url>
     <url>
-         <loc>https://maxiceflame.github.io/MaxIceFlameDocumentation/template/</loc>
-         <lastmod>2024-07-13</lastmod>
-         <changefreq>daily</changefreq>
+        <loc>https://maxiceflame.github.io/MaxIceFlameDocumentation/template/</loc>
+        <lastmod>2024-07-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/template/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/en/template/"/>
     </url>
     <url>
-         <loc>https://maxiceflame.github.io/MaxIceFlameDocumentation/ml_wiki/about/</loc>
-         <lastmod>2024-07-13</lastmod>
-         <changefreq>daily</changefreq>
+        <loc>https://maxiceflame.github.io/MaxIceFlameDocumentation/ml_wiki/about/</loc>
+        <lastmod>2024-07-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/ml_wiki/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/en/ml_wiki/about/"/>
     </url>
     <url>
-         <loc>https://maxiceflame.github.io/MaxIceFlameDocumentation/ml_wiki/intro/</loc>
-         <lastmod>2024-07-13</lastmod>
-         <changefreq>daily</changefreq>
+        <loc>https://maxiceflame.github.io/MaxIceFlameDocumentation/ml_wiki/intro/</loc>
+        <lastmod>2024-07-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/ml_wiki/intro/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/en/ml_wiki/intro/"/>
     </url>
     <url>
-         <loc>https://maxiceflame.github.io/MaxIceFlameDocumentation/ml_wiki/level/</loc>
-         <lastmod>2024-07-13</lastmod>
-         <changefreq>daily</changefreq>
+        <loc>https://maxiceflame.github.io/MaxIceFlameDocumentation/ml_wiki/level/</loc>
+        <lastmod>2024-07-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/ml_wiki/level/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/en/ml_wiki/level/"/>
     </url>
     <url>
-         <loc>https://maxiceflame.github.io/MaxIceFlameDocumentation/ml_wiki/update/</loc>
-         <lastmod>2024-07-13</lastmod>
-         <changefreq>daily</changefreq>
+        <loc>https://maxiceflame.github.io/MaxIceFlameDocumentation/ml_wiki/update/</loc>
+        <lastmod>2024-07-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/ml_wiki/update/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/en/ml_wiki/update/"/>
+    </url>
+    <url>
+        <loc>https://maxiceflame.github.io/MaxIceFlameDocumentation/en/</loc>
+        <lastmod>2024-07-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/en/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/"/>
+    </url>
+    <url>
+        <loc>https://maxiceflame.github.io/MaxIceFlameDocumentation/en/template/</loc>
+        <lastmod>2024-07-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/en/template/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/template/"/>
+    </url>
+    <url>
+        <loc>https://maxiceflame.github.io/MaxIceFlameDocumentation/en/ml_wiki/about/</loc>
+        <lastmod>2024-07-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/en/ml_wiki/about/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/ml_wiki/about/"/>
+    </url>
+    <url>
+        <loc>https://maxiceflame.github.io/MaxIceFlameDocumentation/en/ml_wiki/intro/</loc>
+        <lastmod>2024-07-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/en/ml_wiki/intro/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/ml_wiki/intro/"/>
+    </url>
+    <url>
+        <loc>https://maxiceflame.github.io/MaxIceFlameDocumentation/en/ml_wiki/level/</loc>
+        <lastmod>2024-07-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/en/ml_wiki/level/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/ml_wiki/level/"/>
+    </url>
+    <url>
+        <loc>https://maxiceflame.github.io/MaxIceFlameDocumentation/en/ml_wiki/update/</loc>
+        <lastmod>2024-07-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/en/ml_wiki/update/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDocumentation/ml_wiki/update/"/>
     </url>
 </urlset>
