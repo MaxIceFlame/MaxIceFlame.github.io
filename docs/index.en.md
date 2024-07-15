@@ -6,7 +6,7 @@
 ![pic2](img/pic2.png)
 
 ## Profile
-### Social Medias
+### Social Media
 ![qq](img/qq.png) 1327142337
 
 ![bili](img/bilibili.png) [BiliBili](https://space.bilibili.com/89919399 "BiliBili")
