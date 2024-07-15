@@ -22,27 +22,32 @@ Max余焰
 神奇的小木斧
 
 ### 翻译
-#### ![vietnam](img/vietnam.png) 越南文
+:flag_vn: 越南文
+
 Bell
 
 Fitzgerald
 
 Top Finger
 
-#### ![indonesia](img/indonesia.png) 印尼文
+:flag_id: 印尼文
+
 Manatite
 
 Real Nath
 
-#### ![japan](img/japan.png) 日文
+:flag_jp: 日文
+
 枫炎
 
-#### ![china](img/china.png) 繁体中文（校正）
+:flag_cn: 繁体中文（校正）
+
 Jim Tsai
 
 Zutek 3134
 
-#### ![ukraine](img/ukraine.png) 乌克兰文
+:flag_ua: 乌克兰文
+
 Dju de la va
 
 ### 特别感谢

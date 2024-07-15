@@ -2,7 +2,26 @@ site_name: 冰焰文档站
 site_url: https://maxiceflame.github.io/MaxIceFlameDocumentation/
 site_author: Max冰焰
 theme:
-  name: readthedocs
+  name: material
+  favicon: img/favicon.ico
+  logo: img/pic1.png
+  language: zh
+  features:
+    - navigation.expand
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - toc.follow
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: 夜间模式
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: 日间模式
 nav:
   - 冰焰文档站:
       - {"首页":"index.md"}
@@ -12,3 +31,48 @@ nav:
       - {"关卡信息":"ml_wiki/level.md"}
       - {"更新日志":"ml_wiki/update.md"}
       - {"关于":"ml_wiki/about.md"}
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: false
+  - toc:
+      permalink: true
+  - footnotes
+  - meta
+  - def_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/bilibili
+      link: https://space.bilibili.com/89919399
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@maxiceflame_naheeda
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: zh
+          default: true
+          name: 中文
+          build: true
+        - locale: en
+          name: English
+          build: true
