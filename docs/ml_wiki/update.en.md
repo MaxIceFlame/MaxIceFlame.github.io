@@ -253,7 +253,7 @@ Update date: August 6th, 2020
 
 6, Removed "The" in title in English for all levels
 
-7, Christmas Snow now supports resumption
+7, Christmas Snow now supports revival
 
 8, Adjusted the collision in Apocalypse
 

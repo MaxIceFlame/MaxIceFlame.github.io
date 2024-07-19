@@ -9,7 +9,7 @@
 |     海洋     |                  羽焰辰星 - Ocean Remix                  |            Max冰焰<br/>qqxqqx            |
 |     雨      |                  Brian Crain - rain                  |                 Max冰焰                  |
 |   贝多芬病毒    |           Diana Boncheva - Beethoven Virus           |            qqxqqx<br/>Max冰焰            |
-|     云      |               Cheetah Mobile Games - 云               |                 lyckay                 |
+|     云      |                       猎豹游戏 - 云                       |                 lyckay                 |
 |    橄榄球     |                Black Violin - Dreamer                |            qqxqqx<br/>Max冰焰            |
 |     自然     |         Alfaiate Franz - O Filtro dos Sonhos         |                 Max冰焰                  |
 |     乡野     |                麦金 - 田野 [Disco Remix]                 |                 Max冰焰                  |
@@ -25,7 +25,7 @@
 |    沙漠迷宫    |                零燚01 - 迷宫 [零燚01 Remix]                |                 qqxqqx                 |
 |    启示录     |               Peter Roe - Last Reunion               |            Max冰焰<br/>qqxqqx            |
 | In the End |             Tommee Profitt - In the End              |         raw_chicken<br/>Max冰焰          |
-|    云端之上    |              Luke Richards - Tall Tales              |                寒鹰SHADOW                |
+|    云端之上    |              Luke Richards - Tall Tales              |               寒鹰丶SHADOW                |
 |     山谷     |                MisterPan - The Valley                |               MisterPan                |
 |   草莓&香烟    |   Yutin - Strawberries & Cigarettes [Yutin Remix]    |            qqxqqx<br/>巴拉巴j             |
 |  MARENOL   |                    LeaF - MARENOL                    |                  尘落南丘                  |

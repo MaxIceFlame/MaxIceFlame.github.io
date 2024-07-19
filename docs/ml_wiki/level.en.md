@@ -4,16 +4,16 @@
 
 |           Title           |                        Music                         |                   Designer                   |
 |:-------------------------:|:----------------------------------------------------:|:--------------------------------------------:|
-|          Preface          |                    羽焰辰星 - Utopia                     |                 MaxIceFlame                  |
-|         Starting          |                   羽焰辰星 - Prologue                    |                 MaxIceFlame                  |
-|           Ocean           |                  羽焰辰星 - Ocean Remix                  |            MaxIceFlame<br/>qqxqqx            |
+|          Preface          |                    Fairo - Utopia                    |                 MaxIceFlame                  |
+|         Starting          |                   Fairo - Prologue                   |                 MaxIceFlame                  |
+|           Ocean           |                 Fairo - Ocean Remix                  |            MaxIceFlame<br/>qqxqqx            |
 |           Rain            |                  Brian Crain - rain                  |                 MaxIceFlame                  |
 |      Beethoven Virus      |           Diana Boncheva - Beethoven Virus           |            qqxqqx<br/>MaxIceFlame            |
-|           Cloud           |               Cheetah Mobile Games - 云               |                    lyckay                    |
+|           Cloud           |             Cheetah Mobile Games - Cloud             |                    lyckay                    |
 |          Dreamer          |                Black Violin - Dreamer                |            qqxqqx<br/>MaxIceFlame            |
 |          Nature           |         Alfaiate Franz - O Filtro dos Sonhos         |                 MaxIceFlame                  |
-|        Countryside        |                麦金 - 田野 [Disco Remix]                 |                 MaxIceFlame                  |
-|           Beach           |                羽焰辰星 - Summer Prologue                |            qqxqqx<br/>MaxIceFlame            |
+|        Countryside        |        Alan Mackin - The Plain [Disco Remix]         |                 MaxIceFlame                  |
+|           Beach           |               Fairo - Summer Prologue                |            qqxqqx<br/>MaxIceFlame            |
 |          School           |                   RADWIMPS - かたわれ时                   |                    lyckay                    |
 |           Space           | Yann Tiersen - Comptine D'un Autre Été, L'après-Midi |                 MaxIceFlame                  |
 |          Drizzle          |              初云CLoudie - The Rain Remix              |                 Hua Hua Pig                  |
@@ -22,10 +22,10 @@
 |          Empire           |        Two Steps From Hell - Empire Of Angels        |             Mandroid<br/>GP0108              |
 |           Huaji           |                     MöSS - 23:33                     |           Lusaslan<br/>MaxIceFlame           |
 |        Rainy Night        |                      四季音色 - 雨夜                       |                  Pumpkin_Z                   |
-|        Desert Maze        |                零燚01 - 迷宫 [零燚01 Remix]                |                    qqxqqx                    |
+|        Desert Maze        |             零燚01 - The Maze [零燚01 Remix]             |                    qqxqqx                    |
 |        Apocalypse         |               Peter Roe - Last Reunion               |            MaxIceFlame<br/>qqxqqx            |
 |        In the End         |             Tommee Profitt - In the End              |         raw_chicken<br/>MaxIceFlame          |
-|    Head in the Clouds     |              Luke Richards - Tall Tales              |                   寒鹰SHADOW                   |
+|    Head in the Clouds     |              Luke Richards - Tall Tales              |                  寒鹰丶SHADOW                   |
 |          Valley           |                MisterPan - The Valley                |                  MisterPan                   |
 | Strawberries & Cigarettes |   Yutin - Strawberries & Cigarettes [Yutin Remix]    |              qqxqqx<br/>Balabaj              |
 |          MARENOL          |                    LeaF - MARENOL                    |                     尘落南丘                     |
@@ -38,4 +38,4 @@
 |          Jupiter          |                Li Ga Yb - The Jupiter                |                   Li Ga Yb                   |
 |       Fire of Anger       |       Falcom Sound Team jdk - To be continued!       |                    lyckay                    |
 |        Food Party         |               Tobu - Candyland pt. II                |    Suga Jahsin<br/>Hua Hua Pig<br/>GP0108    |
-|        Coming Soon        |                  羽焰辰星 - Coming Soon                  |                      /                       |
+|        Coming Soon        |                 Fairo - Coming Soon                  |                      /                       |
