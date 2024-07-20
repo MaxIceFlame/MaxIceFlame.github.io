@@ -26,7 +26,7 @@ nav:
   - 冰焰文档站:
       - {"首页":"index.md"}
       - {"饭制模板":"template.md"}
-  - MaxLine:
+  - MaxLine Wiki:
       - {"介绍":"ml_wiki/intro.md"}
       - {"关卡信息":"ml_wiki/level.md"}
       - {"更新日志":"ml_wiki/update.md"}

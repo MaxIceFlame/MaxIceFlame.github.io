@@ -346,12 +346,35 @@ Update date: March 1st, 2020
 
 3, Bug fixes
 
+## V1.0.4
+Update date: February 21st, 2020
+
+1, Added more setting options
+
+2, Bug fixes
+
+## V1.0.3
+Update date: February 18th, 2020
+
+1, Bug fixes
+
 ## V1.0.2
 Update date: February 12th, 2020
 
 1, Added new level: The Dreamer
 
-2, Other changes
+2, Added start page
+
+3, Changed the model and music of Coming Soon
+
+4, Other changes
+
+## V1.0.1
+Update date: February 5th, 2020
+
+1、Changed the model and music of Coming Soon
+
+2、Bug fixes
 
 ## V1.0.0
 Release date: February 4th, 2020
