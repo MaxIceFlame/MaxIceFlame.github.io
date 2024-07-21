@@ -28,8 +28,10 @@ nav:
       - {"饭制模板":"template.md"}
   - MaxLine Wiki:
       - {"介绍":"ml_wiki/intro.md"}
-      - {"关卡信息":"ml_wiki/level.md"}
-      - {"更新日志":"ml_wiki/update.md"}
+      - {"关卡":"ml_wiki/level.md"}
+      - {"皮肤":"ml_wiki/skin.md"}
+      - {"成就":"ml_wiki/achievement.md"}
+      - {"日志":"ml_wiki/update.md"}
       - {"关于":"ml_wiki/about.md"}
 markdown_extensions:
   - admonition

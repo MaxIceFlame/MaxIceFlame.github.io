@@ -1,4 +1,4 @@
-# MaxLine - Level Information
+# MaxLine - Level
 *****
 ## Level list
 

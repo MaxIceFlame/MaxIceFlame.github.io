@@ -308,6 +308,8 @@ Update date: April 17th, 2020
 
 2, Removed the energy system
 
+3, Bug fixes
+
 ## V1.1.3
 Update date: April 6th, 2020
 
