@@ -67,7 +67,7 @@
 <body>
     <span style="color: #888888; ">
         <i>
-            The first design of achievement page
+            ^The first design of achievement page
         </i>
     </span>
 </body>
@@ -76,7 +76,7 @@
 <body>
     <span style="color: #888888; ">
         <i>
-            The achievement page sent by MaxIceFlame in Discord server (magnified)
+            ^The achievement page sent by MaxIceFlame in Discord server (magnified)
         </i>
     </span>
 </body>
@@ -85,7 +85,7 @@
 <body>
     <span style="color: #888888; ">
         <i>
-            The second design of achievement page
+            ^The second design of achievement page
         </i>
     </span>
 </body>

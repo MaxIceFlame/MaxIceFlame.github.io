@@ -23,7 +23,16 @@
 <body>
     <span style="color: #888888; ">
         <i>
-            The early design of skin page (Zeus was not available)
+            ^The first design of skin page (Zeus was not available)
+        </i>
+    </span>
+</body>
+
+![skin2](img/skin2.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^The second design of skin page
         </i>
     </span>
 </body>

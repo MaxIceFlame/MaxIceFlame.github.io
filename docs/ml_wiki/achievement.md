@@ -67,7 +67,7 @@
 <body>
     <span style="color: #888888; ">
         <i>
-            成就页面的第一种设计
+            ^成就页面的第一种设计
         </i>
     </span>
 </body>
@@ -76,7 +76,7 @@
 <body>
     <span style="color: #888888; ">
         <i>
-            Max冰焰在Discord服务器中发布的成就页面（图片经过放大）
+            ^Max冰焰在Discord服务器中发布的成就页面（图片经过放大）
         </i>
     </span>
 </body>
@@ -85,7 +85,7 @@
 <body>
     <span style="color: #888888; ">
         <i>
-            成就页面的第二种设计
+            ^成就页面的第二种设计
         </i>
     </span>
 </body>

@@ -23,7 +23,16 @@
 <body>
     <span style="color: #888888; ">
         <i>
-            皮肤页面的早期设计（宙斯尚不可用）
+            ^皮肤页面的第一种设计（宙斯尚不可用）
+        </i>
+    </span>
+</body>
+
+![skin2](img/skin2.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^皮肤页面的第二种设计
         </i>
     </span>
 </body>
