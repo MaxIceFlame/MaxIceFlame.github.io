@@ -304,7 +304,7 @@ Update date: May 31st, 2020
 ## V1.1.4
 Update date: April 17th, 2020
 
-1, Removed The Huaji
+1, Removed The Funny
 
 2, Removed the energy system
 
@@ -320,7 +320,7 @@ Update date: April 6th, 2020
 ## V1.1.2
 Update date: March 31st, 2020
 
-1, Added secret level: The Huaji
+1, Added secret level: The Funny
 
 2, Added skin system
 

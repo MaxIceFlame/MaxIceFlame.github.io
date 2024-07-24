@@ -40,6 +40,8 @@ Real Nath
 
 枫炎
 
+Li Ga Yb
+
 :flag_cn: 繁体中文（校正）
 
 Jim Tsai

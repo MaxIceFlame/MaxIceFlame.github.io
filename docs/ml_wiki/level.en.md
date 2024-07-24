@@ -69,6 +69,7 @@ Search was added in V1.3.5. The purpose was to make it more convenient to quickl
 * In Anniversary, many players thought that the scene at 20% refers to Preface, but this scene actually refers to level scene making at the early stage of MaxLine
 * In the early design of Anniversary, the scene from 70% to 80% included not only The Explore. Later it was changed that it only included the scene of The Explore
 * In Anniversary, the scene from 80% to 90% actually was made with the reference to [Candlelight of Love](https://www.bilibili.com/video/BV1Zi4y1K7az) from Sky Cloud Story
+* The original name of Huaji was "The Funny". It used to be planned to changed to "Jocularity" while remaking, but the plan was abandoned later. Then it was directly named as "Huaji" (From the Chinese Pinyin of "滑稽", its Chinese name)
 * In the early design of [Apocalypse](https://www.bilibili.com/video/BV1uv411678R), the scene after 80% was not same as it is now. What it looks like now was a redesign by MaxIceFlame
 * The scene transformations after 80% in Apocalypse was used to be planned to realize by images, but it was changed to its now appearance due to the bad result
 * At the end of Apocalypse, the three tombstones in front of the house refer to hero's wife and two children. They are showed up in scene transformations after 80%
@@ -110,7 +111,7 @@ Search was added in V1.3.5. The purpose was to make it more convenient to quickl
 <body>
     <span style="color: #888888; ">
         <i>
-            ^The first design of Coming Soon ("尽情" was a typo in Chinese)
+            ^The first design of Coming Soon ("尽情" is a typo in Chinese)
         </i>
     </span>
 </body>

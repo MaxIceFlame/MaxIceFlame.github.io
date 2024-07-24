@@ -18,3 +18,7 @@ Latest version: V1.4.0
 
 ![youtube](img/youtube.png)
 [YouTube Official](https://www.youtube.com/@MaxStudioOfficial "YouTube")
+
+## Trivia
+* The name of the game, "MaxLine", first appeared in 2018 in MaxIceFlame's level, The Piano
+* MaxLine was actually born in July, 2019, but it was not released until February, 2020
