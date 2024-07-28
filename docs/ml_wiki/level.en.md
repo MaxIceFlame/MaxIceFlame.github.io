@@ -10,6 +10,7 @@
 |           Rain            |                  Brian Crain - rain                  |                 MaxIceFlame                  |
 |      Beethoven Virus      |           Diana Boncheva - Beethoven Virus           |            qqxqqx<br/>MaxIceFlame            |
 |           Cloud           |             Cheetah Mobile Games - Cloud             |                    lyckay                    |
+|           Gloom           |                Theo5970 - Forgiveness                |        Mafnero<br/>FIRE CLOUD STUDIO         |
 |          Dreamer          |                Black Violin - Dreamer                |            qqxqqx<br/>MaxIceFlame            |
 |          Nature           |         Alfaiate Franz - O Filtro dos Sonhos         |                 MaxIceFlame                  |
 |        Countryside        |        Alan Mackin - The Plain [Disco Remix]         |                 MaxIceFlame                  |

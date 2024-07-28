@@ -1,5 +1,24 @@
 # MaxLine - Change Log
 *****
+## V1.4.1
+Update date: July 28th, 2024
+
+1, Added new level: Gloom
+
+2, Redrew remix banners for Beach, Drizzle, Jupiter
+
+3, The game no longer has a built-in credit. Players will be guided to a website when clicking credit button 
+
+4, Temporary removed Water Quality option
+
+5, Fixed the problem of that search page and achievement page may not properly perform
+
+6, Fixed the incorrect performance and resumption of animations in Jupiter
+
+7, Bug fixes
+
+8, Other changes
+
 ## V1.4.0
 Update date: June 16th, 2024
 
