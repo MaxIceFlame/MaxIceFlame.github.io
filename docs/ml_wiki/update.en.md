@@ -1,5 +1,16 @@
 # MaxLine - Change Log
 *****
+## V1.4.2
+Update date: October 13th, 2024
+
+1, Added DL RS GAS Account System
+
+2, Fixed the problem of that some obstacles were missing in Gloom
+
+3, Fixed the problem of that the line may leave the right way in some levels
+
+4, Other changes
+
 ## V1.4.1
 Update date: July 28th, 2024
 
