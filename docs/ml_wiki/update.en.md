@@ -1,5 +1,16 @@
 # MaxLine - Change Log
 *****
+## V1.4.3
+Update date: November 17th, 2024
+
+1, Fixed the problem of collision in Holidays
+
+2, Removed the progress bar in achievement page
+
+3, Adjusted the remix banner of Drizzle
+
+4, Other changes
+
 ## V1.4.2
 Update date: October 13th, 2024
 
