@@ -113,6 +113,8 @@ WINDER Studio
 #### Other
 BlockZ
 
+CXY-辰
+
 Max Zhi Flame
 
 RicoTen
