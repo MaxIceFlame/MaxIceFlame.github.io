@@ -2,7 +2,7 @@
 *****
 ## Introduction
 It's a DLFM template early based on dogdie233's V7.2 template which is added multiple functions and is widely used
-through the circle. It has been completely remade in version 4.0. The code logic is optimized and more new functions
+through DLFM circle. It has been completely refactored in version 4.0. The code logic is optimized and more new functions
 are added.
 
 ## Request
