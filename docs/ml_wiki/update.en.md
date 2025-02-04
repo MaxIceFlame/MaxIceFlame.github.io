@@ -1,5 +1,16 @@
 # MaxLine - Change Log
 *****
+## V1.4.4
+Update date: February 4th, 2025
+
+1, Adjusted the collision in Holidays
+
+2, Fixed the problem of that jumping performs improperly in The Discovery - Chronos
+
+3, Fixed some problems of login system
+
+4, Other changes
+
 ## V1.4.3
 Update date: November 17th, 2024
 
@@ -16,7 +27,7 @@ Update date: October 13th, 2024
 
 1, Added DL RS GAS Account System
 
-2, Fixed the problem of that some obstacles were missing in Gloom
+2, Fixed the problem of that some obstacles are missing in Gloom
 
 3, Fixed the problem of that the line may leave the right way in some levels
 

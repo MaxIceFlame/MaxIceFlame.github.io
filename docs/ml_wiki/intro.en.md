@@ -8,9 +8,9 @@ MaxLine is a Dancing Line Fanmade game made by Max Studio based on Dancing Line
 ## Information
 Release date: February 4th, 2020
 
-Update date: November 17th, 2024
+Update date: February 4th, 2025
 
-Latest version: V1.4.3
+Latest version: V1.4.4
 
 ## Follow Us
 ![bili](img/bilibili.png)
