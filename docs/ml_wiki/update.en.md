@@ -1,5 +1,10 @@
 # MaxLine - Change Log
 *****
+## V1.4.5
+Update date: February 13th, 2025
+
+1, Added the determination of not activated account in login system
+
 ## V1.4.4
 Update date: February 4th, 2025
 
