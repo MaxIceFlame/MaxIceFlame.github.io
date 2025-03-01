@@ -1,4 +1,4 @@
-# MaxIceFlame's DLFM Template 4.7.0
+# MaxIceFlame's DLFM Template V4.7.0
 *****
 ## Introduction
 It's a DLFM template early based on dogdie233's V7.2 template which is added multiple functions and is widely used
@@ -13,7 +13,7 @@ For Unity 2018.3.5 or above
 For Unity 2021.3.14 or above
 
 ## Tutorial
-Only for 4.0 or above
+Only for V4.0 or above
 
 Only Chinese tutorial
 
