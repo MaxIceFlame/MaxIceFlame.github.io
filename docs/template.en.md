@@ -1,4 +1,4 @@
-# MaxIceFlame's DLFM Template 4.6.2
+# MaxIceFlame's DLFM Template 4.7.0
 *****
 ## Introduction
 It's a DLFM template early based on dogdie233's V7.2 template which is added multiple functions and is widely used
@@ -7,19 +7,19 @@ are added.
 
 ## Request
 ### Version 2.0–3.0
-Request Unity version 2018.3.5 and higher
+For Unity 2018.3.5 or above
 
 ### Version 4.0
-Request Unity version 2021.3.14 and higher
+For Unity 2021.3.14 or above
 
 ## Tutorial
-Only for version 4.0 and higher
+Only for 4.0 or above
 
 Only Chinese tutorial
 
-![bili](img/bilibili.png) [Tutorial of MIF's DLFM Template 4.3.0](https://www.bilibili.com/video/BV1AN411q7wZ "BiliBili")
+![bili](img/bilibili.png) [Tutorial of MIF's DLFM Template V4.3.0 (Also suitable for latest template)](https://www.bilibili.com/video/BV1AN411q7wZ "BiliBili")
 
-![bili](img/bilibili.png) [Added text tutorial of of MIF's DLFM Template](https://www.bilibili.com/read/readlist/rl832655 "BiliBili")
+![bili](img/bilibili.png) [Added text tutorial for MIF's DLFM Template](https://www.bilibili.com/read/readlist/rl832655 "BiliBili")
 
 ## Download
 ![dlrs](img/dlrs.png) [The Official Website of DL RS Group](https://chinadlrs.com/app/?id=41 "The Official Website of DL RS Group")

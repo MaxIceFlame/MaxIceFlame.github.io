@@ -1,4 +1,4 @@
-# 冰焰模板 4.6.2
+# 冰焰模板 4.7.0
 *****
 ## 简介
 早期基于狗带模板V7.2开发的饭制模板，加入多种功能，在圈子中被广泛使用。4.0版本后完全重构，优化了代码逻辑，并加入了更多功能
@@ -13,15 +13,18 @@ Unity版本为2021.3.14及以上
 ## 使用教程
 仅提供4.0模板使用教程
 
-![bili](img/bilibili.png) [冰焰模板4.3.0使用教程](https://www.bilibili.com/video/BV1AN411q7wZ "哔哩哔哩")
+![bili](img/bilibili.png) [冰焰模板4.3.0使用教程（最新版本仍然适用）](https://www.bilibili.com/video/BV1AN411q7wZ "哔哩哔哩")
 
 ![bili](img/bilibili.png) [冰焰模板文字补充教程](https://www.bilibili.com/read/readlist/rl832655 "哔哩哔哩")
 
 ## 更新日志
-V4.6.2 - 2024.11.24
+V4.7.0 - 2025.3.1
 
-1.修复下拉栏异常问题
+1、新增抗锯齿和阴影画质选项
 
+2、加入铺路机
+
+3、InformationDebugger新增画质（Video Quality）、抗锯齿（Anti Aliasing）、阴影（Shadow）选项
 
 ## 下载方式
 ![dlrs](img/dlrs.png) [DL RS 同人群官方网站](https://chinadlrs.com/app/?id=41 "DL RS 同人群官方网站")
