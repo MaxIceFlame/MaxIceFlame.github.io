@@ -13,7 +13,7 @@
         <link rel="canonical" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/following/">
       
       
-        <link rel="prev" href="../template/">
+        <link rel="prev" href="../tutorial/">
       
       
         <link rel="next" href="../ml_wiki/intro/">
@@ -76,7 +76,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#_1" class="md-skip">
+        <a href="#how-to-implement-the-official-camera-following-of-dancing-line-in-rectangular-coordinate-system" class="md-skip">
           Skip to content
         </a>
       
@@ -318,6 +318,8 @@
       
         
       
+        
+      
     
     
       
@@ -389,6 +391,27 @@
                 
   
   
+  
+  
+    <li class="md-nav__item">
+      <a href="../tutorial/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    模板手册
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
     
   
   
@@ -438,18 +461,18 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#_2" class="md-nav__link">
+  <a href="#implementation-principle" class="md-nav__link">
     <span class="md-ellipsis">
-      实现原理
+      Implementation principle
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#_3" class="md-nav__link">
+  <a href="#implementation-method" class="md-nav__link">
     <span class="md-ellipsis">
-      实现方式
+      Implementation method
     </span>
   </a>
   
@@ -687,18 +710,18 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#_2" class="md-nav__link">
+  <a href="#implementation-principle" class="md-nav__link">
     <span class="md-ellipsis">
-      实现原理
+      Implementation principle
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#_3" class="md-nav__link">
+  <a href="#implementation-method" class="md-nav__link">
     <span class="md-ellipsis">
-      实现方式
+      Implementation method
     </span>
   </a>
   
@@ -719,22 +742,29 @@
                   
 
 
-<h1 id="_1">跳舞的线官方相机跟随在直角坐标系的实现方式<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h1>
+<h1 id="how-to-implement-the-official-camera-following-of-dancing-line-in-rectangular-coordinate-system">How to implement the official camera following of Dancing Line in rectangular coordinate system<a class="headerlink" href="#how-to-implement-the-official-camera-following-of-dancing-line-in-rectangular-coordinate-system" title="Permanent link">&para;</a></h1>
 <hr />
 <ul>
-<li><strong>官方常用坐标系沿-45/45方向，本文简称“斜角坐标系”；饭制常用坐标系多沿0/90方向，本文简称“直角坐标系”</strong></li>
+<li><strong>The official commonly used coordinate system is along the -45/45 direction, which is referred to 
+as the "oblique coordinate system" in this article; the fan-made commonly used coordinate system is 
+mostly along the 0/90 direction, which is referred to as the "rectangular coordinate system" in this 
+article.</strong></li>
 </ul>
-<h2 id="_2">实现原理<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
-<p>在斜角坐标系中，x轴为相机的偏移轴，z轴是相机真正跟随线移动而移动的轴。
+<h2 id="implementation-principle">Implementation principle<a class="headerlink" href="#implementation-principle" title="Permanent link">&para;</a></h2>
+<p>In the oblique coordinate system, the x-axis is the offset axis of the camera, and the z-axis is the axis along which 
+the camera actually moves to follow the line.
 <img alt="follow1" src="../../img/follow1.png" /></p>
-<p>在斜角坐标系中，相机只沿z轴向前移动，相比在x轴和z轴均向前移动的直角坐标系，更加平滑。且相机在x轴存在约1.5单位长度的偏移，保证线始终在屏幕中央</p>
-<p>欲在直角坐标系中实现此效果，只需在代码中将原本跟随的坐标空间及相关变量旋转45°即可</p>
-<h2 id="_3">实现方式<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
-<p>欲在直角坐标系中实现，需先定义如下量：
-<div class="highlight"><pre><span></span><code>Vector3 followSpeed = new Vector3(1.2f,3f,6f); //跟随速度
-Quaternion vectorRotation = Quaternion.Euler(0,-45,0); //坐标旋转角度
-Transform origin; //坐标原点物体
-Vector3 Translation //旋转后的跟随数据
+<p>In the oblique coordinate system, the camera only moves forward along the z axis, which is smoother than the rectangular 
+coordinate system that moves forward along both the x and z axes. The camera is offset by about 1.5 
+units on the x axis to ensure that the line is always in the center of the screen.</p>
+<p>To achieve this effect in the rectangular coordinate system, just rotate the original coordinate space 
+and related variables by 45° in the code.</p>
+<h2 id="implementation-method">Implementation method<a class="headerlink" href="#implementation-method" title="Permanent link">&para;</a></h2>
+<p>To implement in a rectangular coordinate system, you need to first define the following quantities:
+<div class="highlight"><pre><span></span><code>Vector3 followSpeed = new Vector3(1.2f,3f,6f); //Follow speed
+Quaternion vectorRotation = Quaternion.Euler(0,-45,0); //Coordinate rotation
+Transform origin; //Coordinate origin object
+Vector3 Translation //Follow data after rotation
 {
     get
     {
@@ -744,7 +774,7 @@ Vector3 Translation //旋转后的跟随数据
     }
 }
 </code></pre></div>
-在Start()函数中，需设置坐标原点物体
+In the Start() function, you need to set the coordinate origin object.
 <div class="highlight"><pre><span></span><code>origin = new GameObject(&quot;TranslatingOrigin&quot;)
 {
     transform =
@@ -755,10 +785,10 @@ Vector3 Translation //旋转后的跟随数据
     }
 }.transform;
 </code></pre></div>
-在Update()函数中，需修改相关代码
+In the Update() function, you need to modify the relevant code.
 <div class="highlight"><pre><span></span><code>var translation = new Vector3(Translation.x * Time.smoothDeltaTime * followSpeed.x, Translation.y * Time.smoothDeltaTime * followSpeed.y, Translation.z * Time.smoothDeltaTime * followSpeed.z);
 </code></pre></div>
-设置新的坐标原点
+Set a new coordinate origin.
 <div class="highlight"><pre><span></span><code>follower.Translate(translation, origin);
 </code></pre></div></p>
 

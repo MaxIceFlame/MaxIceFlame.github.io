@@ -1,4 +1,4 @@
-# MaxIceFlame's DLFM Template V4.7.1
+# MaxIceFlame's DLFM Template V4.7.2
 *****
 ## Introduction
 It's a DLFM template early based on dogdie233's V7.2 template which is added multiple functions and is widely used
