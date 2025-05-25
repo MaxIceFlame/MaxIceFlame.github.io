@@ -1,5 +1,7 @@
-# How to implement the official camera following of Dancing Line in rectangular coordinate system
+# The Method of Implementing the Official Camera Following of Dancing Line in Rectangular Coordinate System
 *****
+***Foremost: This page is translated by a translator.***
+
 * **The official commonly used coordinate system is along the -45/45 direction, which is referred to 
 as the "oblique coordinate system" in this article; the fan-made commonly used coordinate system is 
 mostly along the 0/90 direction, which is referred to as the "rectangular coordinate system" in this 

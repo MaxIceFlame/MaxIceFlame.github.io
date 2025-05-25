@@ -1,7 +1,5 @@
-# MaxIceFlame's Database
+# MaxIceFlame's Blog
 *****
-* **This database is used to place documents of mine**
-
 ![pic1](img/pic1.png)
 ![pic2](img/pic2.png)
 

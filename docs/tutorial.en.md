@@ -1,5 +1,7 @@
 # MIF's DLFM Template V4.7.2 User Manual
 *****
+***Foremost: Due to the length of the tutorial and my laziness, this page is translated by a translator.***
+
 * **This page will introduce how to use the template. This page does not explain the basic operations 
 of Unity. If you encounter any problems, please query and solve them yourself. This tutorial is 
 applicable to the latest version of the template.**
