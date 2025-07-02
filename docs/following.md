@@ -1,6 +1,6 @@
 # 跳舞的线官方相机跟随在直角坐标系的实现方式
 *****
-* **官方常用坐标系沿-45/45方向，本文简称“斜角坐标系”；饭制常用坐标系多沿0/90方向，本文简称“直角坐标系”**
+* **官方常用坐标系沿-45°/45°方向，本文简称“斜角坐标系”；饭制常用坐标系多沿0°/90°方向，本文简称“直角坐标系”**
 
 ## 实现原理
 在斜角坐标系中，x轴为相机的偏移轴，z轴是相机真正跟随线移动而移动的轴。
@@ -12,7 +12,7 @@
 
 ## 实现方式
 欲在直角坐标系中实现，需先定义如下量：
-```
+```csharp
 Vector3 followSpeed = new Vector3(1.2f,3f,6f); //跟随速度
 Quaternion vectorRotation = Quaternion.Euler(0,-45,0); //坐标旋转角度
 Transform origin; //坐标原点物体
@@ -25,9 +25,10 @@ Vector3 Translation //旋转后的跟随数据
         return targetPosition - followerPosition;
     }
 }
+
 ```
-在Start()函数中，需设置坐标原点物体
-```
+在```Start()```函数中，需设置坐标原点物体
+```csharp
 origin = new GameObject("TranslatingOrigin")
 {
     transform =
@@ -38,10 +39,17 @@ origin = new GameObject("TranslatingOrigin")
     }
 }.transform;
 ```
-在Update()函数中，需修改相关代码
+
+csharp
+在```Update()```函数中，需修改相关代码
 ```
-var translation = new Vector3(Translation.x * Time.smoothDeltaTime * followSpeed.x, Translation.y * Time.smoothDeltaTime * followSpeed.y, Translation.z * Time.smoothDeltaTime * followSpeed.z);
+var translation = new Vector3(
+    Translation.x * Time.smoothDeltaTime * followSpeed.x, 
+    Translation.y * Time.smoothDeltaTime * followSpeed.y, 
+    Translation.z * Time.smoothDeltaTime * followSpeed.z
+);
 ```
+
 设置新的坐标原点
 ```
 follower.Translate(translation, origin);

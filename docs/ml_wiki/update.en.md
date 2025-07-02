@@ -1,5 +1,18 @@
-# MaxLine - Change Log
+# MaxLine - Change Logs
 *****
+## V1.5.0
+Update date: July 2nd, 2025
+
+1, Added new level: Hollowness \[Redesigned]
+
+2, Optimized the performance of camera follow in some levels
+
+3, Removed the function of saving sharing picture
+
+4, Removed the texts showing level designer(s) and music used in level and slightly adjusted UI layout
+
+5, Other changes
+
 ## V1.4.5
 Update date: February 13th, 2025
 

@@ -1,4 +1,4 @@
-# 冰焰模板 4.7.2 使用手册
+# 冰焰模板 4.7.6 使用手册
 *****
 * **本页面将会介绍模板的使用方法。Unity基本操作本页面不予讲解，如遇问题请自行查询和解决。本教程适用于最新版模板**
 * **完全理解本教程需要掌握一些基本的Unity操作。如对Unity的基本操作尚不熟悉，建议熟悉后再阅读本教程**
@@ -28,8 +28,6 @@
 ### 特别说明
 在 **Scene** 物体上，有已经放好的 **Playable Director** 和 **Time Scale**
 
-![scene_intro](img/template/78.png)
-
 #### Playable Director
 此为场景的时间线
 
@@ -38,17 +36,17 @@
 #### Time Scale
 用于更改播放的倍速
 
-![scene_time_scale](img/template/79.png)
+![scene_time_scale](img/template/91.png)
 
-* Key：使用和禁用倍速播放的按键
-* Enabled Value：加速倍速。默认为1.5，最低为0，最高为3
-* Disabled Value：初始倍速。默认为1，最低为0，最高为3
+* Key：启用和禁用倍速播放的按键
+* Value：加速倍速。默认为1.5，最低为0，最高为3
 
 **注：此代码仅在编辑器内可用**
 
 ## 三、预制物体介绍
 ### ```Assets/#Template```下
-![prefabs_template](img/template/3.png)
+
+![prefabs_template](img/template/85.png)
 
 * \[Animators]：用于存放帧动画的文件夹
 * \[Materials]：用于存放材质的文件夹
@@ -89,7 +87,7 @@
 ## 四、关卡初设置
 在开始制作关卡前，需设置好关卡的一些基本信息。 关卡信息文件为```Assets/#Template/[Scenes]```下的```SceneData```
 
-![level_data](img/template/13.png)
+![level_data](img/template/90.png)
 
 * Level Title：关卡名
 * Sound Track：关卡音乐
@@ -108,12 +106,15 @@
 ## 五、初识线与跟随相机
 ### 线
 #### 面板数据
-![player_script](img/template/17.png)
+
+![player_script](img/template/89.png)
 
 * Level Data：关卡信息文件
 * Scene Camera：相机
 * Scene Light：定向光源
 * Character Material：线使用的材质
+* Character Rigidbody：线的刚体
+* Character Collider：线的碰撞
 * Start Position：线的初始位置
 * First Direction：线的第一朝向
 * Second Direction：线的第二朝向
@@ -175,11 +176,11 @@
 
 ![import_osu](img/template/5.png)
 
-成功导入后，将其拖入位于 **LevelHolder** 上的 **Score Reader** 的 **Score** 中
+成功导入后，将其拖入位于 **LevelHolder** 上的 **Beatmap Reader** 的 **Beatmap** 中
 
-![score_reader](img/template/6.png)
+![score_reader](img/template/92.png)
 
-之后，点击 **Create Guideline Taps By Score** 按钮即可生成引导线。实际生成可能存在误差，可通过修改Offset参数解决问题
+之后，点击 **Create Guideline Taps By Beatmap** 按钮即可生成引导线。实际生成可能存在误差，可通过修改Offset参数解决问题
 
 如谱面数据有所更改，可点击 **Reload Hit Time** 重新加载
 
@@ -191,9 +192,9 @@
 **注：铺设完成后需禁用或移除代码**
 
 ### 启用引导线
-铺设完成后，在 **LevelHolder** 上的 **Guideline Manager** 的 **Box Holder** 中，选择引导线的父物体
+铺设完成后，在 **LevelHolder** 上的 **Guideline Manager** 的 **Guideline Tap Holder** 中，选择引导线的父物体
 
-![select_guideline](img/template/8.png)
+![select_guideline](img/template/93.png)
 
 选择后，启动播放，即可看到画面左侧出现了开启引导线的按钮。点击即可启用引导线
 
@@ -207,7 +208,8 @@
 **注：启用自动播放后，线将无法通过点击转弯。且引导线也不会被触发**
 
 ### 其他参数的使用
-![guideline_manager](img/template/11.png)
+
+![guideline_manager](img/template/94.png)
 
 * Colors：引导线颜色预设。可自行添加新的颜色预设
 * Line Gap：线与框间的距离。默认为0.2，可自行按需修改
@@ -304,17 +306,20 @@
 ### 线下落与跳跃轨迹预测
 下落与跳跃轨迹预测器，即 **TrailPredictor** ，从Project窗口拖出即可使用。使用时，将其放置于线下落或起跳的位置，调整相关数据，即可使用
 
-![trail_predictor](img/template/25.png)
+![trail_predictor](img/template/82.png)
 
-* Line Renderer：轨迹绘制组件
-* Player Speed：线的速度
-* Force：跳跃力度。为0时即为下落
-* Distance：绘制距离
-* Accuracy：绘制精度。数值越大，分段越少
+* Resolution：轨迹绘制精度
+* Render Distance：绘制距离
+* Trail Color：轨迹绘制颜色
+* Hit Color：落点绘制颜色
+* Horizontal Speed：线的速度
+* Vertical Impulse：使线跳跃的冲量大小。为0时即为下落轨迹预测
 
-![trail_predictor](img/template/26.png)
+![trail_predictor](img/template/84.png)
 
-**注：不再使用后建议将其删除，避免后续出现其他问题**
+**注：使用时建议将标记位置的薄片放在线离开地面处或紧贴跳跃触发器以减少误差。由于线的碰撞体积、电脑性能、操作帧率等多种因素影响，预测落点可能与实际落点位置存在微小误差**
+
+![trail_predictor_use](img/template/83.png)
 
 ## 九、收集物、检查点与金字塔
 ### 收集物
@@ -403,19 +408,15 @@
 ### 更改触发器颜色
 触发器面板上有 **Trigger Renderer** 代码，有以下设置可供更改：
 
-![trigger_display](img/template/38.png)
+![trigger_display](img/template/95.png)
 
-* Render Box：是否显示触发器盒体
-* Render Wire：是否显示触发器边框
 * Box Color：触发器盒体颜色
 * Wire Color：触发器边框颜色
-
-如需更改触发器颜色，只需修改 **Box Color** 和 **Wire Color** 即可
 
 ### 添加代码
 在触发器面板下，有 **Add Component** 按钮，点击并搜索要添加的代码，然后点击目标代码，即可添加
 
-![trigger_add](img/template/39.png)
+![trigger_add](img/template/96.png)
 
 **注：触发器面板上的其他组件无需修改**
 
@@ -638,9 +639,9 @@
 ### Jump
 用于使线跳跃
 
-![jump_trigger](img/template/59.png)
+![jump_trigger](img/template/81.png)
 
-* Power：跳跃力度
+* Impulse：使线跳跃的竖直方向的冲量
 * Change Direction：是否使线在起跳的瞬间转向
 
 ### Kill Player
@@ -819,7 +820,16 @@
 ### 材质创建建议
 创建普通材质时，使用```Dancing Line Fanmade/Standard/Color``` Shader
 
+![material_normal](img/template/87.png)
+
 创建透明材质时，使用```Dancing Line Fanmade/Standard/Transparent``` Shader
+
+![material_alpha](img/template/88.png)
+
+### 模板使用手册入口
+单击菜单栏上 **Template** 选项，然后点击 **Tutorial** 选项，即可打开当前教程页面
+
+![tutorial](img/template/86.png)
 
 *****
 教程至此结束

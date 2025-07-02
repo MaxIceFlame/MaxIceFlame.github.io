@@ -1,4 +1,4 @@
-# MaxLine - Skin
+# MaxLine - Skins
 *****
 ## Skin list
 |    Name    |                 Version                  |

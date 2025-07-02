@@ -6,7 +6,7 @@
 ### Producer
 Max Studio
 
-### Technical Support
+### Technical Supports
 Summer of Orange
 
 Feng Yan
@@ -17,16 +17,18 @@ Jim Tsai
 
 MaxIceFlame
 
-MaxBlazeRes
+MaxBlazeResFire
 
 Kedit_W
 
-### Translator
+### Translators
 :flag_vn: Vietnamese
 
 Bell
 
 Fitzgerald
+
+SplashTree1015
 
 Top Finger
 
@@ -103,7 +105,7 @@ Jim Tsai
 
 Zutek 3134
 
-#### Partner
+#### Partners
 Fire Cloud Studio
 
 Sky Cloud Studio
@@ -131,4 +133,4 @@ Z1029
 **This game is a fanmade of "Dancing Line". The original game copyright belongs to MINIMAX**
 
 ## Game OST
-![music](img/music.png) [跳舞的线饭制游戏「MaxLine」官方原声](https://music.163.com/djradio?id=1004185369 "NetEase Cloud Music")
+![music](img/music.png) [MaxLine Official Game OST](https://music.163.com/djradio?id=1004185369 "NetEase Cloud Music")
