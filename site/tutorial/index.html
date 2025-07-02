@@ -76,7 +76,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#472" class="md-skip">
+        <a href="#476" class="md-skip">
           跳转至
         </a>
       
@@ -1341,6 +1341,15 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#_59" class="md-nav__link">
+    <span class="md-ellipsis">
+      模板使用手册入口
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -2459,6 +2468,15 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#_59" class="md-nav__link">
+    <span class="md-ellipsis">
+      模板使用手册入口
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -2479,7 +2497,7 @@
                   
 
 
-<h1 id="472">冰焰模板 4.7.2 使用手册<a class="headerlink" href="#472" title="Permanent link">&para;</a></h1>
+<h1 id="476">冰焰模板 4.7.6 使用手册<a class="headerlink" href="#476" title="Permanent link">&para;</a></h1>
 <hr />
 <ul>
 <li><strong>本页面将会介绍模板的使用方法。Unity基本操作本页面不予讲解，如遇问题请自行查询和解决。本教程适用于最新版模板</strong></li>
@@ -2507,22 +2525,20 @@
 <p><strong>注：如无特别需求，除地面外其他物体不可随意删除</strong></p>
 <h3 id="_4">特别说明<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h3>
 <p>在 <strong>Scene</strong> 物体上，有已经放好的 <strong>Playable Director</strong> 和 <strong>Time Scale</strong></p>
-<p><img alt="scene_intro" src="../img/template/78.png" /></p>
 <h4 id="playable-director">Playable Director<a class="headerlink" href="#playable-director" title="Permanent link">&para;</a></h4>
 <p>此为场景的时间线</p>
 <p><img alt="scene_timeline" src="../img/template/80.png" /></p>
 <h4 id="time-scale">Time Scale<a class="headerlink" href="#time-scale" title="Permanent link">&para;</a></h4>
 <p>用于更改播放的倍速</p>
-<p><img alt="scene_time_scale" src="../img/template/79.png" /></p>
+<p><img alt="scene_time_scale" src="../img/template/91.png" /></p>
 <ul>
-<li>Key：使用和禁用倍速播放的按键</li>
-<li>Enabled Value：加速倍速。默认为1.5，最低为0，最高为3</li>
-<li>Disabled Value：初始倍速。默认为1，最低为0，最高为3</li>
+<li>Key：启用和禁用倍速播放的按键</li>
+<li>Value：加速倍速。默认为1.5，最低为0，最高为3</li>
 </ul>
 <p><strong>注：此代码仅在编辑器内可用</strong></p>
 <h2 id="_5">三、预制物体介绍<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h2>
 <h3 id="assetstemplate"><code>Assets/#Template</code>下<a class="headerlink" href="#assetstemplate" title="Permanent link">&para;</a></h3>
-<p><img alt="prefabs_template" src="../img/template/3.png" /></p>
+<p><img alt="prefabs_template" src="../img/template/85.png" /></p>
 <ul>
 <li>[Animators]：用于存放帧动画的文件夹</li>
 <li>[Materials]：用于存放材质的文件夹</li>
@@ -2561,7 +2577,7 @@
 <hr />
 <h2 id="_6">四、关卡初设置<a class="headerlink" href="#_6" title="Permanent link">&para;</a></h2>
 <p>在开始制作关卡前，需设置好关卡的一些基本信息。 关卡信息文件为<code>Assets/#Template/[Scenes]</code>下的<code>SceneData</code></p>
-<p><img alt="level_data" src="../img/template/13.png" /></p>
+<p><img alt="level_data" src="../img/template/90.png" /></p>
 <ul>
 <li>Level Title：关卡名</li>
 <li>Sound Track：关卡音乐</li>
@@ -2577,12 +2593,14 @@
 <h2 id="_7">五、初识线与跟随相机<a class="headerlink" href="#_7" title="Permanent link">&para;</a></h2>
 <h3 id="_8">线<a class="headerlink" href="#_8" title="Permanent link">&para;</a></h3>
 <h4 id="_9">面板数据<a class="headerlink" href="#_9" title="Permanent link">&para;</a></h4>
-<p><img alt="player_script" src="../img/template/17.png" /></p>
+<p><img alt="player_script" src="../img/template/89.png" /></p>
 <ul>
 <li>Level Data：关卡信息文件</li>
 <li>Scene Camera：相机</li>
 <li>Scene Light：定向光源</li>
 <li>Character Material：线使用的材质</li>
+<li>Character Rigidbody：线的刚体</li>
+<li>Character Collider：线的碰撞</li>
 <li>Start Position：线的初始位置</li>
 <li>First Direction：线的第一朝向</li>
 <li>Second Direction：线的第二朝向</li>
@@ -2638,17 +2656,17 @@
 <h4 id="osu">方法一：导入osu!谱面生成<a class="headerlink" href="#osu" title="Permanent link">&para;</a></h4>
 <p>先从osu!中导出你制作的谱面，将导出的.osz文件的后缀名更改为.zip，然后解压并得到.osu文件。接着将.osu文件的后缀名改为.txt，并导入工程</p>
 <p><img alt="import_osu" src="../img/template/5.png" /></p>
-<p>成功导入后，将其拖入位于 <strong>LevelHolder</strong> 上的 <strong>Score Reader</strong> 的 <strong>Score</strong> 中</p>
-<p><img alt="score_reader" src="../img/template/6.png" /></p>
-<p>之后，点击 <strong>Create Guideline Taps By Score</strong> 按钮即可生成引导线。实际生成可能存在误差，可通过修改Offset参数解决问题</p>
+<p>成功导入后，将其拖入位于 <strong>LevelHolder</strong> 上的 <strong>Beatmap Reader</strong> 的 <strong>Beatmap</strong> 中</p>
+<p><img alt="score_reader" src="../img/template/92.png" /></p>
+<p>之后，点击 <strong>Create Guideline Taps By Beatmap</strong> 按钮即可生成引导线。实际生成可能存在误差，可通过修改Offset参数解决问题</p>
 <p>如谱面数据有所更改，可点击 <strong>Reload Hit Time</strong> 重新加载</p>
 <h4 id="_15">方法二：手动铺设引导线<a class="headerlink" href="#_15" title="Permanent link">&para;</a></h4>
 <p>在场景内任意物体上添加代码 <strong>Guideline Tap Generator</strong> 代码，播放场景，即可在点击时生成引导线。完成后，复制引导线的父物体，结束播放，再粘贴即可</p>
 <p><img alt="guideline_generator" src="../img/template/7.png" /></p>
 <p><strong>注：铺设完成后需禁用或移除代码</strong></p>
 <h3 id="_16">启用引导线<a class="headerlink" href="#_16" title="Permanent link">&para;</a></h3>
-<p>铺设完成后，在 <strong>LevelHolder</strong> 上的 <strong>Guideline Manager</strong> 的 <strong>Box Holder</strong> 中，选择引导线的父物体</p>
-<p><img alt="select_guideline" src="../img/template/8.png" /></p>
+<p>铺设完成后，在 <strong>LevelHolder</strong> 上的 <strong>Guideline Manager</strong> 的 <strong>Guideline Tap Holder</strong> 中，选择引导线的父物体</p>
+<p><img alt="select_guideline" src="../img/template/93.png" /></p>
 <p>选择后，启动播放，即可看到画面左侧出现了开启引导线的按钮。点击即可启用引导线</p>
 <p><img alt="guideline_button" src="../img/template/9.png" /></p>
 <h3 id="_17">启用自动播放<a class="headerlink" href="#_17" title="Permanent link">&para;</a></h3>
@@ -2656,7 +2674,7 @@
 <p><img alt="guideline_autoplay" src="../img/template/10.png" /></p>
 <p><strong>注：启用自动播放后，线将无法通过点击转弯。且引导线也不会被触发</strong></p>
 <h3 id="_18">其他参数的使用<a class="headerlink" href="#_18" title="Permanent link">&para;</a></h3>
-<p><img alt="guideline_manager" src="../img/template/11.png" /></p>
+<p><img alt="guideline_manager" src="../img/template/94.png" /></p>
 <ul>
 <li>Colors：引导线颜色预设。可自行添加新的颜色预设</li>
 <li>Line Gap：线与框间的距离。默认为0.2，可自行按需修改</li>
@@ -2831,16 +2849,18 @@
 </table>
 <h3 id="_25">线下落与跳跃轨迹预测<a class="headerlink" href="#_25" title="Permanent link">&para;</a></h3>
 <p>下落与跳跃轨迹预测器，即 <strong>TrailPredictor</strong> ，从Project窗口拖出即可使用。使用时，将其放置于线下落或起跳的位置，调整相关数据，即可使用</p>
-<p><img alt="trail_predictor" src="../img/template/25.png" /></p>
+<p><img alt="trail_predictor" src="../img/template/82.png" /></p>
 <ul>
-<li>Line Renderer：轨迹绘制组件</li>
-<li>Player Speed：线的速度</li>
-<li>Force：跳跃力度。为0时即为下落</li>
-<li>Distance：绘制距离</li>
-<li>Accuracy：绘制精度。数值越大，分段越少</li>
+<li>Resolution：轨迹绘制精度</li>
+<li>Render Distance：绘制距离</li>
+<li>Trail Color：轨迹绘制颜色</li>
+<li>Hit Color：落点绘制颜色</li>
+<li>Horizontal Speed：线的速度</li>
+<li>Vertical Impulse：使线跳跃的冲量大小。为0时即为下落轨迹预测</li>
 </ul>
-<p><img alt="trail_predictor" src="../img/template/26.png" /></p>
-<p><strong>注：不再使用后建议将其删除，避免后续出现其他问题</strong></p>
+<p><img alt="trail_predictor" src="../img/template/84.png" /></p>
+<p><strong>注：使用时建议将标记位置的薄片放在线离开地面处或紧贴跳跃触发器以减少误差。由于线的碰撞体积、电脑性能、操作帧率等多种因素影响，预测落点可能与实际落点位置存在微小误差</strong></p>
+<p><img alt="trail_predictor_use" src="../img/template/83.png" /></p>
 <h2 id="_26">九、收集物、检查点与金字塔<a class="headerlink" href="#_26" title="Permanent link">&para;</a></h2>
 <h3 id="_27">收集物<a class="headerlink" href="#_27" title="Permanent link">&para;</a></h3>
 <p>收集物，即 <strong>Gem</strong> ，从Project窗口拖出即可使用。使用时，将其放置在线所经过的路上即可</p>
@@ -2911,17 +2931,14 @@
 <p><img alt="trigger_place" src="../img/template/37.png" /></p>
 <h3 id="_31">更改触发器颜色<a class="headerlink" href="#_31" title="Permanent link">&para;</a></h3>
 <p>触发器面板上有 <strong>Trigger Renderer</strong> 代码，有以下设置可供更改：</p>
-<p><img alt="trigger_display" src="../img/template/38.png" /></p>
+<p><img alt="trigger_display" src="../img/template/95.png" /></p>
 <ul>
-<li>Render Box：是否显示触发器盒体</li>
-<li>Render Wire：是否显示触发器边框</li>
 <li>Box Color：触发器盒体颜色</li>
 <li>Wire Color：触发器边框颜色</li>
 </ul>
-<p>如需更改触发器颜色，只需修改 <strong>Box Color</strong> 和 <strong>Wire Color</strong> 即可</p>
 <h3 id="_32">添加代码<a class="headerlink" href="#_32" title="Permanent link">&para;</a></h3>
 <p>在触发器面板下，有 <strong>Add Component</strong> 按钮，点击并搜索要添加的代码，然后点击目标代码，即可添加</p>
-<p><img alt="trigger_add" src="../img/template/39.png" /></p>
+<p><img alt="trigger_add" src="../img/template/96.png" /></p>
 <p><strong>注：触发器面板上的其他组件无需修改</strong></p>
 <h2 id="_33">十一、相机代码的使用与时间动画的制作<a class="headerlink" href="#_33" title="Permanent link">&para;</a></h2>
 <h3 id="_34">使用相机代码<a class="headerlink" href="#_34" title="Permanent link">&para;</a></h3>
@@ -3103,9 +3120,9 @@
 </ul>
 <h3 id="jump">Jump<a class="headerlink" href="#jump" title="Permanent link">&para;</a></h3>
 <p>用于使线跳跃</p>
-<p><img alt="jump_trigger" src="../img/template/59.png" /></p>
+<p><img alt="jump_trigger" src="../img/template/81.png" /></p>
 <ul>
-<li>Power：跳跃力度</li>
+<li>Impulse：使线跳跃的竖直方向的冲量</li>
 <li>Change Direction：是否使线在起跳的瞬间转向</li>
 </ul>
 <h3 id="kill-player">Kill Player<a class="headerlink" href="#kill-player" title="Permanent link">&para;</a></h3>
@@ -3244,7 +3261,12 @@
 <p><img alt="quality_display" src="../img/template/77.png" /></p>
 <h3 id="_58">材质创建建议<a class="headerlink" href="#_58" title="Permanent link">&para;</a></h3>
 <p>创建普通材质时，使用<code>Dancing Line Fanmade/Standard/Color</code> Shader</p>
+<p><img alt="material_normal" src="../img/template/87.png" /></p>
 <p>创建透明材质时，使用<code>Dancing Line Fanmade/Standard/Transparent</code> Shader</p>
+<p><img alt="material_alpha" src="../img/template/88.png" /></p>
+<h3 id="_59">模板使用手册入口<a class="headerlink" href="#_59" title="Permanent link">&para;</a></h3>
+<p>单击菜单栏上 <strong>Template</strong> 选项，然后点击 <strong>Tutorial</strong> 选项，即可打开当前教程页面</p>
+<p><img alt="tutorial" src="../img/template/86.png" /></p>
 <hr />
 <p>教程至此结束</p>
 
