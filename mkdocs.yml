@@ -26,6 +26,7 @@ nav:
   - 主页:
       - {"首页":"index.md"}
       - 跳舞的线:
+        - {"管理条例":"regulation.md"}
         - {"饭制模板":"template.md"}
         - {"模板手册":"tutorial.md"}
         - {"相机跟随":"following.md"}
