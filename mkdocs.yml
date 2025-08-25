@@ -12,7 +12,10 @@ theme:
     - navigation.sections
     - navigation.tabs
     - navigation.top
+    - navigation.instant.prefetch
+    - navigation.instant.progress
     - toc.follow
+    - content.code.copy
   palette:
     - scheme: default
       toggle:
@@ -30,6 +33,8 @@ nav:
         - {"饭制模板":"template.md"}
         - {"模板手册":"tutorial.md"}
         - {"相机跟随":"following.md"}
+      - 其他:
+        - {"电子木鱼":"fish.md"}
   - MaxLine Wiki:
       - {"介绍":"ml_wiki/intro.md"}
       - {"关卡":"ml_wiki/level.md"}
@@ -81,3 +86,22 @@ plugins:
         - locale: en
           name: English
           build: true
+          nav_translations:
+            主页: Home
+            首页: Home
+            跳舞的线: Dancing Line
+            管理条例: Regulations
+            饭制模板: DLFM Template
+            模板手册: Template User Manual
+            相机跟随: Camera Follow
+            介绍: Introduction
+            关卡: Levels
+            皮肤: Skins
+            成就: Achievements
+            日志: Change Logs
+            关于: About
+            其他: Other
+            电子木鱼: Electronic Wooden Fish
+          site_name: MaxIceFlame's Blog
+          site_author: MaxIceFlame
+  - git-revision-date-localized

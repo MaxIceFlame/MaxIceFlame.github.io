@@ -1,53 +1,60 @@
 # MaxLine - Levels
 *****
+![cur_menu](img/menu_cur.png)
 ## Level list
-
+>Sorted by first letter
+### Playable levels
 |           Title            |                        Music                         |                 Designer(s)                  |
 |:--------------------------:|:----------------------------------------------------:|:--------------------------------------------:|
-|          Preface           |                    Fairo - Utopia                    |                 MaxIceFlame                  |
-|          Starting          |                   Fairo - Prologue                   |                 MaxIceFlame                  |
-|           Ocean            |                 Fairo - Ocean Remix                  |            MaxIceFlame<br/>qqxqqx            |
-|            Rain            |                  Brian Crain - rain                  |                 MaxIceFlame                  |
-|      Beethoven Virus       |           Diana Boncheva - Beethoven Virus           |            qqxqqx<br/>MaxIceFlame            |
-|           Cloud            |             Cheetah Mobile Games - Cloud             |                    lyckay                    |
-|           Gloom            |                    theo5970 - 용서                     |        Mafnero<br/>FIRE CLOUD STUDIO         |
-|          Dreamer           |                Black Violin - Dreamer                |            qqxqqx<br/>MaxIceFlame            |
-|           Nature           |         Alfaiate Franz - O Filtro dos Sonhos         |                 MaxIceFlame                  |
-|        Countryside         |        Alan Mackin - The Plain [Disco Remix]         |                 MaxIceFlame                  |
-|   Beach \[Melodic House]   |               Fairo - Summer Prologue                |            qqxqqx<br/>MaxIceFlame            |
-|           School           |                   RADWIMPS - かたわれ时                   |                    lyckay                    |
-|           Space            | Yann Tiersen - Comptine D'un Autre Été, L'après-Midi |                 MaxIceFlame                  |
-| Drizzle \[Soft Orchestral] |              初云CLoudie - The Rain Remix              |                 Hua Hua Pig                  |
-|  The Discovery - Chronos   |  Chronos - The Discovery [VIP Mix feat. Max Studio]  |         MaxBlazeRes<br/>MaxIceFlame          |
 |        Anniversary         |      MAPLEX / 098765_ - MaxLine 1st Anniversary      | GP0108<br/>lyckay<br/>MaxIceFlame<br/>qqxqqx |
-|           Empire           |        Two Steps From Hell - Empire Of Angels        |             Mandroid<br/>GP0108              |
-|           Huaji            |                     MöSS - 23:33                     |           Lusaslan<br/>MaxIceFlame           |
-|        Rainy Night         |                      四季音色 - 雨夜                       |                  Pumpkin_Z                   |
-|        Desert Maze         |             零燚01 - The Maze [零燚01 Remix]             |                    qqxqqx                    |
 |         Apocalypse         |               Peter Roe - Last Reunion               |            MaxIceFlame<br/>qqxqqx            |
-|         In the End         |             Tommee Profitt - In the End              |         raw_chicken<br/>MaxIceFlame          |
-|     Head in the Clouds     |              Luke Richards - Tall Tales              |                  寒鹰丶SHADOW                   |
-|           Valley           |                MisterPan - The Valley                |                  MisterPan                   |
-| Strawberries & Cigarettes  |   Yutin - Strawberries & Cigarettes [Yutin Remix]    |              qqxqqx<br/>Balabaj              |
-|          MARENOL           |                    LeaF - MARENOL                    |                     尘落南丘                     |
-|       Christmas Snow       |             Chronos - The Christmas Snow             |                 Munity Twin                  |
+|   Beach \[Melodic House]   |               Fairo - Summer Prologue                |            qqxqqx<br/>MaxIceFlame            |
+|      Beethoven Virus       |           Diana Boncheva - Beethoven Virus           |            qqxqqx<br/>MaxIceFlame            |
 |         Chemistry          |               Li Ga Yb - The Chemistry               |                   Li Ga Yb                   |
+|       Christmas Snow       |             Chronos - The Christmas Snow             |                 Munity Twin                  |
+|           Cloud            |             Cheetah Mobile Games - Cloud             |                    lyckay                    |
+|        Countryside         |        Alan Mackin - The Plain [Disco Remix]         |                 MaxIceFlame                  |
+|        Desert Maze         |             零燚01 - The Maze [零燚01 Remix]             |                    qqxqqx                    |
+|          Dreamer           |                Black Violin - Dreamer                |            qqxqqx<br/>MaxIceFlame            |
+| Drizzle \[Soft Orchestral] |              初云CLoudie - The Rain Remix              |                 Hua Hua Pig                  |
+|           Empire           |        Two Steps From Hell - Empire Of Angels        |             Mandroid<br/>GP0108              |
+|       Fire of Anger        |       Falcom Sound Team jdk - To be continued!       |                    lyckay                    |
+|     Firework Paradise      |                      灰澈 - 花火断想                       |                   STAR_EVE                   |
+|         Food Party         |               Tobu - Candyland pt. II                |    Suga Jahsin<br/>Hua Hua Pig<br/>GP0108    |
+|           Gloom            |                    theo5970 - 용서                     |        Mafnero<br/>FIRE CLOUD STUDIO         |
+|     Head in the Clouds     |              Luke Richards - Tall Tales              |                  寒鹰丶SHADOW                   |
 |          Holidays          |               千坂 / Cyan Lpegd - Moment               |                    lyckay                    |
 |         Hollowness         |              House Rulez - 37th Avenue               |                   CIAD233                    |
 |  Hollowness \[Redesigned]  |              House Rulez - 37th Avenue               |          CIAD233  <br/>MaxIceFlame           |
-|         Fireworks          |                      灰澈 - 花火断想                       |                   STAR_EVE                   |
-|        Mathematics         |                Li Ga Yb - Mathematics                |           Li Ga Yb<br/>MaxIceFlame           |
+|           Huaji            |                     MöSS - 23:33                     |           Lusaslan<br/>MaxIceFlame           |
+|         In the End         |             Tommee Profitt - In the End              |         raw_chicken<br/>MaxIceFlame          |
 |  Jupiter \[Trance Remix]   |                Li Ga Yb - The Jupiter                |                   Li Ga Yb                   |
-|       Fire of Anger        |       Falcom Sound Team jdk - To be continued!       |                    lyckay                    |
-|         Food Party         |               Tobu - Candyland pt. II                |    Suga Jahsin<br/>Hua Hua Pig<br/>GP0108    |
-|        Coming Soon         |                 Fairo - Coming Soon                  |                      /                       |
+|          MARENOL           |                    LeaF - MARENOL                    |                     尘落南丘                     |
+|        Mathematics         |                Li Ga Yb - Mathematics                |           Li Ga Yb<br/>MaxIceFlame           |
+|           Nature           |         Alfaiate Franz - O Filtro dos Sonhos         |                 MaxIceFlame                  |
+|           Ocean            |                 Fairo - Ocean Remix                  |            MaxIceFlame<br/>qqxqqx            |
+|          Preface           |                    Fairo - Utopia                    |                 MaxIceFlame                  |
+|            Rain            |                  Brian Crain - rain                  |                 MaxIceFlame                  |
+|        Rainy Night         |                      四季音色 - 雨夜                       |                  Pumpkin_Z                   |
+|           School           |                   RADWIMPS - かたわれ时                   |                    lyckay                    |
+|           Space            | Yann Tiersen - Comptine D'un Autre Été, L'après-Midi |                 MaxIceFlame                  |
+|          Starting          |                   Fairo - Prologue                   |                 MaxIceFlame                  |
+| Strawberries & Cigarettes  |   Yutin - Strawberries & Cigarettes [Yutin Remix]    |              qqxqqx<br/>Balabaj              |
+|  The Discovery - Chronos   |  Chronos - The Discovery [VIP Mix feat. Max Studio]  |         MaxBlazeRes<br/>MaxIceFlame          |
+|           Valley           |                MisterPan - The Valley                |                  MisterPan                   |
+|        White Realm         |             ¿Téo? - Ascended Vibrations              |                    CXY-辰                     |
+
+### Unplayable level
+|    Title    |        Music        |
+|:-----------:|:-------------------:|
+| Coming Soon | Fairo - Coming Soon |
 
 ## Search
 In MaxLine, players can find levels quickly by searching
 
-Search was added in V1.3.5. The purpose was to make it more convenient to quickly find the level they want to play in increasing levels for players, instead of wasting too much time finding levels
+Search function was added in v1.3.5. The purpose was to make it more convenient to quickly find the level they want to play in increasing levels for players, instead of wasting too much time finding levels
 
-![search1](img/search1.png)
+![search1](img/search_cur.png)
 <body>
     <span style="color: #888888; ">
         <i>
@@ -57,7 +64,7 @@ Search was added in V1.3.5. The purpose was to make it more convenient to quickl
 </body>
 
 ## Trivia
-* Before V1.1.5, Starting was named as "The Prologue" and it was the first level in game. Preface was added in V1.1.5 and it replaced The Prologue. Then, The Prologue was renamed as "The Starting", and it became the second level in game
+* Before v1.1.5, Starting was named as "The Prologue" and it was the first level in game. Preface was added in v1.1.5 and it replaced The Prologue. Then, The Prologue was renamed as "The Starting", and it became the second level in game
 * Starting was not as easy as it is now. Starting was scaled down difficulty for many times and gradually became what it looks like now
 * In the early design of Ocean, it was planned that the line would disappear after 50% and become a ball, in order to be a homage to "Dancing Ball". This plan was abandoned later
 * Although the level was re-added in later version, the original intention of adding Rain was to take the place of The Explore
@@ -109,11 +116,29 @@ Search was added in V1.3.5. The purpose was to make it more convenient to quickl
     </span>
 </body>
 
+![menu4](img/menu4.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^The forth design of level menu
+        </i>
+    </span>
+</body>
+
+![menu5](img/menu5.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^The fifth design of level menu
+        </i>
+    </span>
+</body>
+
 ![soon1](img/soon1.png)
 <body>
     <span style="color: #888888; ">
         <i>
-            ^The first design of Coming Soon ("尽情" is a typo in Chinese)
+            ^The first design of Coming Soon ("尽情" was a typo)
         </i>
     </span>
 </body>
@@ -149,7 +174,34 @@ Search was added in V1.3.5. The purpose was to make it more convenient to quickl
 <body>
     <span style="color: #888888; ">
         <i>
-            ^The original design of search page
+            ^The first design of search page
+        </i>
+    </span>
+</body>
+
+![search3](img/search1.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^The second design of search page
+        </i>
+    </span>
+</body>
+
+![search4](img/search3.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^The third design of search page
+        </i>
+    </span>
+</body>
+
+![search5](img/search4.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^The forth design of search page
         </i>
     </span>
 </body>

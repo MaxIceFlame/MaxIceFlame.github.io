@@ -38,7 +38,7 @@ Manatite
 
 Real Nath
 
-:flag_jp: Japanese
+:flag_jp: Japanese (Removed)
 
 Feng Yan
 
@@ -67,6 +67,8 @@ dogdie233
 鸡块
 
 Jim Tsai
+
+星雨似剑
 
 #### Music
 ChronosAeon
@@ -112,6 +114,8 @@ Sky Cloud Studio
 
 WINDER Studio
 
+XGames Studio
+
 #### Other
 BlockZ
 
@@ -131,6 +135,11 @@ Z1029
 **The copyright of the music used in the game belong to their copyright owners**
 
 **This game is a fanmade of "Dancing Line". The original game copyright belongs to MINIMAX**
+
+## Disclaimers
+**This game is of a non-commercial nature and shall not be used for any form of monetary profit**
+
+**If you insist on publishing this game on any platform and engaging in any form of monetary profit, you shall bear all the adverse effects and copyright disputes arising from such actions. All members of Max Studio shall not assume any liability thereof**
 
 ## Game OST
 ![music](img/music.png) [MaxLine Official Game OST](https://music.163.com/djradio?id=1004185369 "NetEase Cloud Music")

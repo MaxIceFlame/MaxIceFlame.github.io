@@ -1,16 +1,22 @@
 # MaxLine - Introduction
 *****
-## Introduction
+## Game Introduction
 MaxLine is a Dancing Line Fanmade game made by Max Studio based on Dancing Line
 
 ![icon](img/game1.png)
 
-## Information
-Release date: February 4th, 2020
-
-Update date: July 2nd, 2025
-
-Latest version: V1.5.0
+## Game Information
+|      Term      |                           Information                           |
+|:--------------:|:---------------------------------------------------------------:|
+|      Name      |                             MaxLine                             |
+| Abbreviations  |                            ML<br/>麻辣                            |
+|    Producer    |                           Max Studio                            |
+| Original work  |                          Dancing Line                           |
+| Latest version |                             v2.0.0                              |
+|  Release date  |                       February 4th, 2020                        |
+|  Update date   |                        August 25th, 2025                        |
+|  Game engine   |                  [Unity](https://unity.com/cn)                  |
+|  Game website  | [DL RS Group Official Website](https://chinadlrs.com/app/?id=6) |
 
 ## Download
 ![qq](img/qq.png)
@@ -28,6 +34,16 @@ Latest version: V1.5.0
 
 ![youtube](img/youtube.png)
 [YouTube Official](https://www.youtube.com/@MaxStudioOfficial "YouTube")
+
+## Join Us
+![qq](img/qq.png)
+[MaxLine Official QQ Group](https://qm.qq.com/q/DbKb0gpGN2 "QQ")
+
+![qq2](img/qq2.png)
+[MaxLine Game Discussion QQ Guild](https://pd.qq.com/s/f5mvymy61 "QQ Guild")
+
+![discord](img/discord.png)
+[Dancing Line - Fanmades Community](https://discord.gg/qrPeHegG2k "Discord")
 
 ## Trivia
 * The name of the game, "MaxLine", first appeared in 2018 in MaxIceFlame's level, The Piano

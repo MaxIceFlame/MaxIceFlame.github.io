@@ -6,12 +6,19 @@ MaxLine是由Max Studio开发的一款以《跳舞的线》为蓝本的饭制游
 ![icon](img/game1.png)
 
 ## 游戏信息
-发布日期：2020年2月4日
+|  名称  |                        信息                        |
+|:----:|:------------------------------------------------:|
+| 游戏名称 |                     MaxLine                      |
+| 游戏简称 |                    ML<br/>麻辣                     |
+| 制作方  |                    Max Studio                    |
+| 原作品  |                       跳舞的线                       |
+| 最新版本 |                      v2.0.0                      |
+| 发布日期 |                    2020年2月4日                     |
+| 更新日期 |                    2025年8月25日                    |
+| 制作引擎 |          [Unity](https://unity.com/cn)           |
+| 游戏页面 | [DL RS 同人群官方网站](https://chinadlrs.com/app/?id=6) |
 
-更新日期：2025年7月2日
-
-最新版本：V1.5.0
-
+*****
 ## 下载途径
 ![qq](img/qq.png)
 [MaxLine官方交流群](https://qm.qq.com/q/DbKb0gpGN2 "QQ")
@@ -28,6 +35,16 @@ MaxLine是由Max Studio开发的一款以《跳舞的线》为蓝本的饭制游
 
 ![youtube](img/youtube.png)
 [YouTube官方账号](https://www.youtube.com/@MaxStudioOfficial "YouTube")
+
+## 加入我们
+![qq](img/qq.png)
+[MaxLine官方交流群](https://qm.qq.com/q/DbKb0gpGN2 "QQ")
+
+![qq2](img/qq2.png)
+[MaxLine游戏交流频道](https://pd.qq.com/s/f5mvymy61 "QQ频道")
+
+![discord](img/discord.png)
+[Dancing Line - Fanmades Community](https://discord.gg/qrPeHegG2k "Discord")
 
 ## 你知道吗
 * “MaxLine”这个名字最早出现在Max冰焰于2018年制作的关卡钢琴中

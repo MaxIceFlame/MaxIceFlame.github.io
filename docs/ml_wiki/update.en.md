@@ -1,6 +1,35 @@
 # MaxLine - Change Logs
 *****
-## V1.5.0
+## V2.0.0
+Update date: August 25th, 2025
+
+1, Added new level: White Realm
+
+2, Redesigned game UI
+
+3, Optimized music synchronization system
+
+4, Optimized game details
+
+5, Re-sorted the levels
+
+6, Adjusted the position of the first checkpoint in Hollowness \[Redesigned]
+
+7, Adjusted the performance of road in Starting and Nature
+
+8, Renamed Fireworks from its current name to "Firework Paradise"
+
+9, Added the determination of getting new record
+
+10, Added a series of new achievements of "Diamond collector" and "Rich in crown"
+
+11, Removed Japanese translation
+
+12, Bug fixes
+
+13, Other changes
+
+## v1.5.0
 Update date: July 2nd, 2025
 
 1, Added new level: Hollowness \[Redesigned]
@@ -13,12 +42,12 @@ Update date: July 2nd, 2025
 
 5, Other changes
 
-## V1.4.5
+## v1.4.5
 Update date: February 13th, 2025
 
 1, Added the determination of not activated account in login system
 
-## V1.4.4
+## v1.4.4
 Update date: February 4th, 2025
 
 1, Adjusted the collision in Holidays
@@ -29,7 +58,7 @@ Update date: February 4th, 2025
 
 4, Other changes
 
-## V1.4.3
+## v1.4.3
 Update date: November 17th, 2024
 
 1, Fixed the problem of collision in Holidays
@@ -40,7 +69,7 @@ Update date: November 17th, 2024
 
 4, Other changes
 
-## V1.4.2
+## v1.4.2
 Update date: October 13th, 2024
 
 1, Added DL RS GAS Account System
@@ -51,7 +80,7 @@ Update date: October 13th, 2024
 
 4, Other changes
 
-## V1.4.1
+## v1.4.1
 Update date: July 28th, 2024
 
 1, Added new level: Gloom
@@ -70,7 +99,7 @@ Update date: July 28th, 2024
 
 8, Other changes
 
-## V1.4.0
+## v1.4.0
 Update date: June 16th, 2024
 
 1, Added new skins: Stalagmite, Module
@@ -97,7 +126,7 @@ Update date: June 16th, 2024
 
 12, Fixed the incorrect animation resumption in Jupiter
 
-## V1.3.5
+## v1.3.5
 Update date: March 15th, 2024
 
 1, Added new levels: Nature, Food Party, Space
@@ -108,7 +137,7 @@ Update date: March 15th, 2024
 
 4, Added search function
 
-5, Adjusted some of the translations in Vietnamese and Indonesian
+5, Adjusted some translations in Vietnamese and Indonesian
 
 6, Supported more resolutions
 
@@ -130,31 +159,31 @@ Update date: March 15th, 2024
 
 15, Fixed the problem of that the line may leave the right way in some levels
 
-16, Fixed the problem of that the ui would be covered when player died as the scene was transiting
+16, Fixed the problem of that the UI would be covered when player died as the scene was transiting
 
 17, Fixed the problem of that the line would die immediately when it was resumed as it was falling
 
 18, Other changes
 
-## V1.3.4
+## v1.3.4
 Update date: January 31st, 2024
 
 1, Added new level: Jupiter
 
-2, Corrected the composer and title of some levels
+2, Corrected the music composer and name of some levels
 
 3, Bug fixes
 
 4, Other changes
 
-## V1.3.3
+## v1.3.3
 Update date: October 28th, 2023
 
 1, Added new level: Countryside
 
-2, Changed the English title of Exploration to "The Discovery - Chronos"
+2, Changed the English name of Exploration to "The Discovery - Chronos"
 
-3, Supported more resolution ratios
+3, Supported more resolutions
 
 4, Fixed the problem of frame rate locking for Android
 
@@ -166,7 +195,7 @@ Update date: October 28th, 2023
 
 8, Other changes
 
-## V1.3.2
+## v1.3.2
 Update date: February 19th, 2023
 
 1, Added new levels: Rainy Night, Chemistry
@@ -175,7 +204,7 @@ Update date: February 19th, 2023
 
 3, Remade and re-added skin system. Added new skins: Chaos, Snake
 
-4, Remade the ui in level
+4, Redesigned the UI in level
 
 5, Added new option: Water Quality
 
@@ -183,11 +212,11 @@ Update date: February 19th, 2023
 
 7, New death effect now will be shown when the line leaves the right way or fall into water
 
-8, Changed the font in game
+8, Changed the game font
 
 9, Slightly scaled down the difficulty of some levels
 
-10, Optimized the problem of lagging in most of the levels
+10, Optimized the problem of lagging in most levels
 
 11, Adjusted the content in credit
 
@@ -195,31 +224,31 @@ Update date: February 19th, 2023
 
 13, Other changes
 
-## V1.3.1
+## v1.3.1
 Update date: August 6th, 2022
 
 1, Added new levels: Exploration, Hollowness
 
-2, Adjusted the music clip of some levels in menu
+2, Adjusted the music clip of some levels
 
 3, Bug fixes
 
 4, Other changes
 
-## V1.3.0
+## v1.3.0
 Update date: February 2nd, 2022
 
 1, Temporarily removed Christmas Snow
 
-2, Adjusted some ui in game
+2, Adjusted some game UI
 
-3, Reordered the levels
+3, Re-sorted the levels
 
 4, Adjusted the quality option
 
 5, Added the options of Post Processing, Anti-Aliasing and V-Sync
 
-6, Added Japanese, Indonesian and Vietnamese
+6, Added Japanese, Indonesian and Vietnamese translations
 
 7, Scaled down the difficulty of Starting and Huaji
 
@@ -227,18 +256,18 @@ Update date: February 2nd, 2022
 
 9, Other changes
 
-## V1.2.7
+## v1.2.7
 Update date: August 10th, 2021
 
 1, Added new level: Mathematics
 
-2, Reduced the size of the collision of line
+2, Reduced the size of line's collider
 
 3, Bug fixes
 
 4, Other changes
 
-## V1.2.6
+## v1.2.6
 Update date: April 5th, 2021
 
 1, Added new levels: Drizzle, Fire of Anger
@@ -251,7 +280,7 @@ Update date: April 5th, 2021
 
 5, Other changes
 
-## V1.2.5
+## v1.2.5
 Update date: February 24th, 2021
 
 1, Added new levels: Empire, In the End
@@ -260,7 +289,7 @@ Update date: February 24th, 2021
 
 3, Bug fixes
 
-## V1.2.4
+## v1.2.4
 Update date: February 4th, 2021
 
 1, Added new level: Anniversary
@@ -269,7 +298,7 @@ Update date: February 4th, 2021
 
 3, Bug fixes
 
-## V1.2.3
+## v1.2.3
 Update date: December 20th, 2020
 
 1, Added new levels: Cloud, Strawberries & Cigarettes
@@ -278,7 +307,7 @@ Update date: December 20th, 2020
 
 3, Bug fixes
 
-## V1.2.2
+## v1.2.2
 Update date: October 6th, 2020
 
 1, Added new levels: Huaji, Fireworks
@@ -287,12 +316,12 @@ Update date: October 6th, 2020
 
 3, Bug fixes
 
-## V1.2.1
+## v1.2.1
 Update date: August 24th, 2020
 
 1, Added new levels: School, MARENOL
 
-2, Remade the settings
+2, Remade the settings page
 
 3, Added more options
 
@@ -300,26 +329,26 @@ Update date: August 24th, 2020
 
 5, Scaled down the difficulty of Apocalypse
 
-6, Adjusted the position of checkpoint in Apocalypse
+6, Adjusted the positions of checkpoints in Apocalypse
 
-7, Changed the font in game
+7, Changed the game font
 
 8, Bug fixes
 
 9, Other changes
 
-## V1.2.0
+## v1.2.0
 Update date: August 6th, 2020
 
 1, Added new levels: Beach, Rain, Holidays, Valley
 
-2, Remade all the ui in game
+2, Redesigned all UI in game
 
 3, Changed the icon of checkpoint
 
 4, Changed the particles in game
 
-5, Changed the sound of checkpoint
+5, Changed the sound effect of checkpoint
 
 6, Removed "The" in title in English for all levels
 
@@ -331,20 +360,20 @@ Update date: August 6th, 2020
 
 10, Added check and update function
 
-11, Changed the font in game
+11, Changed the game font
 
 12, Bug fixed
 
 13, Other changes
 
-## V1.1.6
+## v1.1.6
 Update date: June 16th, 2020
 
 1, Added new level: The Apocalypse
 
 2, Removed The Explore
 
-3, Adjusted some ui in game
+3, Adjusted some game UI
 
 4, The water now will perform differently in different quality
 
@@ -352,7 +381,7 @@ Update date: June 16th, 2020
 
 6, Other changes
 
-## V1.1.5
+## v1.1.5
 Update date: May 31st, 2020
 
 1, Added new level: The Preface
@@ -371,7 +400,7 @@ Update date: May 31st, 2020
 
 8, Bug fixes
 
-## V1.1.4
+## v1.1.4
 Update date: April 17th, 2020
 
 1, Removed The Funny
@@ -380,14 +409,14 @@ Update date: April 17th, 2020
 
 3, Bug fixes
 
-## V1.1.3
+## v1.1.3
 Update date: April 6th, 2020
 
 1, Added new level: The Ocean
 
 2, Bug fixes
 
-## V1.1.2
+## v1.1.2
 Update date: March 31st, 2020
 
 1, Added secret level: The Funny
@@ -396,11 +425,11 @@ Update date: March 31st, 2020
 
 3, Adjusted the position of some diamonds in The Beethoven Virus
 
-4, Fixed the problems about road in The Dreamer
+4, Fixed the problems of roads in The Dreamer
 
 5, Corrected the mistakes in credit
 
-## V1.1.1
+## v1.1.1
 Update date: March 18th, 2020
 
 1, Added new level: Head in the Clouds
@@ -409,7 +438,7 @@ Update date: March 18th, 2020
 
 3, Bug fixes
 
-## V1.1.0
+## v1.1.0
 Update date: March 1st, 2020
 
 1, Added new levels: The Desert Maze, The Christmas Snow
@@ -418,19 +447,19 @@ Update date: March 1st, 2020
 
 3, Bug fixes
 
-## V1.0.4
+## v1.0.4
 Update date: February 21st, 2020
 
 1, Added more setting options
 
 2, Bug fixes
 
-## V1.0.3
+## v1.0.3
 Update date: February 18th, 2020
 
 1, Bug fixes
 
-## V1.0.2
+## v1.0.2
 Update date: February 12th, 2020
 
 1, Added new level: The Dreamer
@@ -441,14 +470,14 @@ Update date: February 12th, 2020
 
 4, Other changes
 
-## V1.0.1
+## v1.0.1
 Update date: February 5th, 2020
 
 1、Changed the model and music of Coming Soon
 
 2、Bug fixes
 
-## V1.0.0
+## v1.0.0
 Release date: February 4th, 2020
 
 1, Game released

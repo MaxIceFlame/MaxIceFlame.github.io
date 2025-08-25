@@ -7,6 +7,8 @@
 ### 社交账号
 ![qq](img/qq.png) 1327142337
 
+![qq_email](img/email.png) 1327142337@qq.com
+
 ![bili](img/bilibili.png) [哔哩哔哩](https://space.bilibili.com/89919399 "哔哩哔哩")
 
 ![youtube](img/youtube.png) [Youtube](https://www.youtube.com/@maxiceflame_naheeda "Youtube")

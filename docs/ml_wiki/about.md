@@ -38,7 +38,7 @@ Manatite
 
 Real Nath
 
-:flag_jp: 日文
+:flag_jp: 日文（已移除）
 
 枫炎
 
@@ -67,6 +67,8 @@ BluesDawn
 鸡块
 
 Jim Tsai
+
+星雨似剑
 
 #### 音乐
 ChronosAeon
@@ -106,11 +108,13 @@ Jim Tsai
 Zutek 3134
 
 #### 合作伙伴
-Fire Cloud Studio
+火烧云工作室
 
 Sky Cloud Studio
 
 WINDER Studio
+
+游汐工作室
 
 #### 其他
 BlockZ
@@ -131,6 +135,11 @@ Z1029
 **本游戏所使用音乐之版权归属其版权方**
 
 **本游戏为《跳舞的线》饭制游戏。原游戏版权归属米麦互动**
+
+## 免责声明
+**本游戏为非商业性质的游戏，不用作于任何形式的金钱营利**
+
+**若您坚持将本游戏发布至任何平台并进行任何形式的金钱营利，则此行为所造成的任何不良影响及版权纠纷皆由您本人承担，Max Studio全体成员对此不承担任何责任**
 
 ## 游戏原声
 ![music](img/music.png) [跳舞的线饭制游戏「MaxLine」官方原声](https://music.163.com/djradio?id=1004185369 "网易云音乐")

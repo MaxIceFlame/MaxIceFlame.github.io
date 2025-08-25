@@ -1,21 +1,22 @@
 # MaxLine - Skins
 *****
+![cur_skin](img/skin_cur.png)
 ## Skin list
 |    Name    |                 Version                  |
 |:----------:|:----------------------------------------:|
-|   Normal   |                  V1.0.0                  |
-| Headphone  |                  V1.1.2                  |
-|   Paper    |                  V1.1.2                  |
-| Mountains  |                  V1.1.2                  |
-|   Arrow    |                  V1.1.2                  |
-|    Zeus    | V1.1.2<br/>(Not available before V1.1.4) |
-|   Chaos    |                  V1.3.2                  |
-|   Snake    |                  V1.3.2                  |
-| Stalagmite |                  V1.4.0                  |
-|   Module   |                  V1.4.0                  |
+|   Normal   |                  v1.0.0                  |
+| Headphone  |                  v1.1.2                  |
+|   Paper    |                  v1.1.2                  |
+| Mountains  |                  v1.1.2                  |
+|   Arrow    |                  v1.1.2                  |
+|    Zeus    | v1.1.2<br/>(Not available before v1.1.4) |
+|   Chaos    |                  v1.3.2                  |
+|   Snake    |                  v1.3.2                  |
+| Stalagmite |                  v1.4.0                  |
+|   Module   |                  v1.4.0                  |
 
 ## Trivia
-* Zeus was added in V1.1.2, but it was not available before V1.1.4
+* Zeus was added in v1.1.2, but it was not available before v1.1.4
 * The game producer used to consider adding Flying Nimbus, Magic Witch, etc. But it was cancelled due to some reasons
 
 ## Gallery
@@ -33,6 +34,15 @@
     <span style="color: #888888; ">
         <i>
             ^The second design of skin page
+        </i>
+    </span>
+</body>
+
+![skin3](img/skin3.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^The third design of skin page
         </i>
     </span>
 </body>

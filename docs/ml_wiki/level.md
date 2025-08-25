@@ -1,53 +1,60 @@
 # MaxLine - 关卡
 *****
+![cur_menu](img/menu_cur.png)
 ## 关卡列表
-
+>按英文名称首字母排序
+### 可玩关卡
 |         关卡名称         |                         使用音乐                         |                  关卡作者                  |
 |:--------------------:|:----------------------------------------------------:|:--------------------------------------:|
-|          伊始          |                    羽焰辰星 - Utopia                     |                 Max冰焰                  |
-|          开端          |                   羽焰辰星 - Prologue                    |                 Max冰焰                  |
-|          海洋          |                  羽焰辰星 - Ocean Remix                  |            Max冰焰<br/>qqxqqx            |
-|          雨           |                  Brian Crain - rain                  |                 Max冰焰                  |
-|        贝多芬病毒         |           Diana Boncheva - Beethoven Virus           |            qqxqqx<br/>Max冰焰            |
-|          云           |                       猎豹游戏 - 云                       |                 lyckay                 |
-|          抑           |                    theo5970 - 용서                     |     Mafnero<br/>FIRE CLOUD STUDIO      |
-|         橄榄球          |                Black Violin - Dreamer                |            qqxqqx<br/>Max冰焰            |
-|          自然          |         Alfaiate Franz - O Filtro dos Sonhos         |                 Max冰焰                  |
-|          乡野          |                麦金 - 田野 [Disco Remix]                 |                 Max冰焰                  |
-| 海滩 \[Melodic House]  |                羽焰辰星 - Summer Prologue                |            qqxqqx<br/>Max冰焰            |
-|          校园          |                   RADWIMPS - かたわれ时                   |                 lyckay                 |
-|          空间          | Yann Tiersen - Comptine D'un Autre Été, L'après-Midi |                 Max冰焰                  |
-| 霖 \[Soft Orchestral] |              初云CLoudie - The Rain Remix              |                  华华猪                   |
-|          探索          |  Chronos - The Discovery [VIP Mix feat. Max Studio]  |            Max余焰<br/>Max冰焰             |
 |         周年庆          |      MAPLEX / 098765_ - MaxLine 1st Anniversary      | GP0108<br/>lyckay<br/>Max冰焰<br/>qqxqqx |
-|          帝国          |        Two Steps From Hell - Empire Of Angels        |          Mandroid<br/>GP0108           |
-|          滑稽          |                     MöSS - 23:33                     |           Lusaslan<br/>Max冰焰           |
-|          雨夜          |                      四季音色 - 雨夜                       |               Pumpkin_Z                |
-|         沙漠迷宫         |                零燚01 - 迷宫 [零燚01 Remix]                |                 qqxqqx                 |
 |         启示录          |               Peter Roe - Last Reunion               |            Max冰焰<br/>qqxqqx            |
-|      In the End      |             Tommee Profitt - In the End              |         raw_chicken<br/>Max冰焰          |
-|         云端之上         |              Luke Richards - Tall Tales              |               寒鹰丶SHADOW                |
-|          山谷          |                MisterPan - The Valley                |               MisterPan                |
-|        草莓&香烟         |   Yutin - Strawberries & Cigarettes [Yutin Remix]    |            qqxqqx<br/>巴拉巴j             |
-|       MARENOL        |                    LeaF - MARENOL                    |                  尘落南丘                  |
-|         圣诞雪          |             Chronos - The Christmas Snow             |              Munity Twin               |
+| 海滩 \[Melodic House]  |                羽焰辰星 - Summer Prologue                |            qqxqqx<br/>Max冰焰            |
+|        贝多芬病毒         |           Diana Boncheva - Beethoven Virus           |            qqxqqx<br/>Max冰焰            |
 |          化学          |               Li Ga Yb - The Chemistry               |                Li Ga Yb                |
+|         圣诞雪          |             Chronos - The Christmas Snow             |              Munity Twin               |
+|          云           |                       猎豹游戏 - 云                       |                 lyckay                 |
+|          乡野          |                麦金 - 田野 [Disco Remix]                 |                 Max冰焰                  |
+|         沙漠迷宫         |                零燚01 - 迷宫 [零燚01 Remix]                |                 qqxqqx                 |
+|         橄榄球          |                Black Violin - Dreamer                |            qqxqqx<br/>Max冰焰            |
+| 霖 \[Soft Orchestral] |              初云CLoudie - The Rain Remix              |                  华华猪                   |
+|          帝国          |        Two Steps From Hell - Empire Of Angels        |          Mandroid<br/>GP0108           |
+|          燃火          |       Falcom Sound Team jdk - To be continued!       |                 lyckay                 |
+|         花火之都         |                      灰澈 - 花火断想                       |                STAR_EVE                |
+|         美食派对         |               Tobu - Candyland pt. II                |     Suga Jahsin<br/>华华猪<br/>GP0108     |
+|          抑           |                    theo5970 - 용서                     |     Mafnero<br/>FIRE CLOUD STUDIO      |
+|         云端之上         |              Luke Richards - Tall Tales              |               寒鹰丶SHADOW                |
 |          假日          |               千坂 / Cyan Lpegd - Moment               |                 lyckay                 |
 |          迷度          |              House Rulez - 37th Avenue               |                CIAD233                 |
 |       迷度 \[新]        |              House Rulez - 37th Avenue               |          CIAD233  <br/>Max冰焰           |
-|         花火断想         |                      灰澈 - 花火断想                       |                STAR_EVE                |
-|          数学          |                Li Ga Yb - Mathematics                |           Li Ga Yb<br/>Max冰焰           |
+|          滑稽          |                     MöSS - 23:33                     |           Lusaslan<br/>Max冰焰           |
+|      In the End      |             Tommee Profitt - In the End              |         raw_chicken<br/>Max冰焰          |
 |  木星 \[Trance Remix]  |                Li Ga Yb - The Jupiter                |                Li Ga Yb                |
-|          燃火          |       Falcom Sound Team jdk - To be continued!       |                 lyckay                 |
-|         美食派对         |               Tobu - Candyland pt. II                |     Suga Jahsin<br/>华华猪<br/>GP0108     |
-|         敬请期待         |                  羽焰辰星 - Coming Soon                  |                   /                    |
+|       MARENOL        |                    LeaF - MARENOL                    |                  尘落南丘                  |
+|          数学          |                Li Ga Yb - Mathematics                |           Li Ga Yb<br/>Max冰焰           |
+|          自然          |         Alfaiate Franz - O Filtro dos Sonhos         |                 Max冰焰                  |
+|          海洋          |                  羽焰辰星 - Ocean Remix                  |            Max冰焰<br/>qqxqqx            |
+|          伊始          |                    羽焰辰星 - Utopia                     |                 Max冰焰                  |
+|          雨           |                  Brian Crain - rain                  |                 Max冰焰                  |
+|          雨夜          |                      四季音色 - 雨夜                       |               Pumpkin_Z                |
+|          校园          |                   RADWIMPS - かたわれ时                   |                 lyckay                 |
+|          空间          | Yann Tiersen - Comptine D'un Autre Été, L'après-Midi |                 Max冰焰                  |
+|          开端          |                   羽焰辰星 - Prologue                    |                 Max冰焰                  |
+|        草莓&香烟         |   Yutin - Strawberries & Cigarettes [Yutin Remix]    |            qqxqqx<br/>巴拉巴j             |
+|          探索          |  Chronos - The Discovery [VIP Mix feat. Max Studio]  |            Max余焰<br/>Max冰焰             |
+|          山谷          |                MisterPan - The Valley                |               MisterPan                |
+|          白界          |             ¿Téo? - Ascended Vibrations              |                 CXY-辰                  |
+
+### 不可玩关卡
+|         关卡名称         |                       使用音乐                       |
+|:--------------------:|:------------------------------------------------:|
+|         敬请期待         |                羽焰辰星 - Coming Soon                |
 
 ## 搜索
 在MaxLine中，玩家可使用搜索快速寻找关卡
 
-搜索功能于V1.3.5加入游戏。加入游戏的目的是为了方便玩家在逐渐增多的关卡中能够快速寻找自己想游玩的关卡，而不会在寻找关卡上浪费过多时间
+搜索功能于v1.3.5加入游戏。加入游戏的目的是为了方便玩家在逐渐增多的关卡中能够快速寻找自己想游玩的关卡，而不会在寻找关卡上浪费过多时间
 
-![search1](img/search1.png)
+![search1](img/search_cur.png)
 <body>
     <span style="color: #888888; ">
         <i>
@@ -57,7 +64,7 @@
 </body>
 
 ## 你知道吗
-* 在V1.1.5以前，开端名为序言，并且是游戏中的第一个关卡。伊始于V1.1.5加入游戏，并取代了序言的位置。从此之后序言改名为开端，并成为游戏中的第二个关卡
+* 在v1.1.5以前，开端名为序言，并且是游戏中的第一个关卡。伊始于v1.1.5加入游戏，并取代了序言的位置。从此之后序言改名为开端，并成为游戏中的第二个关卡
 * 开端曾经并不像现在这样简单。开端曾经历多次削弱，并逐渐成为现在的样子
 * 在海洋设计早期，曾计划线在50%之后消失，并变成一颗球，以致敬《跳舞的球》。此计划后被放弃
 * 雨加入游戏的初衷是取代探索，尽管该关卡在后续的版本中重新上架
@@ -109,11 +116,29 @@
     </span>
 </body>
 
+![menu4](img/menu4.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^关卡菜单的第四种设计
+        </i>
+    </span>
+</body>
+
+![menu5](img/menu5.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^关卡菜单的第五种设计
+        </i>
+    </span>
+</body>
+
 ![soon1](img/soon1.png)
 <body>
     <span style="color: #888888; ">
         <i>
-            ^敬请期待的第一种设计（图中“尽情”〔jin qing〕为“敬请”〔jing qing〕的误拼）
+            ^敬请期待的第一种设计（图中“尽情”为“敬请”的误拼）
         </i>
     </span>
 </body>
@@ -149,7 +174,34 @@
 <body>
     <span style="color: #888888; ">
         <i>
-            ^搜索页面的初版设计
+            ^搜索页面的第一种设计
+        </i>
+    </span>
+</body>
+
+![search3](img/search1.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^搜索页面的第二种设计
+        </i>
+    </span>
+</body>
+
+![search4](img/search3.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^搜索页面的第三种设计
+        </i>
+    </span>
+</body>
+
+![search5](img/search4.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^搜索页面的第四种设计
         </i>
     </span>
 </body>
