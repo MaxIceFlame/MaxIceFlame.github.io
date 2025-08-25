@@ -2,154 +2,182 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/"/>
     </url>
     <url>
+        <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/fish/</loc>
+        <lastmod>2025-08-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/fish/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/fish/"/>
+    </url>
+    <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/following/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/following/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/following/"/>
     </url>
     <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/regulation/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/regulation/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/regulation/"/>
     </url>
     <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/template/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/template/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/template/"/>
     </url>
     <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/tutorial/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/tutorial/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/tutorial/"/>
     </url>
     <url>
+        <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/blog/</loc>
+        <lastmod>2025-08-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/blog/"/>
+    </url>
+    <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/ml_wiki/about/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/ml_wiki/about/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/ml_wiki/about/"/>
     </url>
     <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/ml_wiki/achievement/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/ml_wiki/achievement/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/ml_wiki/achievement/"/>
     </url>
     <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/ml_wiki/intro/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/ml_wiki/intro/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/ml_wiki/intro/"/>
     </url>
     <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/ml_wiki/level/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/ml_wiki/level/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/ml_wiki/level/"/>
     </url>
     <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/ml_wiki/skin/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/ml_wiki/skin/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/ml_wiki/skin/"/>
     </url>
     <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/ml_wiki/update/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/ml_wiki/update/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/ml_wiki/update/"/>
     </url>
     <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/en/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/"/>
     </url>
     <url>
+        <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/en/fish/</loc>
+        <lastmod>2025-08-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/fish/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/fish/"/>
+    </url>
+    <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/en/following/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/following/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/following/"/>
     </url>
     <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/en/regulation/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/regulation/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/regulation/"/>
     </url>
     <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/en/template/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/template/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/template/"/>
     </url>
     <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/en/tutorial/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/tutorial/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/tutorial/"/>
     </url>
     <url>
+        <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/en/blog/</loc>
+        <lastmod>2025-08-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/blog/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/blog/"/>
+    </url>
+    <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/en/ml_wiki/about/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/ml_wiki/about/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/ml_wiki/about/"/>
     </url>
     <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/en/ml_wiki/achievement/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/ml_wiki/achievement/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/ml_wiki/achievement/"/>
     </url>
     <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/en/ml_wiki/intro/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/ml_wiki/intro/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/ml_wiki/intro/"/>
     </url>
     <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/en/ml_wiki/level/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/ml_wiki/level/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/ml_wiki/level/"/>
     </url>
     <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/en/ml_wiki/skin/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/ml_wiki/skin/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/ml_wiki/skin/"/>
     </url>
     <url>
         <loc>https://maxiceflame.github.io/MaxIceFlameDatabase/en/ml_wiki/update/</loc>
-        <lastmod>2025-08-02</lastmod>
+        <lastmod>2025-08-25</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://maxiceflame.github.io/MaxIceFlameDatabase/en/ml_wiki/update/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://maxiceflame.github.io/MaxIceFlameDatabase/ml_wiki/update/"/>
