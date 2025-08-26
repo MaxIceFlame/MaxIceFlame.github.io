@@ -1,6 +1,14 @@
 # MaxLine - Achievements
 *****
 ![cur_ach](img/achievement_cur.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^Achievement page in game
+        </i>
+    </span>
+</body>
+
 ## Achievement list
 >Sorted by first letter
 ### Common achievements

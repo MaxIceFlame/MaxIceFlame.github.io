@@ -1,6 +1,14 @@
 # MaxLine - Skins
 *****
 ![cur_skin](img/skin_cur.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^Skin page in game
+        </i>
+    </span>
+</body>
+
 ## Skin list
 |    Name    |                 Version                  |
 |:----------:|:----------------------------------------:|

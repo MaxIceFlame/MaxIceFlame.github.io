@@ -1,6 +1,14 @@
 # MaxLine - 关卡
 *****
 ![cur_menu](img/menu_cur.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^游戏中的关卡菜单
+        </i>
+    </span>
+</body>
+
 ## 关卡列表
 >按英文名称首字母排序
 ### 可玩关卡
@@ -116,7 +124,7 @@
     </span>
 </body>
 
-![menu4](img/menu4.png)
+![menu3.1](img/menu6.png)
 <body>
     <span style="color: #888888; ">
         <i>
@@ -125,11 +133,20 @@
     </span>
 </body>
 
-![menu5](img/menu5.png)
+![menu4](img/menu4.png)
 <body>
     <span style="color: #888888; ">
         <i>
             ^关卡菜单的第五种设计
+        </i>
+    </span>
+</body>
+
+![menu5](img/menu5.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^关卡菜单的第六种设计
         </i>
     </span>
 </body>

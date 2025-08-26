@@ -1,6 +1,14 @@
 # MaxLine - 皮肤
 *****
 ![cur_skin](img/skin_cur.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^游戏中的皮肤页面
+        </i>
+    </span>
+</body>
+
 ## 皮肤列表
 | 皮肤名称 |         更新版本          |
 |:----:|:---------------------:|

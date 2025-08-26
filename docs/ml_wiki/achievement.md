@@ -1,6 +1,14 @@
 # MaxLine - 成就
 *****
 ![cur_ach](img/achievement_cur.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^游戏中的成就页面
+        </i>
+    </span>
+</body>
+
 ## 成就列表
 >按英文名称首字母排序
 ### 普通成就

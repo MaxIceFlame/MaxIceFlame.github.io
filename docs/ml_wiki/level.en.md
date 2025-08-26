@@ -1,6 +1,14 @@
 # MaxLine - Levels
 *****
 ![cur_menu](img/menu_cur.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^Level menu in game
+        </i>
+    </span>
+</body>
+
 ## Level list
 >Sorted by first letter
 ### Playable levels
@@ -58,7 +66,7 @@ Search function was added in v1.3.5. The purpose was to make it more convenient 
 <body>
     <span style="color: #888888; ">
         <i>
-            ^The search page in game
+            ^Search page in game
         </i>
     </span>
 </body>
@@ -116,7 +124,7 @@ Search function was added in v1.3.5. The purpose was to make it more convenient 
     </span>
 </body>
 
-![menu4](img/menu4.png)
+![menu3.1](img/menu6.png)
 <body>
     <span style="color: #888888; ">
         <i>
@@ -125,11 +133,20 @@ Search function was added in v1.3.5. The purpose was to make it more convenient 
     </span>
 </body>
 
-![menu5](img/menu5.png)
+![menu4](img/menu4.png)
 <body>
     <span style="color: #888888; ">
         <i>
             ^The fifth design of level menu
+        </i>
+    </span>
+</body>
+
+![menu5](img/menu5.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^The sixth design of level menu
         </i>
     </span>
 </body>
