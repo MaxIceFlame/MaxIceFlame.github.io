@@ -21,7 +21,10 @@ MaxLine是由Max Studio开发的一款以《跳舞的线》为蓝本的饭制游
 *****
 ## 下载途径
 ![qq](img/qq.png)
-[MaxLine官方交流群](https://qm.qq.com/q/DbKb0gpGN2 "QQ")
+[MaxLine官方交流群①](https://qm.qq.com/q/DbKb0gpGN2 "QQ")
+
+![qq](img/qq.png)
+[MaxLine官方交流群②](https://qm.qq.com/q/x4L0wmWmEE "QQ")
 
 ![discord](img/dlrs.png)
 [DL RS 同人群官方网站](https://chinadlrs.com/app/?id=6 "DL RS 同人群官方网站")
@@ -38,7 +41,10 @@ MaxLine是由Max Studio开发的一款以《跳舞的线》为蓝本的饭制游
 
 ## 加入我们
 ![qq](img/qq.png)
-[MaxLine官方交流群](https://qm.qq.com/q/DbKb0gpGN2 "QQ")
+[MaxLine官方交流群①](https://qm.qq.com/q/DbKb0gpGN2 "QQ")
+
+![qq](img/qq.png)
+[MaxLine官方交流群②](https://qm.qq.com/q/x4L0wmWmEE "QQ")
 
 ![qq2](img/qq2.png)
 [MaxLine游戏交流频道](https://pd.qq.com/s/f5mvymy61 "QQ频道")

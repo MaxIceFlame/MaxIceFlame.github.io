@@ -34,6 +34,7 @@ nav:
         - {"模板手册":"tutorial.md"}
         - {"相机跟随":"following.md"}
       - 其他:
+        - {"老八汉堡店":"burger.md"}
         - {"电子木鱼":"fish.md"}
   - MaxLine Wiki:
       - {"介绍":"ml_wiki/intro.md"}
@@ -102,6 +103,7 @@ plugins:
             关于: About
             其他: Other
             电子木鱼: Electronic Wooden Fish
+            老八汉堡店: Laoba's Burger Restaurant
           site_name: MaxIceFlame's Blog
           site_author: MaxIceFlame
   - git-revision-date-localized

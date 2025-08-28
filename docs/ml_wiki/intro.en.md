@@ -20,7 +20,10 @@ MaxLine is a Dancing Line Fanmade game made by Max Studio based on Dancing Line
 
 ## Download
 ![qq](img/qq.png)
-[MaxLine Official QQ Group](https://qm.qq.com/q/DbKb0gpGN2 "QQ")
+[MaxLine Official QQ Group ①](https://qm.qq.com/q/DbKb0gpGN2 "QQ")
+
+![qq](img/qq.png)
+[MaxLine Official QQ Group ②](https://qm.qq.com/q/x4L0wmWmEE "QQ")
 
 ![discord](img/dlrs.png)
 [DL RS Group Official Website](https://chinadlrs.com/app/?id=6 "DL RS Group Official Website")
@@ -37,7 +40,10 @@ MaxLine is a Dancing Line Fanmade game made by Max Studio based on Dancing Line
 
 ## Join Us
 ![qq](img/qq.png)
-[MaxLine Official QQ Group](https://qm.qq.com/q/DbKb0gpGN2 "QQ")
+[MaxLine Official QQ Group ①](https://qm.qq.com/q/DbKb0gpGN2 "QQ")
+
+![qq](img/qq.png)
+[MaxLine Official QQ Group ②](https://qm.qq.com/q/x4L0wmWmEE "QQ")
 
 ![qq2](img/qq2.png)
 [MaxLine Game Discussion QQ Guild](https://pd.qq.com/s/f5mvymy61 "QQ Guild")
