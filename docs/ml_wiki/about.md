@@ -108,7 +108,7 @@ Jim Tsai
 Zutek 3134
 
 #### 合作伙伴
-火烧云工作室
+火云工作室
 
 Sky Cloud Studio
 
