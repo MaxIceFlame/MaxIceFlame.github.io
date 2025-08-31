@@ -1,6 +1,43 @@
 # MaxLine - Change Logs
 *****
-## V2.0.0
+## v2.0.1
+Update date: August 31st, 2025
+
+1, Fixed the wrong performance of level menu in some situation
+
+2, Fixed the problem of that the animations in level will play in advance if switch level when entering a level
+
+3, Fixed the problem of that the game won't work properly if click the button repeatedly when the game is paused
+
+4, Fixed the problem of that the data of Drizzle can't be upgraded properly
+
+5, Fixed the problem of that the colliders of obstacles are missing after the second checkpoint in White Realm
+
+6, Fixed the problem of that the line may leave the right way in White Realm
+
+7, Fixed the problem of that the water surface, particles and lights in level can't change their performance according to current quality
+
+8, Fixed the problem of that the line may detach the ground when revive
+
+9, Fixed the problem of that in Apocalypse, the second scene may not be transited to the third scene properly
+
+10, Fixed the problem of that the data shown on level menu are not the same with the data got in level
+
+11, Fixed the problem of that the line may turn to a wrong direction at 30% in Desert Maze
+
+12, Fixed the problem of that the ground at 60% is abnormally colored in Desert Maze
+
+13, Fixed the problem of that some percentages are missing in School
+
+14, Fixed the problem of that the ground at 20% is abnormally colored in School
+
+15, Corrected the incorrect translations in Chinese, Vietnamese, Indonesian and Ukrainian
+
+16, Changed the achievement name of Hollowness \[Redesigned] to "A new lease of life"
+
+17, Other changes
+
+## v2.0.0
 Update date: August 25th, 2025
 
 1, Added new level: White Realm
