@@ -1,6 +1,6 @@
 # MaxLine - Change Logs
 *****
-### v2.0.2
+## v2.0.2
 Update date: August 31st, 2025
 
 1, Fixed the problem of that the line can't be teleported to the subway scene properly
