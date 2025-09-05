@@ -338,6 +338,19 @@ TTF饭制，使用UE4制作
 
 制作时间：2019年
 
+### 幻想曲
+MaxLine的早期关卡，音乐由羽焰辰星制作，是[Marble Machine](https://music.163.com/song?id=408532991&uct2=U2FsdGVkX1/zS+Qx0uOfnyPY5CbLuj9wWYzK+4tiMy8=)的Remix
+
+关卡图片缺失
+
+制作时间：2020年
+
+### 命运
+![fate](img/works/fate.png)
+开头至20%为我制作，后续交由Hatcat制作
+
+制作时间：2022年
+
 ### 无人区 \[重制]
 ![zone](img/works/zone.png)
 制作时间：2022年

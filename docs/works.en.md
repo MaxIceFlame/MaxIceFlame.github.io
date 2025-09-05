@@ -339,6 +339,19 @@ The picture of this level was missing
 
 Production time: 2019
 
+### Fantasia
+An early level of MaxLine. Its music was composed by Fairo and it was a remix of [Marble Machine](https://music.163.com/song?id=408532991&uct2=U2FsdGVkX1/zS+Qx0uOfnyPY5CbLuj9wWYzK+4tiMy8=)
+
+The picture of this level was missing
+
+Production time: 2020
+
+### The Fate
+![fate](img/works/fate.png)
+I made from the beginning to 20% and the rest was given to Hatcat
+
+Production time: 2022
+
 ### Vacuum Track#ADD8E6 \[Redesigned]
 ![zone](img/works/zone.png)
 Production time: 2022
