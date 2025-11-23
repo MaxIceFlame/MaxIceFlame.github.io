@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbd77f87-a8f5-41f6-bde0-926c1d25477a" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/intro.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/intro.en.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/update.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/update.en.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/ml_wiki/update.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/update.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +12,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="35sVPcsL11pMBIIedZaGIB3VASV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,6 +27,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -41,6 +39,7 @@
       <option name="presentableId" value="Default" />
       <updated>1763898743893</updated>
       <workItem from="1763898745747" duration="204000" />
+      <workItem from="1763901700084" duration="232000" />
     </task>
     <servers />
   </component>
