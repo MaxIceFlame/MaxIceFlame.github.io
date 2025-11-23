@@ -1,7 +1,7 @@
 # MaxLine - Change Logs
 *****
 ## v2.0.3
-Update date: / /, 2025
+Update date: November 23rd, 2025
 
 1, Added new level: Caramel Star
 
