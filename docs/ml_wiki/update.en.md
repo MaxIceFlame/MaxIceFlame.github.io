@@ -1,5 +1,20 @@
 # MaxLine - Change Logs
 *****
+## v2.0.3
+Update date: / /, 2025
+
+1, Added new level: Caramel Star
+
+2, Added the options of Line Color Highlight and Percentages in graphic in settings
+
+3, Added the prompt window of quitting the game
+
+4, Completed all missing percentages in all levels and adjusted some details
+
+5, Bug fixes
+
+6, Other changes
+
 ## v2.0.2
 Update date: August 31st, 2025
 

@@ -18,6 +18,7 @@
 |         Apocalypse         |     Under the apocalypse…      | Perfectly complete the level |
 |   Beach \[Melodic House]   |         Beach carnival         | Perfectly complete the level |
 |      Beethoven Virus       |      Fate…Utterly risible      | Perfectly complete the level |
+|        Caramel Star        |       A call, an answer.       | Perfectly complete the level |
 |         Chemistry          |            He Zn Tm            | Perfectly complete the level |
 |       Christmas Snow       |        Merry Christmas!        | Perfectly complete the level |
 |           Cloud            |    Stepping onto the cloud     | Perfectly complete the level |
