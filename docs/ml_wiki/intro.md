@@ -3,7 +3,7 @@
 ## 游戏简介
 MaxLine是由Max Studio开发的一款以《跳舞的线》为蓝本的饭制游戏
 
-![icon](img/game2.png)
+![icon](img/game3.png)
 
 ## 游戏信息
 |  名称  |                        信息                        |
@@ -12,9 +12,9 @@ MaxLine是由Max Studio开发的一款以《跳舞的线》为蓝本的饭制游
 | 游戏简称 |                    ML<br/>麻辣                     |
 | 制作方  |                    Max Studio                    |
 | 原作品  |                       跳舞的线                       |
-| 最新版本 |                      v2.0.3                      |
+| 最新版本 |                      v2.0.4                      |
 | 发布日期 |                    2020年2月4日                     |
-| 更新日期 |                   2025年11月23日                    |
+| 更新日期 |                   2025年12月14日                    |
 | 制作引擎 |          [Unity](https://unity.com/cn)           |
 | 游戏页面 | [DL RS 同人群官方网站](https://chinadlrs.com/app/?id=6) |
 

@@ -19,11 +19,12 @@
 | 海滩 \[Melodic House]  |                羽焰辰星 - Summer Prologue                |            qqxqqx<br/>Max冰焰            |
 |        贝多芬病毒         |           Diana Boncheva - Beethoven Virus           |            qqxqqx<br/>Max冰焰            |
 |         焦糖星          |                     warma - 焦糖星                      |          塩_<br/>Hatcat<br/>牛奶          |
+|      焦糖星 \[九周年]      |                     warma - 焦糖星                      |   塩_<br/>Hatcat<br/>牛奶<br/>SrY-ABYSS   |
 |          化学          |               Li Ga Yb - The Chemistry               |                Li Ga Yb                |
 |         圣诞雪          |             Chronos - The Christmas Snow             |              Munity Twin               |
 |          云           |                       猎豹游戏 - 云                       |                 lyckay                 |
-|          乡野          |                麦金 - 田野 [Disco Remix]                 |                 Max冰焰                  |
-|         沙漠迷宫         |                零燚01 - 迷宫 [零燚01 Remix]                |                 qqxqqx                 |
+|          乡野          |                麦金 - 田野 \[Disco Remix]                |                 Max冰焰                  |
+|         沙漠迷宫         |               零燚01 - 迷宫 \[零燚01 Remix]                |                 qqxqqx                 |
 |         橄榄球          |                Black Violin - Dreamer                |            qqxqqx<br/>Max冰焰            |
 | 霖 \[Soft Orchestral] |              初云CLoudie - The Rain Remix              |                  华华猪                   |
 |          帝国          |        Two Steps From Hell - Empire Of Angels        |          Mandroid<br/>GP0108           |
@@ -48,8 +49,8 @@
 |          校园          |                   RADWIMPS - かたわれ时                   |                 lyckay                 |
 |          空间          | Yann Tiersen - Comptine D'un Autre Été, L'après-Midi |                 Max冰焰                  |
 |          开端          |                   羽焰辰星 - Prologue                    |                 Max冰焰                  |
-|        草莓&香烟         |   Yutin - Strawberries & Cigarettes [Yutin Remix]    |            qqxqqx<br/>巴拉巴j             |
-|          探索          |  Chronos - The Discovery [VIP Mix feat. Max Studio]  |            Max余焰<br/>Max冰焰             |
+|        草莓&香烟         |   Yutin - Strawberries & Cigarettes \[Yutin Remix]   |            qqxqqx<br/>巴拉巴j             |
+|          探索          | Chronos - The Discovery \[VIP Mix feat. Max Studio]  |            Max余焰<br/>Max冰焰             |
 |          山谷          |                MisterPan - The Valley                |               MisterPan                |
 |          白界          |             ¿Téo? - Ascended Vibrations              |                 CXY-辰                  |
 

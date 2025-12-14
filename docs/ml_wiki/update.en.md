@@ -1,5 +1,22 @@
 # MaxLine - Change Logs
 *****
+## v2.0.4
+Update date: December 14th, 2025
+
+1, Added new level: Caramel Star \[9th Anniversary]
+
+2, Optimized the logic of checking update for iOS platform
+
+3, Fixed the issue that the line doesn't perform correctly when revive in Caramel Star
+
+4, Fixed the issue that the screen isn't covered correctly in White Realm
+
+5, Fixed the issue that the prompt window of quitting the game can still be triggered on the settings, skins, search and achievements pages
+
+6, Fixed the issue that some objects are abnormally colored in some levels
+
+7, Other changes
+
 ## v2.0.3
 Update date: November 23rd, 2025
 
@@ -18,38 +35,38 @@ Update date: November 23rd, 2025
 ## v2.0.2
 Update date: August 31st, 2025
 
-1, Fixed the problem of that the line can't be teleported to the subway scene properly
+1, Fixed the issue that the line can't be teleported to the subway scene properly
 
 ## v2.0.1
 Update date: August 31st, 2025
 
 1, Fixed the wrong performance of level menu in some situation
 
-2, Fixed the problem of that the animations in level will play in advance if switch level when entering a level
+2, Fixed the issue that the animations in level will play in advance if switch level when entering a level
 
-3, Fixed the problem of that the game won't work properly if click the button repeatedly when the game is paused
+3, Fixed the issue that the game won't work properly if click the button repeatedly when the game is paused
 
-4, Fixed the problem of that the data of Drizzle can't be upgraded properly
+4, Fixed the issue that the data of Drizzle can't be upgraded properly
 
-5, Fixed the problem of that the colliders of obstacles are missing after the second checkpoint in White Realm
+5, Fixed the issue that the colliders of obstacles are missing after the second checkpoint in White Realm
 
-6, Fixed the problem of that the line may leave the right way in White Realm
+6, Fixed the issue that the line may leave the right way in White Realm
 
-7, Fixed the problem of that the water surface, particles and lights in level can't change their performance according to current quality
+7, Fixed the issue that the water surface, particles and lights in level can't change their performance according to current quality
 
-8, Fixed the problem of that the line may detach the ground when revive
+8, Fixed the issue that the line may detach the ground when revive
 
-9, Fixed the problem of that in Apocalypse, the second scene may not be transited to the third scene properly
+9, Fixed the issue that in Apocalypse, the second scene may not be transited to the third scene properly
 
-10, Fixed the problem of that the data shown on level menu are not the same with the data got in level
+10, Fixed the issue that the data shown on level menu are not the same with the data got in level
 
-11, Fixed the problem of that the line may turn to a wrong direction at 30% in Desert Maze
+11, Fixed the issue that the line may turn to a wrong direction at 30% in Desert Maze
 
-12, Fixed the problem of that the ground at 60% is abnormally colored in Desert Maze
+12, Fixed the issue that the ground at 60% is abnormally colored in Desert Maze
 
-13, Fixed the problem of that some percentages are missing in School
+13, Fixed the issue that some percentages are missing in School
 
-14, Fixed the problem of that the ground at 20% is abnormally colored in School
+14, Fixed the issue that the ground at 20% is abnormally colored in School
 
 15, Corrected the incorrect translations in Chinese, Vietnamese, Indonesian and Ukrainian
 
@@ -109,16 +126,16 @@ Update date: February 4th, 2025
 
 1, Adjusted the collision in Holidays
 
-2, Fixed the problem of that jumping performs improperly in The Discovery - Chronos
+2, Fixed the issue that jumping performs improperly in The Discovery - Chronos
 
-3, Fixed some problems of login system
+3, Fixed some issues of login system
 
 4, Other changes
 
 ## v1.4.3
 Update date: November 17th, 2024
 
-1, Fixed the problem of collision in Holidays
+1, Fixed the issue of collision in Holidays
 
 2, Removed the progress bar in achievement page
 
@@ -131,9 +148,9 @@ Update date: October 13th, 2024
 
 1, Added DL RS GAS Account System
 
-2, Fixed the problem of that some obstacles are missing in Gloom
+2, Fixed the issue that some obstacles are missing in Gloom
 
-3, Fixed the problem of that the line may leave the right way in some levels
+3, Fixed the issue that the line may leave the right way in some levels
 
 4, Other changes
 
@@ -148,7 +165,7 @@ Update date: July 28th, 2024
 
 4, Temporary removed Water Quality option
 
-5, Fixed the problem of that search page and achievement page may not properly perform
+5, Fixed the issue that search page and achievement page may not properly perform
 
 6, Fixed the incorrect performance and resumption of animations in Jupiter
 
@@ -179,7 +196,7 @@ Update date: June 16th, 2024
 
 10, Improved the tone quality in MARENOL
 
-11, Fixed the problem of that the line may leave the right way in some levels
+11, Fixed the issue that the line may leave the right way in some levels
 
 12, Fixed the incorrect animation resumption in Jupiter
 
@@ -202,23 +219,23 @@ Update date: March 15th, 2024
 
 8, Changed the background image of some levels
 
-9, Changed the font of lyrics in Strawberries & Cigarettes and fixed the problems about lyrics
+9, Changed the font of lyrics in Strawberries & Cigarettes and fixed the issues on lyrics
 
-10, Optimized the problem of lagging in Fire of Anger
+10, Optimized the issue of lagging in Fire of Anger
 
 11, Optimized the logic of tap detection for Android and iOS
 
-12, Fixed the problem of that the remix banner of Jupiter was missing
+12, Fixed the issue that the remix banner of Jupiter was missing
 
-13, Fixed the problem of that the water surface didn't perform properly in Valley
+13, Fixed the issue that the water surface didn't perform properly in Valley
 
-14, Fixed the problem of that the collision detection didn't perform properly in Strawberries & Cigarettes
+14, Fixed the issue that the collision detection didn't perform properly in Strawberries & Cigarettes
 
-15, Fixed the problem of that the line may leave the right way in some levels
+15, Fixed the issue that the line may leave the right way in some levels
 
-16, Fixed the problem of that the UI would be covered when player died as the scene was transiting
+16, Fixed the issue that the UI would be covered when player died as the scene was transiting
 
-17, Fixed the problem of that the line would die immediately when it was resumed as it was falling
+17, Fixed the issue that the line would die immediately when it was resumed as it was falling
 
 18, Other changes
 
@@ -242,7 +259,7 @@ Update date: October 28th, 2023
 
 3, Supported more resolutions
 
-4, Fixed the problem of frame rate locking for Android
+4, Fixed the issue of frame rate locking for Android
 
 5, Added the designer's name at the bottom of the screen
 
@@ -273,7 +290,7 @@ Update date: February 19th, 2023
 
 9, Slightly scaled down the difficulty of some levels
 
-10, Optimized the problem of lagging in most levels
+10, Optimized the issue of lagging in most levels
 
 11, Adjusted the content in credit
 
@@ -482,7 +499,7 @@ Update date: March 31st, 2020
 
 3, Adjusted the position of some diamonds in The Beethoven Virus
 
-4, Fixed the problems of roads in The Dreamer
+4, Fixed the issues of roads in The Dreamer
 
 5, Corrected the mistakes in credit
 

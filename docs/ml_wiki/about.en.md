@@ -118,6 +118,8 @@ Jim Tsai
 Zutek 3134
 
 #### Partners
+Abyss Studio
+
 Fire Cloud Studio
 
 Sky Cloud Studio
