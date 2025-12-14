@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbd77f87-a8f5-41f6-bde0-926c1d25477a" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/ml_wiki/achievement.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/achievement.en.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/ml_wiki/achievement.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/achievement.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/level.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/level.en.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/level.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/level.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/update.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/update.en.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/update.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/update.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +51,7 @@
       <workItem from="1763901700084" duration="232000" />
       <workItem from="1763906651828" duration="353000" />
       <workItem from="1765710431066" duration="408000" />
+      <workItem from="1765711133140" duration="71000" />
     </task>
     <servers />
   </component>

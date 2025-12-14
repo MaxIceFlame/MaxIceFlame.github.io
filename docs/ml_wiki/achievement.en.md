@@ -35,7 +35,7 @@
 |       Head in the Clouds       |       Kingdom of clouds        | Perfectly complete the level |
 |            Holidays            |            Traveler            | Perfectly complete the level |
 |           Hollowness           |    Life passes like a dream    | Perfectly complete the level |
-|    Hollowness \[Redesigned]    |   Life passes like a dream Ⅱ   | Perfectly complete the level |
+|    Hollowness \[Redesigned]    |      A new lease of life       | Perfectly complete the level |
 |             Huaji              | The world is a giant Li Ga Yb! | Perfectly complete the level |
 |           In the End           |      The final epilogue…       | Perfectly complete the level |
 |    Jupiter \[Trance Remix]     |       Fa, Fake diamonds!       | Perfectly complete the level |
