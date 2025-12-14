@@ -3,7 +3,7 @@
 ## v2.0.4
 Update date: December 14th, 2025
 
-1, Added new level: Caramel Star \[9th Anniversary]
+1, Added new level: Caramel Star - 9th Anniversary
 
 2, Optimized the logic of checking update for iOS platform
 
