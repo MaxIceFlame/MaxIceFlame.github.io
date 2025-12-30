@@ -11,7 +11,7 @@
 
 ## Level list
 >Sorted by first letter
-### Playable levels
+### Playable
 |             Title              |                        Music                         |                 Designer(s)                  |
 |:------------------------------:|:----------------------------------------------------:|:--------------------------------------------:|
 |          Anniversary           |      MAPLEX / 098765_ - MaxLine 1st Anniversary      | GP0108<br/>lyckay<br/>MaxIceFlame<br/>qqxqqx |
@@ -54,10 +54,16 @@
 |             Valley             |                MisterPan - The Valley                |                  MisterPan                   |
 |          White Realm           |             ¿Téo? - Ascended Vibrations              |                    CXY-辰                     |
 
-### Unplayable level
+### Unplayable
 |    Title    |        Music        |
 |:-----------:|:-------------------:|
 | Coming Soon | Fairo - Coming Soon |
+
+### Removed
+|                    Title                     | Version |
+|:--------------------------------------------:|:-------:|
+|           The Funny (Huaji) \[Old]           | v1.1.3  |
+| The Explore (The Discovery - Chronos) \[Old] | v1.1.6  |
 
 ## Search
 In MaxLine, players can find levels quickly by searching
@@ -74,7 +80,7 @@ Search function was added in v1.3.5. The purpose was to make it more convenient 
 </body>
 
 ## Trivia
-* Before v1.1.5, Starting was named as "The Prologue" and it was the first level in game. Preface was added in v1.1.5 and it replaced The Prologue. Then, The Prologue was renamed as "The Starting", and it became the second level in game
+* Before v1.1.5, Starting was named as "The Prologue" and it was the first level in game. Preface was added in v1.1.5, and it replaced The Prologue. Then, The Prologue was renamed as "The Starting", and it became the second level in game
 * Starting was not as easy as it is now. Starting was scaled down difficulty for many times and gradually became what it looks like now
 * In the early design of Ocean, it was planned that the line would disappear after 50% and become a ball, in order to be a homage to "Dancing Ball". This plan was abandoned later
 * Although the level was re-added in later version, the original intention of adding Rain was to take the place of The Explore
@@ -91,11 +97,11 @@ Search function was added in v1.3.5. The purpose was to make it more convenient 
 * The original name of Huaji was "The Funny". It used to be planned to changed to "Jocularity" while remaking, but the plan was abandoned later. Then it was directly named as "Huaji" (From the Chinese Pinyin of "滑稽", its Chinese name)
 * In the early design of [Apocalypse](https://www.bilibili.com/video/BV1uv411678R), the scene after 80% was not same as it is now. What it looks like now was a redesign by MaxIceFlame
 * The scene transformations after 80% in Apocalypse was used to be planned to realize by images, but it was changed to its now appearance due to the bad result
-* At the end of Apocalypse, the three tombstones in front of the house refer to hero's wife and two children. They are showed up in scene transformations after 80%
+* At the end of Apocalypse, the three tombstones in front of the house refer to hero's wife and two children. They are shown up in scene transformations after 80%
 * In the early design of [In the End](https://www.bilibili.com/video/BV1qN41197MR), the scene from 60% to 90% was not same as it is now. What it looks like now was a redesign by MaxIceFlame according to raw_chicken's oral description
-* There had been an easter egg in Strawberries & Cigarettes, but it was cancelled when level released
+* There had been an Easter egg in Strawberries & Cigarettes, but it was cancelled when level released
 * MARENOL was named as "MARENOL - LeaF" when the level was released. Later it was changed to "MARENOL"
-* There had been an easter egg in the original version of Mathematics, but it was cancelled when the level was remade
+* There had been an Easter egg in the original version of Mathematics, but it was cancelled when the level was remade
 * In the early stage of game development, the model of Coming Soon was redesigned for many times
 
 ## Gallery
