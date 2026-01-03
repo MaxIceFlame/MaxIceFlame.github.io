@@ -11,12 +11,12 @@
 
 ## Level list
 >Sorted by first letter
-### Playable
+### Playable levels
 |             Title              |                        Music                         |                 Designer(s)                  |
 |:------------------------------:|:----------------------------------------------------:|:--------------------------------------------:|
 |          Anniversary           |      MAPLEX / 098765_ - MaxLine 1st Anniversary      | GP0108<br/>lyckay<br/>MaxIceFlame<br/>qqxqqx |
 |           Apocalypse           |               Peter Roe - Last Reunion               |            MaxIceFlame<br/>qqxqqx            |
-|     Beach \[Melodic House]     |               Fairo - Summer Prologue                |            qqxqqx<br/>MaxIceFlame            |
+|     Beach - Melodic House      |               Fairo - Summer Prologue                |            qqxqqx<br/>MaxIceFlame            |
 |        Beethoven Virus         |           Diana Boncheva - Beethoven Virus           |            qqxqqx<br/>MaxIceFlame            |
 |          Caramel Star          |                     warma - 焦糖星                      |         塩_<br/>Hatcat<br/>Quantumilk         |
 | Caramel Star - 9th Anniversary |                     warma - 焦糖星                      |  塩_<br/>Hatcat<br/>Quantumilk<br/>SrY-ABYSS  |
@@ -26,7 +26,7 @@
 |          Countryside           |        Alan Mackin - The Plain \[Disco Remix]        |                 MaxIceFlame                  |
 |          Desert Maze           |            零燚01 - The Maze \[零燚01 Remix]             |                    qqxqqx                    |
 |            Dreamer             |                Black Violin - Dreamer                |            qqxqqx<br/>MaxIceFlame            |
-|   Drizzle \[Soft Orchestral]   |              初云CLoudie - The Rain Remix              |                 Hua Hua Pig                  |
+|   Drizzle - Soft Orchestral    |              初云CLoudie - The Rain Remix              |                 Hua Hua Pig                  |
 |             Empire             |        Two Steps From Hell - Empire Of Angels        |             Mandroid<br/>GP0108              |
 |         Fire of Anger          |       Falcom Sound Team jdk - To be continued!       |                    lyckay                    |
 |       Firework Paradise        |                      灰澈 - 花火断想                       |                   STAR_EVE                   |
@@ -35,10 +35,10 @@
 |       Head in the Clouds       |              Luke Richards - Tall Tales              |                  寒鹰丶SHADOW                   |
 |            Holidays            |               千坂 / Cyan Lpegd - Moment               |                    lyckay                    |
 |           Hollowness           |              House Rulez - 37th Avenue               |                   CIAD233                    |
-|    Hollowness \[Redesigned]    |              House Rulez - 37th Avenue               |           CIAD233<br/>MaxIceFlame            |
+|        Hollowness - New        |              House Rulez - 37th Avenue               |           CIAD233<br/>MaxIceFlame            |
 |             Huaji              |                     MöSS - 23:33                     |           Lusaslan<br/>MaxIceFlame           |
 |           In the End           |             Tommee Profitt - In the End              |         raw_chicken<br/>MaxIceFlame          |
-|    Jupiter \[Trance Remix]     |                Li Ga Yb - The Jupiter                |                   Li Ga Yb                   |
+|     Jupiter - Trance Remix     |                Li Ga Yb - The Jupiter                |                   Li Ga Yb                   |
 |            MARENOL             |                    LeaF - MARENOL                    |                     尘落南丘                     |
 |          Mathematics           |                Li Ga Yb - Mathematics                |           Li Ga Yb<br/>MaxIceFlame           |
 |             Nature             |         Alfaiate Franz - O Filtro dos Sonhos         |                 MaxIceFlame                  |
@@ -54,16 +54,16 @@
 |             Valley             |                MisterPan - The Valley                |                  MisterPan                   |
 |          White Realm           |             ¿Téo? - Ascended Vibrations              |                    CXY-辰                     |
 
-### Unplayable
+### Unplayable level
 |    Title    |        Music        |
 |:-----------:|:-------------------:|
 | Coming Soon | Fairo - Coming Soon |
 
-### Removed
-|                    Title                     | Version |
-|:--------------------------------------------:|:-------:|
-|           The Funny (Huaji) \[Old]           | v1.1.3  |
-| The Explore (The Discovery - Chronos) \[Old] | v1.1.6  |
+### Removed levels
+|                    Title                    | Version |
+|:-------------------------------------------:|:-------:|
+|           The Funny (Huaji) (Old)           | v1.1.3  |
+| The Explore (The Discovery - Chronos) (Old) | v1.1.6  |
 
 ## Search
 In MaxLine, players can find levels quickly by searching
@@ -98,11 +98,12 @@ Search function was added in v1.3.5. The purpose was to make it more convenient 
 * In the early design of [Apocalypse](https://www.bilibili.com/video/BV1uv411678R), the scene after 80% was not same as it is now. What it looks like now was a redesign by MaxIceFlame
 * The scene transformations after 80% in Apocalypse was used to be planned to realize by images, but it was changed to its now appearance due to the bad result
 * At the end of Apocalypse, the three tombstones in front of the house refer to hero's wife and two children. They are shown up in scene transformations after 80%
-* In the early design of [In the End](https://www.bilibili.com/video/BV1qN41197MR), the scene from 60% to 90% was not same as it is now. What it looks like now was a redesign by MaxIceFlame according to raw_chicken's oral description
+* In the early design of In the End, the scene from 60% to 90% was not same as it is now. What it looks like now was a redesign by MaxIceFlame according to raw_chicken's oral description
 * There had been an Easter egg in Strawberries & Cigarettes, but it was cancelled when level released
 * MARENOL was named as "MARENOL - LeaF" when the level was released. Later it was changed to "MARENOL"
 * There had been an Easter egg in the original version of Mathematics, but it was cancelled when the level was remade
 * In the early stage of game development, the model of Coming Soon was redesigned for many times
+* Firework Paradise was originally named "花火断想" (Fireworks), which is the title of its music when it was published on MaxLine. This level was renamed "Firework Paradise" in v2.0.0 — its original name from the design phase
 
 ## Gallery
 ![menu1](img/menu1.png)

@@ -1,16 +1,6 @@
 # MaxLine - 关于
 *****
 ## 制作人员
-> 排序规则：
-> 
-> 1、中文按汉语拼音首字母排序
-> 
-> 2、英文按首字母排序
-> 
-> 3、数字按大小排序
-> 
-> 4、其他字符无序排列
-
 ![studio](img/studio.png)
 
 ### 制作方
@@ -42,7 +32,7 @@ SplashTree1015
 
 Top Finger
 
-:flag_id: 印尼文
+:flag_id: 印度尼西亚文
 
 Manatite
 

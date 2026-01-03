@@ -12,47 +12,47 @@
 ## 关卡列表
 >按英文名称首字母排序
 ### 可玩关卡
-|         关卡名称         |                         使用音乐                         |                  关卡作者                  |
-|:--------------------:|:----------------------------------------------------:|:--------------------------------------:|
-|         周年庆          |      MAPLEX / 098765_ - MaxLine 1st Anniversary      | GP0108<br/>lyckay<br/>Max冰焰<br/>qqxqqx |
-|         启示录          |               Peter Roe - Last Reunion               |            Max冰焰<br/>qqxqqx            |
-| 海滩 \[Melodic House]  |                羽焰辰星 - Summer Prologue                |            qqxqqx<br/>Max冰焰            |
-|        贝多芬病毒         |           Diana Boncheva - Beethoven Virus           |            qqxqqx<br/>Max冰焰            |
-|         焦糖星          |                     warma - 焦糖星                      |          塩_<br/>Hatcat<br/>牛奶          |
-|       焦糖星·九周年        |                     warma - 焦糖星                      |   塩_<br/>Hatcat<br/>牛奶<br/>SrY-ABYSS   |
-|          化学          |               Li Ga Yb - The Chemistry               |                Li Ga Yb                |
-|         圣诞雪          |             Chronos - The Christmas Snow             |              Munity Twin               |
-|          云           |                       猎豹游戏 - 云                       |                 lyckay                 |
-|          乡野          |                麦金 - 田野 \[Disco Remix]                |                 Max冰焰                  |
-|         沙漠迷宫         |               零燚01 - 迷宫 \[零燚01 Remix]                |                 qqxqqx                 |
-|         橄榄球          |                Black Violin - Dreamer                |            qqxqqx<br/>Max冰焰            |
-| 霖 \[Soft Orchestral] |              初云CLoudie - The Rain Remix              |                  华华猪                   |
-|          帝国          |        Two Steps From Hell - Empire Of Angels        |          Mandroid<br/>GP0108           |
-|          燃火          |       Falcom Sound Team jdk - To be continued!       |                 lyckay                 |
-|         花火之都         |                      灰澈 - 花火断想                       |                STAR_EVE                |
-|         美食派对         |               Tobu - Candyland pt. II                |     Suga Jahsin<br/>华华猪<br/>GP0108     |
-|          抑           |                    theo5970 - 용서                     |     Mafnero<br/>FIRE CLOUD STUDIO      |
-|         云端之上         |              Luke Richards - Tall Tales              |               寒鹰丶SHADOW                |
-|          假日          |               千坂 / Cyan Lpegd - Moment               |                 lyckay                 |
-|          迷度          |              House Rulez - 37th Avenue               |                CIAD233                 |
-|       迷度 \[新]        |              House Rulez - 37th Avenue               |          CIAD233  <br/>Max冰焰           |
-|          滑稽          |                     MöSS - 23:33                     |           Lusaslan<br/>Max冰焰           |
-|      In the End      |             Tommee Profitt - In the End              |         raw_chicken<br/>Max冰焰          |
-|  木星 \[Trance Remix]  |                Li Ga Yb - The Jupiter                |                Li Ga Yb                |
-|       MARENOL        |                    LeaF - MARENOL                    |                  尘落南丘                  |
-|          数学          |                Li Ga Yb - Mathematics                |           Li Ga Yb<br/>Max冰焰           |
-|          自然          |         Alfaiate Franz - O Filtro dos Sonhos         |                 Max冰焰                  |
-|          海洋          |                  羽焰辰星 - Ocean Remix                  |            Max冰焰<br/>qqxqqx            |
-|          伊始          |                    羽焰辰星 - Utopia                     |                 Max冰焰                  |
-|          雨           |                  Brian Crain - rain                  |                 Max冰焰                  |
-|          雨夜          |                      四季音色 - 雨夜                       |               Pumpkin_Z                |
-|          校园          |                   RADWIMPS - かたわれ时                   |                 lyckay                 |
-|          空间          | Yann Tiersen - Comptine D'un Autre Été, L'après-Midi |                 Max冰焰                  |
-|          开端          |                   羽焰辰星 - Prologue                    |                 Max冰焰                  |
-|        草莓&香烟         |   Yutin - Strawberries & Cigarettes \[Yutin Remix]   |            qqxqqx<br/>巴拉巴j             |
-|          探索          | Chronos - The Discovery \[VIP Mix feat. Max Studio]  |            Max余焰<br/>Max冰焰             |
-|          山谷          |                MisterPan - The Valley                |               MisterPan                |
-|          白界          |             ¿Téo? - Ascended Vibrations              |                 CXY-辰                  |
+|       关卡名称        |                         使用音乐                         |                  关卡作者                  |
+|:-----------------:|:----------------------------------------------------:|:--------------------------------------:|
+|        周年庆        |      MAPLEX / 098765_ - MaxLine 1st Anniversary      | GP0108<br/>lyckay<br/>Max冰焰<br/>qqxqqx |
+|        启示录        |               Peter Roe - Last Reunion               |            Max冰焰<br/>qqxqqx            |
+| 海滩 Melodic House  |                羽焰辰星 - Summer Prologue                |            qqxqqx<br/>Max冰焰            |
+|       贝多芬病毒       |           Diana Boncheva - Beethoven Virus           |            qqxqqx<br/>Max冰焰            |
+|        焦糖星        |                     warma - 焦糖星                      |          塩_<br/>Hatcat<br/>牛奶          |
+|      焦糖星·九周年      |                     warma - 焦糖星                      |   塩_<br/>Hatcat<br/>牛奶<br/>SrY-ABYSS   |
+|        化学         |               Li Ga Yb - The Chemistry               |                Li Ga Yb                |
+|        圣诞雪        |             Chronos - The Christmas Snow             |              Munity Twin               |
+|         云         |                       猎豹游戏 - 云                       |                 lyckay                 |
+|        乡野         |                麦金 - 田野 \[Disco Remix]                |                 Max冰焰                  |
+|       沙漠迷宫        |               零燚01 - 迷宫 \[零燚01 Remix]                |                 qqxqqx                 |
+|        橄榄球        |                Black Violin - Dreamer                |            qqxqqx<br/>Max冰焰            |
+| 霖 Soft Orchestral |              初云CLoudie - The Rain Remix              |                  华华猪                   |
+|        帝国         |        Two Steps From Hell - Empire Of Angels        |          Mandroid<br/>GP0108           |
+|        燃火         |       Falcom Sound Team jdk - To be continued!       |                 lyckay                 |
+|       花火之都        |                      灰澈 - 花火断想                       |                STAR_EVE                |
+|       美食派对        |               Tobu - Candyland pt. II                |     Suga Jahsin<br/>华华猪<br/>GP0108     |
+|         抑         |                    theo5970 - 용서                     |     Mafnero<br/>FIRE CLOUD STUDIO      |
+|       云端之上        |              Luke Richards - Tall Tales              |               寒鹰丶SHADOW                |
+|        假日         |               千坂 / Cyan Lpegd - Moment               |                 lyckay                 |
+|        迷度         |              House Rulez - 37th Avenue               |                CIAD233                 |
+|       新·迷度        |              House Rulez - 37th Avenue               |          CIAD233  <br/>Max冰焰           |
+|        滑稽         |                     MöSS - 23:33                     |           Lusaslan<br/>Max冰焰           |
+|    In the End     |             Tommee Profitt - In the End              |         raw_chicken<br/>Max冰焰          |
+|  木星 Trance Remix  |                Li Ga Yb - The Jupiter                |                Li Ga Yb                |
+|      MARENOL      |                    LeaF - MARENOL                    |                  尘落南丘                  |
+|        数学         |                Li Ga Yb - Mathematics                |           Li Ga Yb<br/>Max冰焰           |
+|        自然         |         Alfaiate Franz - O Filtro dos Sonhos         |                 Max冰焰                  |
+|        海洋         |                  羽焰辰星 - Ocean Remix                  |            Max冰焰<br/>qqxqqx            |
+|        伊始         |                    羽焰辰星 - Utopia                     |                 Max冰焰                  |
+|         雨         |                  Brian Crain - rain                  |                 Max冰焰                  |
+|        雨夜         |                      四季音色 - 雨夜                       |               Pumpkin_Z                |
+|        校园         |                   RADWIMPS - かたわれ时                   |                 lyckay                 |
+|        空间         | Yann Tiersen - Comptine D'un Autre Été, L'après-Midi |                 Max冰焰                  |
+|        开端         |                   羽焰辰星 - Prologue                    |                 Max冰焰                  |
+|       草莓&香烟       |   Yutin - Strawberries & Cigarettes \[Yutin Remix]   |            qqxqqx<br/>巴拉巴j             |
+|        探索         | Chronos - The Discovery \[VIP Mix feat. Max Studio]  |            Max余焰<br/>Max冰焰             |
+|        山谷         |                MisterPan - The Valley                |               MisterPan                |
+|        白界         |             ¿Téo? - Ascended Vibrations              |                 CXY-辰                  |
 
 ### 不可玩关卡
 |         关卡名称         |                       使用音乐                       |
@@ -60,10 +60,10 @@
 |         敬请期待         |                羽焰辰星 - Coming Soon                |
 
 ### 已移除关卡
-|  关卡名称   |  移除版本  |
-|:-------:|:------:|
-| 滑稽 \[旧] | v1.1.3 |
-| 探索 \[旧] | v1.1.6 |
+| 关卡名称  |  移除版本  |
+|:-----:|:------:|
+| 滑稽（旧） | v1.1.3 |
+| 探索（旧） | v1.1.6 |
 
 ## 搜索
 在MaxLine中，玩家可使用搜索快速寻找关卡
@@ -88,8 +88,8 @@
 * 尽管有很多人认为空间和混沌很像，但在Max冰焰制作该关卡时并没有参考混沌
 * 官方收录的[空间](https://www.bilibili.com/video/BV1Ex4y117sm)并不由Max冰焰制作，而是由枫炎根据原版关卡制作
 * 霖的音乐是曲师初云CLoudie在MaxLine一周年时为给MaxLine庆祝生日而创作的。后被华华猪采用并制作出该关卡
-* 探索曾因Max余焰和Max冰焰间的矛盾而下架
-* 探索30%至40%的场景其实参考了spspste的[旅程](https://www.bilibili.com/video/BV18x411Z7ZB)。此处曾有随音乐节奏上升的方块，但在后续版本中被移除。
+* 探索曾因Max余焰和Max冰焰间的矛盾而移除
+* 探索30%至40%的场景其实参考了spspste的[旅程](https://www.bilibili.com/video/BV18x411Z7ZB)。此处曾有随音乐节奏上升的方块，但在后续版本中被移除
 * 新探索的音乐是Hatcat根据曲师ChronosAeon发布的两种版本的探索而重新混曲得来的
 * 周年庆20%的场景被多数玩家认为是代表伊始，但其实此处代表的是MaxLine在早期制作关卡时的场景
 * 在早期设计中，周年庆70%至80%包含了探索等多个场景，后被更改为仅包含探索场景
@@ -98,11 +98,12 @@
 * 在[启示录](https://www.bilibili.com/video/BV1uv411678R)设计早期，80%之后的场景和现在并不一样，现在的场景是Max冰焰重做后的结果
 * 启示录80%之后的场景变换最初计划使用图片实现，但因效果不佳而被更改为现在的样子
 * 在启示录结尾处，房屋前的三个墓碑分别代表了主人公逝去的妻子和两个孩子。主人公的妻子和两个孩子均在80%之后的场景变换中出现。~~表达了作者的悲伤之情~~
-* 在[In the End](https://www.bilibili.com/video/BV1qN41197MR)设计早期，60%至90%的场景和现在并不一样，现在的场景是Max冰焰根据raw_chicken的口述重做后的结果
+* 在In the End设计早期，60%至90%的场景和现在并不一样，现在的场景是Max冰焰根据raw_chicken的口述重做后的结果
 * 草莓&香烟中原本存在一条彩蛋路线，但此路线在关卡发布时被取消
 * MARENOL在关卡发布时名为“MARENOL - LeaF”，后被改为“MARENOL”
 * 数学的原版关卡中存在一条彩蛋路线，但此路线在关卡重制时被取消
 * 在游戏制作早期，敬请期待的模型曾被多次修改
+* 花火之都在最初加入游戏时名为“花火断想”，是此关卡使用音乐的名称。后在v2.0.0重新更改为“花火之都”，也就是这个关卡最初的名字
 
 ## 画廊
 ![menu1](img/menu1.png)

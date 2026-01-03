@@ -106,7 +106,7 @@ Update date: August 25th, 2025
 ## v1.5.0
 Update date: July 2nd, 2025
 
-1, Added new level: Hollowness \[Redesigned]
+1, Added new level: Hollowness - New
 
 2, Optimized the performance of camera follow in some levels
 

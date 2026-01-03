@@ -1,16 +1,6 @@
 # MaxLine - About
 *****
 ## Credit
-> Sorting rule:
->
-> 1, Names started with a Chinese character are sorted by first letter of its Pinyin
->
-> 2, Names started with a English letter are sorted by its first letter
->
-> 3, Names started with a number are sorted by the size of its first number
->
-> 4, Names started with other characters are sorted randomly
-
 ![studio](img/studio.png)
 
 ### Producer
