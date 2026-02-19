@@ -1,4 +1,4 @@
-# MaxLine - About
+# About
 *****
 ## Credit
 ![studio](img/studio.png)

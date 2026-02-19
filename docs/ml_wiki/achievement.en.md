@@ -1,4 +1,4 @@
-# MaxLine - Achievements
+# Achievements
 *****
 ![cur_ach](img/achievement_cur.png)
 <body>
@@ -9,89 +9,91 @@
     </span>
 </body>
 
-## Achievement list
+## Achievement List
 >Sorted by first letter
-### Common achievements
-|             Level              |              Name              |        How to Achieve        |
+### Common Achievements
+|             Level              |             Title              |        How to Achieve        |
 |:------------------------------:|:------------------------------:|:----------------------------:|
-|          Anniversary           |        Happy birthday!         | Perfectly complete the level |
-|           Apocalypse           |     Under the apocalypse…      | Perfectly complete the level |
-|     Beach \[Melodic House]     |         Beach carnival         | Perfectly complete the level |
-|        Beethoven Virus         |      Fate…Utterly risible      | Perfectly complete the level |
-|          Caramel Star          |       A call, an answer.       | Perfectly complete the level |
-| Caramel Star - 9th Anniversary |       Nonuple sweetness        | Perfectly complete the level |
+|          Anniversary           |        Happy Birthday!         | Perfectly complete the level |
+|           Apocalypse           |     Under the Apocalypse…      | Perfectly complete the level |
+|     Beach - Melodic House      |         Beach Carnival         | Perfectly complete the level |
+|        Beethoven Virus         |      Fate…Utterly Risible      | Perfectly complete the level |
+|          Caramel Star          |       A Call. An Answer.       | Perfectly complete the level |
+| Caramel Star - 9th Anniversary |       Nonuple Sweetness        | Perfectly complete the level |
 |           Chemistry            |            He Zn Tm            | Perfectly complete the level |
 |         Christmas Snow         |        Merry Christmas!        | Perfectly complete the level |
-|             Cloud              |    Stepping onto the cloud     | Perfectly complete the level |
-|          Countryside           |      Villages and fields       | Perfectly complete the level |
-|          Desert Maze           |          Maze escaper          | Perfectly complete the level |
-|            Dreamer             |        A great dreamer         | Perfectly complete the level |
-|   Drizzle \[Soft Orchestral]   |       Breeze and drizzle       | Perfectly complete the level |
-|             Empire             |       History of rising        | Perfectly complete the level |
-|         Fire of Anger          |     May the world be peace     | Perfectly complete the level |
-|       Firework Paradise        |      Summer festival line      | Perfectly complete the level |
+|             Cloud              |    Stepping onto the Cloud     | Perfectly complete the level |
+|          Countryside           |      Villages and Fields       | Perfectly complete the level |
+|          Desert Maze           |          Maze Escaper          | Perfectly complete the level |
+|            Dreamer             |        A Great Dreamer         | Perfectly complete the level |
+|   Drizzle - Soft Orchestral    |       Breeze and Drizzle       | Perfectly complete the level |
+|             Empire             |       History of Rising        | Perfectly complete the level |
+|         Fire of Anger          |     May the World be Peace     | Perfectly complete the level |
+|       Firework Paradise        |      Summer Festival Line      | Perfectly complete the level |
 |           Food Party           |      Delicacy Temptation       | Perfectly complete the level |
 |             Gloom              |      Annihilated Spirits       | Perfectly complete the level |
-|       Head in the Clouds       |       Kingdom of clouds        | Perfectly complete the level |
+|       Head in the Clouds       |       Kingdom of Clouds        | Perfectly complete the level |
 |            Holidays            |            Traveler            | Perfectly complete the level |
-|           Hollowness           |    Life passes like a dream    | Perfectly complete the level |
-|    Hollowness \[Redesigned]    |      A new lease of life       | Perfectly complete the level |
-|             Huaji              | The world is a giant Li Ga Yb! | Perfectly complete the level |
-|           In the End           |      The final epilogue…       | Perfectly complete the level |
-|    Jupiter \[Trance Remix]     |       Fa, Fake diamonds!       | Perfectly complete the level |
+|           Hollowness           |    Life Passes like a Dream    | Perfectly complete the level |
+|        Hollowness - New        |      A New Lease of Life       | Perfectly complete the level |
+|             Huaji              | The World is a Giant Li Ga Yb! | Perfectly complete the level |
+|           In the End           |      The Final Epilogue…       | Perfectly complete the level |
+|     Jupiter - Trance Remix     |       Fa, Fake Diamonds!       | Perfectly complete the level |
 |            MARENOL             |            MARENOL             | Perfectly complete the level |
-|          Mathematics           |          Tool subject          | Perfectly complete the level |
-|             Nature             |     Originated from nature     | Perfectly complete the level |
-|             Ocean              |       The lost Atlantis        | Perfectly complete the level |
-|            Preface             |      Preface of the world      | Perfectly complete the level |
-|              Rain              |   Wandering through the rain   | Perfectly complete the level |
-|          Rainy Night           |    Walking at a rainy night    | Perfectly complete the level |
-|             School             |   Unforgettable school life    | Perfectly complete the level |
-|             Space              |        Is it…The Chaos?        | Perfectly complete the level |
-|            Starting            |     Starting of everything     | Perfectly complete the level |
-|   Strawberries & Cigarettes    |          Fall in love          | Perfectly complete the level |
-|    The Discovery - Chronos     |     Reborn from the ashes      | Perfectly complete the level |
-|             Valley             |        Hills and rivers        | Perfectly complete the level |
+|          Mathematics           |          Tool Subject          | Perfectly complete the level |
+|             Nature             |     Originated from Nature     | Perfectly complete the level |
+|             Ocean              |       The Lost Atlantis        | Perfectly complete the level |
+|            Preface             |      Preface of the World      | Perfectly complete the level |
+|              Rain              |   Wandering through the Rain   | Perfectly complete the level |
+|          Rainy Night           |    Walking at a Rainy Night    | Perfectly complete the level |
+|      Refraction Corridor       |            Polaris             | Perfectly complete the level |
+|          Ringing Rain          |        Drizzling Lament        | Perfectly complete the level |
+|             School             |   Unforgettable School Life    | Perfectly complete the level |
+|             Space              |        Is It…The Chaos?        | Perfectly complete the level |
+|            Starting            |     Starting of Everything     | Perfectly complete the level |
+|   Strawberries & Cigarettes    |          Fall in Love          | Perfectly complete the level |
+|    The Discovery - Chronos     |     Reborn from the Ashes      | Perfectly complete the level |
+|             Valley             |        Hills and Rivers        | Perfectly complete the level |
 |          White Realm           |  White Realm: Sound of Nature  | Perfectly complete the level |
 
-### Special achievements
-|        Name         |        How to Achieve         |
+### Special Achievements
+|        Title        |        How to Achieve         |
 |:-------------------:|:-----------------------------:|
-| Diamond collector Ⅰ |  Obtain 10 diamonds in total  |
-| Diamond collector Ⅱ | Obtain 100 diamonds in total  |
-| Diamond collector Ⅲ | Obtain 400 diamonds in total  |
-| Diamond collector Ⅳ | Obtain 800 diamonds in total  |
-| Diamond collector Ⅴ | Obtain 1200 diamonds in total |
-|   Rich in crown Ⅰ   |   Obtain 3 crowns in total    |
-|   Rich in crown Ⅱ   |   Obtain 30 crowns in total   |
-|   Rich in crown Ⅲ   |  Obtain 120 crowns in total   |
-|   Rich in crown Ⅳ   |  Obtain 240 crowns in total   |
-|   Rich in crown Ⅴ   |  Obtain 360 crowns in total   |
+| Diamond Collector Ⅰ |  Obtain 10 diamonds in total  |
+| Diamond Collector Ⅱ | Obtain 100 diamonds in total  |
+| Diamond Collector Ⅲ | Obtain 400 diamonds in total  |
+| Diamond Collector Ⅳ | Obtain 800 diamonds in total  |
+| Diamond Collector Ⅴ | Obtain 1200 diamonds in total |
+|   Rich in Crown Ⅰ   |   Obtain 3 crowns in total    |
+|   Rich in Crown Ⅱ   |   Obtain 30 crowns in total   |
+|   Rich in Crown Ⅲ   |  Obtain 120 crowns in total   |
+|   Rich in Crown Ⅳ   |  Obtain 240 crowns in total   |
+|   Rich in Crown Ⅴ   |  Obtain 360 crowns in total   |
 
-### Secret achievements
-|             Level              |              Name              |                    Description                    |
+### Secret Achievements
+|             Level              |             Title              |                    Description                    |
 |:------------------------------:|:------------------------------:|:-------------------------------------------------:|
-|          Anniversary           |          Handsome boy          |              Discover our photo wall              |
-| Caramel Star - 9th Anniversary |     Happy 9th anniversary!     |           Happy birthday, Dancing Line!           |
-|           Chemistry            | Chemistry changed the world!!! |         A heaven full of chemistry books          |
+|          Anniversary           |          Handsome Boy          |              Discover our photo wall              |
+| Caramel Star - 9th Anniversary |     Happy 9th Anniversary!     |           Happy birthday, Dancing Line!           |
+|           Chemistry            | Chemistry Changed the World!!! |         A heaven full of chemistry books          |
 |          Desert Maze           |             Bang!              |  You thought this road is passable, didn't you?   |
-|           Hollowness           |         Hallowed tree          | Encounter the hallowed tree in a mysterious world |
-|    Hollowness \[Redesigned]    |        Monument Valley         |                   Best partner!                   |
-|             Ocean              |         Lifeless ocean         |   Why there are no fishes in such a vast ocean?   |
+|           Hollowness           |         Hallowed Tree          | Encounter the hallowed tree in a mysterious world |
+|        Hollowness - New        |        Monument Valley         |                   Best partner!                   |
+|             Ocean              |         Lifeless Ocean         |   Why there are no fishes in such a vast ocean?   |
 
 ## Trivia
-* The achievement of Ocean was originally named as "Dive into the deep", and was later changed to "The lost Atlantis". It's a homage to the lyric "Where are you now? -Atlantis." in Alan Walker's song ["Faded"](https://music.163.com/#/song?id=36990266)
-* The Chinese achievement name of Dreamer actually came from the level's English title "Dreamer". It's also the name of the song used in the level
-* In Chinese, the name of the achievement of School came from a poem written by the level designer lyckay when designing the level
-* After the official version of [Space](https://www.bilibili.com/video/BV1Ex4y117sm) had been released, many players called this level "Bonus of The Chaos", so the achievement of Space was named as "Is it…The Chaos?"
-* The achievement of The Discovery - Chronos is "Reborn from the ashes", which seems to have no relation to the level, is closely connected to the process that the level was removed and was remade then released again
-* The achievement of Desert Maze is "Maze escaper", which has nothing to do with the level's actual content, is supposed that it's insinuating something
-* The achievement of Chemistry is "He Zn Tm". Actually, He, Zn and Tm are the preceding elements of Li, Ga and Yb, respectively. Li Ga Yb used to use this name as his name
-* The achievement of Fireworks, "Summer festival line", came from a food called "Summer Festival Fish" in Genshin Impact
-* The achievement of Mathematics, "Tool subject", came from a joke told by game producer's physics teacher in class
-* The achievement of Jupiter, "Fa, Fake diamonds!", is actually an answer to the question "What are on the Jupiter?" in the title of the official video
-* The achievement of Food Party, "Delicacy Temptation", came from a level named "Delicacy Temptation" in Rolling Sky
-* The secret achievement of Ocean, "Lifeless ocean", is actually a joke told by players because there are no fishes and other sea creatures in ocean
+* The achievement of _Ocean_ was originally named as _Dive into the Deep_, and was later changed to _The Lost Atlantis_. It's a homage to the lyric "Where are you now? -Atlantis." in Alan Walker's song _[Faded](https://music.163.com/#/song?id=36990266)_
+* The Chinese achievement title of _Dreamer_ actually came from the level's English title. This name is also the name of the song used in the level
+* In Chinese, the name of the achievement of _School_ came from a poem written by the level designer lyckay when designing the level
+* After the official version of _[Space](https://www.bilibili.com/video/BV1Ex4y117sm)_ had been released, many players called this level "Bonus of The Chaos", so the achievement was named as _Is It…The Chaos?_
+* The achievement of _The Discovery - Chronos_ is _Reborn from the Ashes_, which seems to have no relation to the level, is closely connected to the process that the level was removed and redesigned then released again
+* The achievement of _Desert Maze_ is _Maze Escaper_, which has nothing to do with the level's actual content, is supposed that it's insinuating something
+* The achievement of _Chemistry_ is _He Zn Tm_. Actually, He, Zn and Tm are the preceding elements of Li, Ga and Yb, respectively. Li Ga Yb used to use this name as his name
+* The achievement of _Fireworks_, _Summer Festival Line_, came from a food called _Summer Festival Fish_ in _Genshin Impact_
+* The achievement of _Mathematics_, _Tool Subject_, came from a joke told by game producer's physics teacher in class
+* The achievement of _Jupiter_, _Fa, Fake Diamonds!_, is actually an answer to the question "What are on the Jupiter?" in the title of the official video
+* The achievement of _Food Party_, _Delicacy Temptation_, came from a level named _Delicacy Temptation_ in _Rolling Sky_
+* The secret achievement of _Ocean_, _Lifeless Ocean_, is actually a joke told by players because there are no fishes and other sea creatures in _Ocean_
 
 ## Gallery
 ![achievement1](img/achievement1.png)

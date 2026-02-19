@@ -1,7 +1,7 @@
 # Individual Works
 *****
 This page contains my finished and unfinished works made since 2018
-## Finished works
+## Finished Works
 ### 2018
 #### The Ocean
 ![ocean](img/works/ocean.png)
@@ -232,7 +232,7 @@ Publication date: April 20th, 2025
 
 Video link: [BiliBili](https://www.bilibili.com/video/BV1465fzcEHa)
 
-### Un-traced year works
+### Un-traced Year Works
 #### The Storm \[Full]
 ![storm](img/works/storm.png)
 Cooperated with Fenger
@@ -253,7 +253,7 @@ Video link: [BiliBili](https://www.bilibili.com/video/BV1Yb411K7dV?spm_id_from=3
 ![begin2](img/works/begin2.png)
 Video link: [BiliBili](https://www.bilibili.com/video/BV1qP4y1X71s?spm_id_from=333.788.videopod.episodes&vd_source=1c695510ce7ddee97334e7846a16a194&p=2)
 
-## Unfinished works
+## Unfinished Works
 ### The Town
 Made with UE4
 

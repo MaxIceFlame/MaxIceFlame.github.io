@@ -1,4 +1,4 @@
-# MaxLine - 关于
+# 关于
 *****
 ## 制作人员
 ![studio](img/studio.png)

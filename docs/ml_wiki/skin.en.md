@@ -1,4 +1,4 @@
-# MaxLine - Skins
+# Skins
 *****
 ![cur_skin](img/skin_cur.png)
 <body>
@@ -9,8 +9,8 @@
     </span>
 </body>
 
-## Skin list
-|    Name    |                 Version                  |
+## Skin List
+|    Name    |              Update Version              |
 |:----------:|:----------------------------------------:|
 |   Normal   |                  v1.0.0                  |
 | Headphone  |                  v1.1.2                  |
@@ -24,8 +24,8 @@
 |   Module   |                  v1.4.0                  |
 
 ## Trivia
-* Zeus was added in v1.1.2, but it was not available before v1.1.4
-* The game producer used to consider adding Flying Nimbus, Magic Witch, etc. But it was cancelled due to some reasons
+* _Zeus_ was added in v1.1.2, but it was not available before v1.1.4
+* The game producer used to consider adding _Flying Nimbus_, _Magic Witch_ and other more skins. But they were cancelled due to some reasons
 
 ## Gallery
 ![skin1](img/skin1.png)

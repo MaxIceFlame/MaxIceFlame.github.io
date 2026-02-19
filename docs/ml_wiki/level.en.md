@@ -1,4 +1,4 @@
-# MaxLine - Levels
+# Levels
 *****
 ![cur_menu](img/menu_cur.png)
 <body>
@@ -9,9 +9,9 @@
     </span>
 </body>
 
-## Level list
+## Level List
 >Sorted by first letter
-### Playable levels
+### Playable Levels
 |             Title              |                        Music                         |                 Designer(s)                  |
 |:------------------------------:|:----------------------------------------------------:|:--------------------------------------------:|
 |          Anniversary           |      MAPLEX / 098765_ - MaxLine 1st Anniversary      | GP0108<br/>lyckay<br/>MaxIceFlame<br/>qqxqqx |
@@ -46,6 +46,8 @@
 |            Preface             |                    Fairo - Utopia                    |                 MaxIceFlame                  |
 |              Rain              |                  Brian Crain - rain                  |                 MaxIceFlame                  |
 |          Rainy Night           |                      四季音色 - 雨夜                       |                  Pumpkin_Z                   |
+|      Refraction Corridor       |                HOYO-MiX - 北极星 Polaris                |                  SrY-ABYSS                   |
+|          Ringing Rain          |                  Alan Mackin - 雨霖铃                   |                    CXY-辰                     |
 |             School             |                   RADWIMPS - かたわれ时                   |                    lyckay                    |
 |             Space              | Yann Tiersen - Comptine D'un Autre Été, L'après-Midi |                 MaxIceFlame                  |
 |            Starting            |                   Fairo - Prologue                   |                 MaxIceFlame                  |
@@ -54,21 +56,21 @@
 |             Valley             |                MisterPan - The Valley                |                  MisterPan                   |
 |          White Realm           |             ¿Téo? - Ascended Vibrations              |                    CXY-辰                     |
 
-### Unplayable level
+### Unplayable Level
 |    Title    |        Music        |
 |:-----------:|:-------------------:|
 | Coming Soon | Fairo - Coming Soon |
 
-### Removed levels
-|                    Title                    | Version |
-|:-------------------------------------------:|:-------:|
-|           The Funny (Huaji) (Old)           | v1.1.3  |
-| The Explore (The Discovery - Chronos) (Old) | v1.1.6  |
+### Removed Levels
+|                       Title                       | Removal Version |
+|:-------------------------------------------------:|:---------------:|
+|           The Funny (i.e., Huaji) (Old)           |     v1.1.3      |
+| The Explore (i.e., The Discovery - Chronos) (Old) |     v1.1.6      |
 
 ## Search
-In MaxLine, players can find levels quickly by searching
+In MaxLine, players can find levels quickly by search
 
-Search function was added in v1.3.5. The purpose was to make it more convenient to quickly find the level they want to play in increasing levels for players, instead of wasting too much time finding levels
+Search was added in v1.3.5. The purpose was to make it more convenient to quickly find the level they want to play in increasing levels for players, instead of wasting too much time finding levels
 
 ![search1](img/search_cur.png)
 <body>
@@ -80,30 +82,30 @@ Search function was added in v1.3.5. The purpose was to make it more convenient 
 </body>
 
 ## Trivia
-* Before v1.1.5, Starting was named as "The Prologue" and it was the first level in game. Preface was added in v1.1.5, and it replaced The Prologue. Then, The Prologue was renamed as "The Starting", and it became the second level in game
-* Starting was not as easy as it is now. Starting was scaled down difficulty for many times and gradually became what it looks like now
-* In the early design of Ocean, it was planned that the line would disappear after 50% and become a ball, in order to be a homage to "Dancing Ball". This plan was abandoned later
-* Although the level was re-added in later version, the original intention of adding Rain was to take the place of The Explore
-* The designer of School, lyckay, used to write a poem to reminisce about campus life. This level is connected with the poem
-* Although many people thought that The Space is similar to The Chaos, MaxIceFlame didn't take The Chaos as a reference while designing
-* The official version of [Space](https://www.bilibili.com/video/BV1Ex4y117sm) was not made by MaxIceFlame, but made by Feng Yan according to the original level
-* The music of Drizzle was composed by 初云CLoudie when MaxLine was one year old, for celebrating its first anniversary. The music was later adopted by Hua Hua Pig to make level
-* The Explore used to be removed due to the conflict between MaxBlazeRes and MaxIceFlame
-* In The Discovery - Chronos, the scene from 30% to 40% was made with the reference to [The Journey](https://www.bilibili.com/video/BV18x411Z7ZB) by spspste. There had been cubes rising with the rhythm, but they were removed in following version
-* The music of The Discovery - Chronos was remixed by Hatcat using its two versions published by its composer, ChronosAeon
-* In Anniversary, many players thought that the scene at 20% refers to Preface, but this scene actually refers to level scene making at the early stage of MaxLine
-* In the early design of Anniversary, the scene from 70% to 80% included not only The Explore. Later it was changed that it only included the scene of The Explore
-* In Anniversary, the scene from 80% to 90% actually was made with the reference to [Candlelight of Love](https://www.bilibili.com/video/BV1Zi4y1K7az) from Sky Cloud Story
-* The original name of Huaji was "The Funny". It used to be planned to changed to "Jocularity" while remaking, but the plan was abandoned later. Then it was directly named as "Huaji" (From the Chinese Pinyin of "滑稽", its Chinese name)
-* In the early design of [Apocalypse](https://www.bilibili.com/video/BV1uv411678R), the scene after 80% was not same as it is now. What it looks like now was a redesign by MaxIceFlame
-* The scene transformations after 80% in Apocalypse was used to be planned to realize by images, but it was changed to its now appearance due to the bad result
-* At the end of Apocalypse, the three tombstones in front of the house refer to hero's wife and two children. They are shown up in scene transformations after 80%
-* In the early design of In the End, the scene from 60% to 90% was not same as it is now. What it looks like now was a redesign by MaxIceFlame according to raw_chicken's oral description
-* There had been an Easter egg in Strawberries & Cigarettes, but it was cancelled when level released
-* MARENOL was named as "MARENOL - LeaF" when the level was released. Later it was changed to "MARENOL"
-* There had been an Easter egg in the original version of Mathematics, but it was cancelled when the level was remade
-* In the early stage of game development, the model of Coming Soon was redesigned for many times
-* Firework Paradise was originally named "花火断想" (Fireworks), which is the title of its music when it was published on MaxLine. This level was renamed "Firework Paradise" in v2.0.0 — its original name from the design phase
+* Before v1.1.5, _Starting_ was named as _The Prologue_. Later, _Preface_ was added and it replaced _The Prologue_. Then, _The Prologue_ was renamed as _The Starting_
+* _Starting_ was not as easy as it is now. _Starting_ was scaled down difficulty for many times and gradually became what it looks like now
+* In the early design of _Ocean_, it was planned that the line would disappear after 50% and become a ball, in order to be a homage to _Dancing Ball_. This plan was cancelled later
+* Although the level was re-added in later version, the original intention of adding _Rain_ was to take the place of _The Explore_
+* The designer of _School_, lyckay, used to write a poem to reminisce about campus life. This level is connected with the poem
+* Although many people thought that _Space_ is similar to _The Chaos_, MaxIceFlame didn't take _The Chaos_ as a reference while designing
+* The official version of _[Space](https://www.bilibili.com/video/BV1Ex4y117sm)_ was not made by MaxIceFlame, but made by Feng Yan according to the original level
+* The music of _Drizzle_ was composed by 初云CLoudie when MaxLine was one year old, for celebrating its first anniversary. The music was later adopted by Hua Hua Pig to make level
+* _The Explore_ used to be removed due to the conflict between MaxBlazeResFire and MaxIceFlame
+* In _The Discovery - Chronos_, the scene from 30% to 40% was made with the reference to _[The Journey](https://www.bilibili.com/video/BV18x411Z7ZB)_ by spspste. There had been cubes rising with the rhythm, but they were removed in following version
+* The music of _The Discovery - Chronos_ was remixed by Hatcat using its two versions published by its composer, ChronosAeon
+* In _Anniversary_, many players thought that the scene at 20% refers to _Preface_, but this scene actually refers to level scene making at the early stage of MaxLine
+* In the early design of _Anniversary_, the scene from 70% to 80% included not only _The Explore_. Later it was changed and only the scene of _The Explore_ was included
+* In _Anniversary_, the scene from 80% to 90% actually was made with the reference to _[Candlelight of Love](https://www.bilibili.com/video/BV1Zi4y1K7az)_ from Sky Cloud Story
+* The original name of _Huaji_ was _The Funny_. It used to be planned to changed to _Jocularity_ while remaking, but the plan was cancelled later. Then it was directly named as _Huaji_ (The Chinese Pinyin of "滑稽", its Chinese name)
+* In the early design of _[Apocalypse](https://www.bilibili.com/video/BV1uv411678R)_, the scene after 80% was not same as it is now. What it looks like now was a redesign by MaxIceFlame
+* The scene transitions after 80% in _Apocalypse_ was used to be planned to realize by images, but it was changed to its now appearance due to bad performance
+* At the end of _Apocalypse_, the three tombstones in front of the house refer to hero's wife and two children. They are shown up in scene transitions after 80%
+* In the early design of _In the End_, the scene from 60% to 90% was not same as it is now. What it looks like now was a redesign by MaxIceFlame according to raw_chicken's oral description
+* There had been an Easter egg in _Strawberries & Cigarettes_, but it was cancelled when released
+* _MARENOL_ was named as _MARENOL - LeaF_ when the level was released. Later it was changed to _MARENOL_
+* There had been an Easter egg in the original version of _Mathematics_, but it was cancelled when the level was redesigned
+* In the early stage of game development, the model of _Coming Soon_ was redesigned for many times
+* _Firework Paradise_ was originally named as _Fireworks_. It was renamed as _Firework Paradise_ in v2.0.0 — its original name from the design phase
 
 ## Gallery
 ![menu1](img/menu1.png)
