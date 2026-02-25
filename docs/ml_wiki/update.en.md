@@ -1,6 +1,30 @@
 # Change Logs
 *****
 ## 2026
+### v2.1.0
+
+Update date: March 4th
+
+1, Added new level: _Sincerity_
+
+2, Removed the old login system and added DL RS GAS OAuth Login System
+
+3, Added DL RS GAS Cloud Archive System
+
+4, Added a series of new achievements of _Diving Champion_ and _Careless Adventurer_
+
+5, Added My Account page in settings
+
+6, Exchanged the positions of _Cloud_ and _Refraction Corridor_
+
+7, Adjusted the shadow direction in _Ringing Rain_
+
+8, Fixed the issue that the percentage of 40% in _Empire_ was missing
+
+9, Fixed the issue that the music can't be played properly in some situations
+
+10, Other changes
+
 ### v2.0.5
 Update date: February 18th
 

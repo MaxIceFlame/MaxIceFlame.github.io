@@ -49,6 +49,7 @@
 |       折光梦廊        |                HOYO-MiX - 北极星 Polaris                |               SrY-ABYSS                |
 |        雨霖铃        |                       麦金 - 雨霖铃                       |                 CXY-辰                  |
 |        校园         |                   RADWIMPS - かたわれ时                   |                 lyckay                 |
+|        情愫         |                 星融角枝 - Lo-fi Romance                 |                 CXY-辰                  |
 |        空间         | Yann Tiersen - Comptine D'un Autre Été, L'après-Midi |                 Max冰焰                  |
 |        开端         |                   羽焰辰星 - Prologue                    |                 Max冰焰                  |
 |       草莓&香烟       |   Yutin - Strawberries & Cigarettes \[Yutin Remix]   |            qqxqqx<br/>巴拉巴j             |

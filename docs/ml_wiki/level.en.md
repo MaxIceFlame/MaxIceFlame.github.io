@@ -49,6 +49,7 @@
 |      Refraction Corridor       |                HOYO-MiX - 北极星 Polaris                |                  SrY-ABYSS                   |
 |          Ringing Rain          |                  Alan Mackin - 雨霖铃                   |                    CXY-辰                     |
 |             School             |                   RADWIMPS - かたわれ时                   |                    lyckay                    |
+|           Sincerity            |                 ORKZ - Lo-fi Romance                 |                    CXY-辰                     |
 |             Space              | Yann Tiersen - Comptine D'un Autre Été, L'après-Midi |                 MaxIceFlame                  |
 |            Starting            |                   Fairo - Prologue                   |                 MaxIceFlame                  |
 |   Strawberries & Cigarettes    |   Yutin - Strawberries & Cigarettes \[Yutin Remix]   |              qqxqqx<br/>Balabaj              |

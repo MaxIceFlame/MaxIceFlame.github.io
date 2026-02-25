@@ -49,6 +49,7 @@
 |      Refraction Corridor       |            Polaris             | Perfectly complete the level |
 |          Ringing Rain          |        Drizzling Lament        | Perfectly complete the level |
 |             School             |   Unforgettable School Life    | Perfectly complete the level |
+|           Sincerity            |           Love Story           | Perfectly complete the level |
 |             Space              |        Is It…The Chaos?        | Perfectly complete the level |
 |            Starting            |     Starting of Everything     | Perfectly complete the level |
 |   Strawberries & Cigarettes    |          Fall in Love          | Perfectly complete the level |
@@ -57,18 +58,24 @@
 |          White Realm           |  White Realm: Sound of Nature  | Perfectly complete the level |
 
 ### Special Achievements
-|        Title        |        How to Achieve         |
-|:-------------------:|:-----------------------------:|
-| Diamond Collector Ⅰ |  Obtain 10 diamonds in total  |
-| Diamond Collector Ⅱ | Obtain 100 diamonds in total  |
-| Diamond Collector Ⅲ | Obtain 400 diamonds in total  |
-| Diamond Collector Ⅳ | Obtain 800 diamonds in total  |
-| Diamond Collector Ⅴ | Obtain 1200 diamonds in total |
-|   Rich in Crown Ⅰ   |   Obtain 3 crowns in total    |
-|   Rich in Crown Ⅱ   |   Obtain 30 crowns in total   |
-|   Rich in Crown Ⅲ   |  Obtain 120 crowns in total   |
-|   Rich in Crown Ⅳ   |  Obtain 240 crowns in total   |
-|   Rich in Crown Ⅴ   |  Obtain 360 crowns in total   |
+|         Title         |            How to Achieve            |
+|:---------------------:|:------------------------------------:|
+|  Diamond Collector Ⅰ  |     Obtain 10 diamonds in total      |
+|  Diamond Collector Ⅱ  |     Obtain 100 diamonds in total     |
+|  Diamond Collector Ⅲ  |     Obtain 400 diamonds in total     |
+|  Diamond Collector Ⅳ  |     Obtain 800 diamonds in total     |
+|  Diamond Collector Ⅴ  |    Obtain 1200 diamonds in total     |
+|    Rich in Crown Ⅰ    |       Obtain 3 crowns in total       |
+|    Rich in Crown Ⅱ    |      Obtain 30 crowns in total       |
+|    Rich in Crown Ⅲ    |      Obtain 120 crowns in total      |
+|    Rich in Crown Ⅳ    |      Obtain 240 crowns in total      |
+|    Rich in Crown Ⅴ    |      Obtain 360 crowns in total      |
+|   Diving Champion Ⅰ   |     Fall into water for 10 times     |
+|   Diving Champion Ⅱ   |     Fall into water for 50 times     |
+|   Diving Champion Ⅲ   |    Fall into water for 100 times     |
+| Careless Adventurer Ⅰ | Deviate from the route for 10 times  |
+| Careless Adventurer Ⅱ | Deviate from the route for 50 times  |
+| Careless Adventurer Ⅲ | Deviate from the route for 100 times |
 
 ### Secret Achievements
 |             Level              |             Title              |                    Description                    |
