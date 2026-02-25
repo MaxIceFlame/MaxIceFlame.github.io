@@ -23,7 +23,9 @@ Update date: March 4th
 
 9, Fixed the issue that the music can't be played properly in some situations
 
-10, Other changes
+10, Corrected the wrong year in special ending in _Ringing Rain_
+
+11, Other changes
 
 ### v2.0.5
 Update date: February 18th
