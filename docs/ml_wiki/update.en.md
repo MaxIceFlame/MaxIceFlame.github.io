@@ -19,11 +19,11 @@ Update date: March 4th
 
 7, Adjusted the shadow direction in _Ringing Rain_
 
-8, Fixed the issue that the percentage of 40% in _Empire_ was missing
+8, Corrected the wrong year in special ending in _Ringing Rain_
 
-9, Fixed the issue that the music can't be played properly in some situations
+9, Fixed the issue that the percentage of 40% in _Empire_ was missing
 
-10, Corrected the wrong year in special ending in _Ringing Rain_
+10, Fixed the issue that the music can't be played properly in some situations
 
 11, Other changes
 
