@@ -7,8 +7,6 @@
 Max Studio
 
 ### Technical Supports
-Summer of Orange
-
 Feng Yan
 
 Hatcat
@@ -60,9 +58,9 @@ BluesDawn
 
 Summer of Orange
 
-Feng Yan
-
 dogdie233
+
+TBOTP
 
 鸡块
 
@@ -83,7 +81,7 @@ Fairo
 
 098765_
 
-#### Image
+#### Art
 DGCK81LNN
 
 Hatcat
@@ -96,7 +94,7 @@ TL Kasimyia
 
 Startal_Fall
 
-#### Publicity
+#### Publicity & Distribution
 GP0108
 
 Hatcat

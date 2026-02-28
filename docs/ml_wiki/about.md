@@ -7,8 +7,6 @@
 极游工作室
 
 ### 技术支持
-橙之夏
-
 枫炎
 
 Hatcat
@@ -60,9 +58,9 @@ BluesDawn
 
 橙之夏
 
-枫炎
-
 狗带die_
+
+幻影の刃
 
 鸡块
 
@@ -83,7 +81,7 @@ MAPLEX
 
 098765_
 
-#### 图像
+#### 美术
 DGCK81LNN
 
 Hatcat
@@ -96,7 +94,7 @@ TL Kasimyia
 
 星辰_TAMOU
 
-#### 宣传
+#### 宣发
 GP0108
 
 Hatcat
