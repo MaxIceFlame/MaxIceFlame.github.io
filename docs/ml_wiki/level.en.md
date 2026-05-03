@@ -26,17 +26,18 @@
 |          Countryside           |        Alan Mackin - The Plain \[Disco Remix]        |                 MaxIceFlame                  |
 |          Desert Maze           |            零燚01 - The Maze \[零燚01 Remix]             |                    qqxqqx                    |
 |            Dreamer             |                Black Violin - Dreamer                |            qqxqqx<br/>MaxIceFlame            |
-|   Drizzle - Soft Orchestral    |              初云CLoudie - The Rain Remix              |                 Hua Hua Pig                  |
+|   Drizzle - Soft Orchestral    |              初云CLoudie - The Rain Remix              |                   HHPStar                    |
 |             Empire             |        Two Steps From Hell - Empire Of Angels        |             Mandroid<br/>GP0108              |
 |         Fire of Anger          |       Falcom Sound Team jdk - To be continued!       |                    lyckay                    |
 |       Firework Paradise        |                      灰澈 - 花火断想                       |                   STAR_EVE                   |
-|           Food Party           |               Tobu - Candyland pt. II                |    Suga Jahsin<br/>Hua Hua Pig<br/>GP0108    |
+|           Food Party           |               Tobu - Candyland pt. II                |      Suga Jahsin<br/>HHPStar<br/>GP0108      |
 |             Gloom              |                    theo5970 - 용서                     |        Mafnero<br/>FIRE CLOUD STUDIO         |
 |       Head in the Clouds       |              Luke Richards - Tall Tales              |                  寒鹰丶SHADOW                   |
 |            Holidays            |               千坂 / Cyan Lpegd - Moment               |                    lyckay                    |
 |           Hollowness           |              House Rulez - 37th Avenue               |                   CIAD233                    |
 |        Hollowness - New        |              House Rulez - 37th Avenue               |           CIAD233<br/>MaxIceFlame            |
 |             Huaji              |                     MöSS - 23:33                     |           Lusaslan<br/>MaxIceFlame           |
+|            Inferno             |             Fairo / 初云CLoudie - The Hell             |                    CXY-辰                     |
 |           In the End           |             Tommee Profitt - In the End              |         raw_chicken<br/>MaxIceFlame          |
 |     Jupiter - Trance Remix     |                Li Ga Yb - The Jupiter                |                   Li Ga Yb                   |
 |            MARENOL             |                    LeaF - MARENOL                    |                     尘落南丘                     |
@@ -45,6 +46,7 @@
 |             Ocean              |                 Fairo - Ocean Remix                  |            MaxIceFlame<br/>qqxqqx            |
 |            Preface             |                    Fairo - Utopia                    |                 MaxIceFlame                  |
 |              Rain              |                  Brian Crain - rain                  |                 MaxIceFlame                  |
+|          Rainy Memory          |                RABPIT - Rainy Memory                 |       Birdking鸟王<br/>HHPStar<br/>CXY-辰       |
 |          Rainy Night           |                      四季音色 - 雨夜                       |                  Pumpkin_Z                   |
 |      Refraction Corridor       |                HOYO-MiX - 北极星 Polaris                |                  SrY-ABYSS                   |
 |          Ringing Rain          |                  Alan Mackin - 雨霖铃                   |                    CXY-辰                     |
@@ -90,7 +92,7 @@ Search was added in v1.3.5. The purpose was to make it more convenient to quickl
 * The designer of _School_, lyckay, used to write a poem to reminisce about campus life. This level is connected with the poem
 * Although many people thought that _Space_ is similar to _The Chaos_, MaxIceFlame didn't take _The Chaos_ as a reference while designing
 * The official version of _[Space](https://www.bilibili.com/video/BV1Ex4y117sm)_ was not made by MaxIceFlame, but made by Feng Yan according to the original level
-* The music of _Drizzle_ was composed by 初云CLoudie when MaxLine was one year old, for celebrating its first anniversary. The music was later adopted by Hua Hua Pig to make level
+* The music of _Drizzle_ was composed by 初云CLoudie when MaxLine was one year old, for celebrating its first anniversary. The music was later adopted by HHPStar to make level
 * _The Explore_ used to be removed due to the conflict between MaxBlazeResFire and MaxIceFlame
 * In _The Discovery - Chronos_, the scene from 30% to 40% was made with the reference to _[The Journey](https://www.bilibili.com/video/BV18x411Z7ZB)_ by spspste. There had been cubes rising with the rhythm, but they were removed in following version
 * The music of _The Discovery - Chronos_ was remixed by Hatcat using its two versions published by its composer, ChronosAeon
@@ -107,6 +109,7 @@ Search was added in v1.3.5. The purpose was to make it more convenient to quickl
 * There had been an Easter egg in the original version of _Mathematics_, but it was cancelled when the level was redesigned
 * In the early stage of game development, the model of _Coming Soon_ was redesigned for many times
 * _Firework Paradise_ was originally named as _Fireworks_. It was renamed as _Firework Paradise_ in v2.0.0 — its original name from the design phase
+* In 2019, there was the plan to add _Inferno_, but it was shelved until 2026, when the level was finally entrusted to CXY-辰 for production
 
 ## Gallery
 ![menu1](img/menu1.png)

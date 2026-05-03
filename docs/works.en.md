@@ -32,7 +32,7 @@ Video link: [BiliBili](https://www.bilibili.com/video/BV1Ts411u7Z8?spm_id_from=3
 ![nature2](img/works/nature2.png)
 From this work on, I've changed my engine to Unity
 
-Publication date: July 4th, 2018 (Old version), August 11st, 2018 (New version)
+Publication date: July 4th, 2018 (Old version), August 11th, 2018 (New version)
 
 Video link (Old version): [BiliBili](https://www.bilibili.com/video/BV1Ts411u7Z8?spm_id_from=333.788.videopod.episodes&vd_source=1c695510ce7ddee97334e7846a16a194&p=4)
 
@@ -52,8 +52,6 @@ Video link: [BiliBili](https://www.bilibili.com/video/BV1Ts411u7Z8?spm_id_from=3
 
 #### The Environment
 ![env](img/works/env.png)
-~~The most beautiful one~~
-
 Publication date: October 13th, 2018
 
 Video link: [BiliBili](https://www.bilibili.com/video/BV1Ts411u7Z8?spm_id_from=333.788.videopod.episodes&vd_source=1c695510ce7ddee97334e7846a16a194&p=36)
@@ -137,7 +135,7 @@ Video link: [BiliBili](https://www.bilibili.com/video/BV1iA411v7MB)
 ![apo](img/works/apo.png)
 Cooperated with qqxqqx. I made from the beginning to 40% and from 80% to 100%
 
-The concept of this level had been created in June, 2019
+The concept of this level had been created in June 2019
 ![apo_con](img/works/apo_con.png)
 ^A picture of the concept of this level made at that time
 
@@ -217,14 +215,14 @@ Video link: [BiliBili](https://www.bilibili.com/video/BV1zt4y137kP)
 ### 2023
 #### The Space
 ![sp](img/works/sp.png)
-This level was added into "Dancing Line" in February, 2024
+This level was added into "Dancing Line" in February 2024
 
 Publication date: June 15th, 2023
 
 Video link: [BiliBili](https://www.bilibili.com/video/BV1rW4y1Q7ST)
 
 ### 2025
-#### The Hollowness \[Redesigned]
+#### The Hollowness - New
 ![hollow](img/works/hollow.png)
 It was a redesign of CIAD233's level, The Hollow
 
@@ -340,7 +338,7 @@ The picture of this level was missing
 Production time: 2019
 
 ### Fantasia
-An early level of MaxLine. Its music was composed by Fairo and it was a remix of [Marble Machine](https://music.163.com/song?id=408532991&uct2=U2FsdGVkX1/zS+Qx0uOfnyPY5CbLuj9wWYzK+4tiMy8=)
+An early level of MaxLine. Its music was composed by Fairo, and it was a remix of [Marble Machine](https://music.163.com/song?id=408532991&uct2=U2FsdGVkX1/zS+Qx0uOfnyPY5CbLuj9wWYzK+4tiMy8=)
 
 The picture of this level was missing
 

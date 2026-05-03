@@ -1,8 +1,22 @@
 # Change Logs
 *****
 ## 2026
-### v2.1.0
+### v2.1.1
+Update date: May 5th
 
+1, Added new level: _Rainy Memory_, _Inferno_
+
+2, Optimized DL RS GAS OAuth Login on iOS platform
+
+3, Fixed the issue that the ground is abnormally colored in _Apocalypse_, _Firework Paradise_, _Huaji_, _MARENOL_, _School_ and _Strawberries & Cigarettes_
+
+4, Fixed some issues in _Desert Maze_
+
+5, Other bug fixes 
+
+6, Other changes
+
+### v2.1.0
 Update date: March 4th
 
 1, Added new level: _Sincerity_

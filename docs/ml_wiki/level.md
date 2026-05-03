@@ -37,6 +37,7 @@
 |        迷度         |              House Rulez - 37th Avenue               |                CIAD233                 |
 |       新·迷度        |              House Rulez - 37th Avenue               |          CIAD233  <br/>Max冰焰           |
 |        滑稽         |                     MöSS - 23:33                     |           Lusaslan<br/>Max冰焰           |
+|        地狱         |             羽焰辰星 / 初云CLoudie - The Hell              |                 CXY-辰                  |
 |    In the End     |             Tommee Profitt - In the End              |         raw_chicken<br/>Max冰焰          |
 |  木星 Trance Remix  |                Li Ga Yb - The Jupiter                |                Li Ga Yb                |
 |      MARENOL      |                    LeaF - MARENOL                    |                  尘落南丘                  |
@@ -45,6 +46,7 @@
 |        海洋         |                  羽焰辰星 - Ocean Remix                  |            Max冰焰<br/>qqxqqx            |
 |        伊始         |                    羽焰辰星 - Utopia                     |                 Max冰焰                  |
 |         雨         |                  Brian Crain - rain                  |                 Max冰焰                  |
+|        雨忆         |                RABPIT - Rainy Memory                 |      Birdking鸟王<br/>华华猪<br/>CXY-辰      |
 |        雨夜         |                      四季音色 - 雨夜                       |               Pumpkin_Z                |
 |       折光梦廊        |                HOYO-MiX - 北极星 Polaris                |               SrY-ABYSS                |
 |        雨霖铃        |                       麦金 - 雨霖铃                       |                 CXY-辰                  |
@@ -107,6 +109,7 @@
 * 「数学」的原版关卡中存在一条彩蛋路线，但此路线在关卡重制时被取消
 * 在游戏制作早期，「敬请期待」的模型曾被多次修改
 * 「花火之都」在最初加入游戏时名为「花火断想」，是此关卡使用音乐的名称。后在v2.0.0重新更改为「花火之都」，也就是这个关卡最初的名字
+* 早在2019年，就已经计划加入「地狱」，但此计划一直被搁置，直至2026年才将该关卡托付给CXY-辰制作
 
 ## 画廊
 ![menu1](img/menu1.png)

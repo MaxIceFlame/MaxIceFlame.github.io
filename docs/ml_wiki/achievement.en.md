@@ -12,50 +12,52 @@
 ## Achievement List
 >Sorted by first letter
 ### Common Achievements
-|             Level              |             Title              |        How to Achieve        |
-|:------------------------------:|:------------------------------:|:----------------------------:|
-|          Anniversary           |        Happy Birthday!         | Perfectly complete the level |
-|           Apocalypse           |     Under the Apocalypse…      | Perfectly complete the level |
-|     Beach - Melodic House      |         Beach Carnival         | Perfectly complete the level |
-|        Beethoven Virus         |      Fate…Utterly Risible      | Perfectly complete the level |
-|          Caramel Star          |       A Call. An Answer.       | Perfectly complete the level |
-| Caramel Star - 9th Anniversary |       Nonuple Sweetness        | Perfectly complete the level |
-|           Chemistry            |            He Zn Tm            | Perfectly complete the level |
-|         Christmas Snow         |        Merry Christmas!        | Perfectly complete the level |
-|             Cloud              |    Stepping onto the Cloud     | Perfectly complete the level |
-|          Countryside           |      Villages and Fields       | Perfectly complete the level |
-|          Desert Maze           |          Maze Escaper          | Perfectly complete the level |
-|            Dreamer             |        A Great Dreamer         | Perfectly complete the level |
-|   Drizzle - Soft Orchestral    |       Breeze and Drizzle       | Perfectly complete the level |
-|             Empire             |       History of Rising        | Perfectly complete the level |
-|         Fire of Anger          |     May the World be Peace     | Perfectly complete the level |
-|       Firework Paradise        |      Summer Festival Line      | Perfectly complete the level |
-|           Food Party           |      Delicacy Temptation       | Perfectly complete the level |
-|             Gloom              |      Annihilated Spirits       | Perfectly complete the level |
-|       Head in the Clouds       |       Kingdom of Clouds        | Perfectly complete the level |
-|            Holidays            |            Traveler            | Perfectly complete the level |
-|           Hollowness           |    Life Passes like a Dream    | Perfectly complete the level |
-|        Hollowness - New        |      A New Lease of Life       | Perfectly complete the level |
-|             Huaji              | The World is a Giant Li Ga Yb! | Perfectly complete the level |
-|           In the End           |      The Final Epilogue…       | Perfectly complete the level |
-|     Jupiter - Trance Remix     |       Fa, Fake Diamonds!       | Perfectly complete the level |
-|            MARENOL             |            MARENOL             | Perfectly complete the level |
-|          Mathematics           |          Tool Subject          | Perfectly complete the level |
-|             Nature             |     Originated from Nature     | Perfectly complete the level |
-|             Ocean              |       The Lost Atlantis        | Perfectly complete the level |
-|            Preface             |      Preface of the World      | Perfectly complete the level |
-|              Rain              |   Wandering through the Rain   | Perfectly complete the level |
-|          Rainy Night           |    Walking at a Rainy Night    | Perfectly complete the level |
-|      Refraction Corridor       |            Polaris             | Perfectly complete the level |
-|          Ringing Rain          |        Drizzling Lament        | Perfectly complete the level |
-|             School             |   Unforgettable School Life    | Perfectly complete the level |
-|           Sincerity            |           Love Story           | Perfectly complete the level |
-|             Space              |        Is It…The Chaos?        | Perfectly complete the level |
-|            Starting            |     Starting of Everything     | Perfectly complete the level |
-|   Strawberries & Cigarettes    |          Fall in Love          | Perfectly complete the level |
-|    The Discovery - Chronos     |     Reborn from the Ashes      | Perfectly complete the level |
-|             Valley             |        Hills and Rivers        | Perfectly complete the level |
-|          White Realm           |  White Realm: Sound of Nature  | Perfectly complete the level |
+|             Level              |                Title                |        How to Achieve        |
+|:------------------------------:|:-----------------------------------:|:----------------------------:|
+|          Anniversary           |           Happy Birthday!           | Perfectly complete the level |
+|           Apocalypse           |        Under the Apocalypse…        | Perfectly complete the level |
+|     Beach - Melodic House      |           Beach Carnival            | Perfectly complete the level |
+|        Beethoven Virus         |        Fate…Utterly Risible         | Perfectly complete the level |
+|          Caramel Star          |         A Call. An Answer.          | Perfectly complete the level |
+| Caramel Star - 9th Anniversary |          Nonuple Sweetness          | Perfectly complete the level |
+|           Chemistry            |              He Zn Tm               | Perfectly complete the level |
+|         Christmas Snow         |          Merry Christmas!           | Perfectly complete the level |
+|             Cloud              |       Stepping onto the Cloud       | Perfectly complete the level |
+|          Countryside           |         Villages and Fields         | Perfectly complete the level |
+|          Desert Maze           |            Maze Escaper             | Perfectly complete the level |
+|            Dreamer             |           A Great Dreamer           | Perfectly complete the level |
+|   Drizzle - Soft Orchestral    |         Breeze and Drizzle          | Perfectly complete the level |
+|             Empire             |          History of Rising          | Perfectly complete the level |
+|         Fire of Anger          |       May the World be Peace        | Perfectly complete the level |
+|       Firework Paradise        |        Summer Festival Line         | Perfectly complete the level |
+|           Food Party           |         Delicacy Temptation         | Perfectly complete the level |
+|             Gloom              |         Annihilated Spirits         | Perfectly complete the level |
+|       Head in the Clouds       |          Kingdom of Clouds          | Perfectly complete the level |
+|            Holidays            |              Traveler               | Perfectly complete the level |
+|           Hollowness           |      Life Passes like a Dream       | Perfectly complete the level |
+|        Hollowness - New        |         A New Lease of Life         | Perfectly complete the level |
+|             Huaji              |   The World is a Giant Li Ga Yb!    | Perfectly complete the level |
+|            Inferno             |      Hear the Inferno's Call!       | Perfectly complete the level |
+|           In the End           |         The Final Epilogue…         | Perfectly complete the level |
+|     Jupiter - Trance Remix     |         Fa, Fake Diamonds!          | Perfectly complete the level |
+|            MARENOL             |               MARENOL               | Perfectly complete the level |
+|          Mathematics           |            Tool Subject             | Perfectly complete the level |
+|             Nature             |       Originated from Nature        | Perfectly complete the level |
+|             Ocean              |          The Lost Atlantis          | Perfectly complete the level |
+|            Preface             |        Preface of the World         | Perfectly complete the level |
+|              Rain              |     Wandering through the Rain      | Perfectly complete the level |
+|          Rainy Memory          |           A Rainy Memory            | Perfectly complete the level |
+|          Rainy Night           |      Walking at a Rainy Night       | Perfectly complete the level |
+|      Refraction Corridor       |               Polaris               | Perfectly complete the level |
+|          Ringing Rain          |          Drizzling Lament           | Perfectly complete the level |
+|             School             |      Unforgettable School Life      | Perfectly complete the level |
+|           Sincerity            |             Love Story              | Perfectly complete the level |
+|             Space              |          Is It…The Chaos?           | Perfectly complete the level |
+|            Starting            |       Starting of Everything        | Perfectly complete the level |
+|   Strawberries & Cigarettes    |            Fall in Love             | Perfectly complete the level |
+|    The Discovery - Chronos     |        Reborn from the Ashes        | Perfectly complete the level |
+|             Valley             |          Hills and Rivers           | Perfectly complete the level |
+|          White Realm           |    White Realm: Sound of Nature     | Perfectly complete the level |
 
 ### Special Achievements
 |         Title         |            How to Achieve            |
@@ -96,7 +98,7 @@
 * The achievement of _The Discovery - Chronos_ is _Reborn from the Ashes_, which seems to have no relation to the level, is closely connected to the process that the level was removed and redesigned then released again
 * The achievement of _Desert Maze_ is _Maze Escaper_, which has nothing to do with the level's actual content, is supposed that it's insinuating something
 * The achievement of _Chemistry_ is _He Zn Tm_. Actually, He, Zn and Tm are the preceding elements of Li, Ga and Yb, respectively. Li Ga Yb used to use this name as his name
-* The achievement of _Fireworks_, _Summer Festival Line_, came from a food called _Summer Festival Fish_ in _Genshin Impact_
+* The achievement of _Fireworks_, _Summer Festival Line_, came from a kind of food called _Summer Festival Fish_ in _Genshin Impact_
 * The achievement of _Mathematics_, _Tool Subject_, came from a joke told by game producer's physics teacher in class
 * The achievement of _Jupiter_, _Fa, Fake Diamonds!_, is actually an answer to the question "What are on the Jupiter?" in the title of the official video
 * The achievement of _Food Party_, _Delicacy Temptation_, came from a level named _Delicacy Temptation_ in _Rolling Sky_
