@@ -125,8 +125,6 @@ Max Zhi Flame
 
 RicoTen
 
-杨哥我来了
-
 Fenger
 
 Z1029
@@ -140,6 +138,3 @@ Z1029
 **This game is of a non-commercial nature and shall not be used for any form of monetary profit**
 
 **If you insist on publishing this game on any platform and engaging in any form of monetary profit, you shall bear all the adverse effects and copyright disputes arising from such actions. All members of Max Studio shall not assume any liability thereof**
-
-## Game OST
-![music](img/music.png) [MaxLine Official Game OST](https://music.163.com/djradio?id=1004185369 "NetEase Cloud Music")
