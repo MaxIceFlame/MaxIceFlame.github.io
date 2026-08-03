@@ -166,6 +166,15 @@ Search was added in v1.3.5. The purpose was to make it more convenient to quickl
     </span>
 </body>
 
+![cur_menu](img/menu_cur.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^The seventh design of level menu
+        </i>
+    </span>
+</body>
+
 ![soon1](img/soon1.png)
 <body>
     <span style="color: #888888; ">

@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbd77f87-a8f5-41f6-bde0-926c1d25477a" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/about.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/about.en.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/achievement.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/achievement.en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/achievement.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/achievement.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/intro.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/intro.en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/level.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/level.en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/level.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/level.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/update.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/update.en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/update.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/update.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +64,7 @@
       <workItem from="1767095118643" duration="1028000" />
       <workItem from="1777792749321" duration="3034000" />
       <workItem from="1780063711730" duration="256000" />
+      <workItem from="1785751705220" duration="1517000" />
     </task>
     <servers />
   </component>

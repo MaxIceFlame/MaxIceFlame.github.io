@@ -1,6 +1,23 @@
 # Change Logs
 *****
 ## 2026
+### v2.1.2
+Update date: August x
+
+1, Optimized the performance of level menu
+
+2, Optimized the performance of search page
+
+3, Raised the achieving requirements of the series of _Diving Champion_ and _Careless Adventurer_ achievements
+
+4, Fixed the issue of missing animations in _Rainy Memory_
+
+5, Fixed the issue of missing translations of a few texts
+
+6, Fixed the issue of abnormally colored ground in some levels
+
+7, Other changes
+
 ### v2.1.1
 Update date: May 5th
 

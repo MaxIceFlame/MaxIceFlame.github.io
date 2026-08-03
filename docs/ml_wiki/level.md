@@ -166,6 +166,15 @@
     </span>
 </body>
 
+![cur_menu](img/menu_cur.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^关卡菜单的第七种设计
+        </i>
+    </span>
+</body>
+
 ![soon1](img/soon1.png)
 <body>
     <span style="color: #888888; ">

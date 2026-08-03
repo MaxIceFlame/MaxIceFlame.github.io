@@ -72,12 +72,12 @@
 |    Rich in Crown Ⅲ    |      Obtain 120 crowns in total      |
 |    Rich in Crown Ⅳ    |      Obtain 240 crowns in total      |
 |    Rich in Crown Ⅴ    |      Obtain 360 crowns in total      |
-|   Diving Champion Ⅰ   |     Fall into water for 10 times     |
-|   Diving Champion Ⅱ   |     Fall into water for 50 times     |
-|   Diving Champion Ⅲ   |    Fall into water for 100 times     |
-| Careless Adventurer Ⅰ | Deviate from the route for 10 times  |
-| Careless Adventurer Ⅱ | Deviate from the route for 50 times  |
-| Careless Adventurer Ⅲ | Deviate from the route for 100 times |
+|   Diving Champion Ⅰ   |     Fall into water for 30 times     |
+|   Diving Champion Ⅱ   |     Fall into water for 90 times     |
+|   Diving Champion Ⅲ   |    Fall into water for 180 times     |
+| Careless Adventurer Ⅰ | Deviate from the route for 30 times  |
+| Careless Adventurer Ⅱ | Deviate from the route for 90 times  |
+| Careless Adventurer Ⅲ | Deviate from the route for 180 times |
 
 ### Secret Achievements
 |             Level              |             Title              |                    Description                    |
