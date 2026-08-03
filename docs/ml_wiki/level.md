@@ -1,6 +1,6 @@
 # 关卡
 *****
-![cur_menu](img/menu_cur.png)
+![cur_menu](img/menu_cur_new.png)
 <body>
     <span style="color: #888888; ">
         <i>
@@ -75,7 +75,7 @@
 
 搜索功能于v1.3.5加入游戏。加入游戏的目的是为了方便玩家在逐渐增多的关卡中能够快速寻找自己想游玩的关卡，而不会在寻找关卡上浪费过多时间
 
-![search1](img/search_cur.png)
+![search1](img/search_cur_new.png)
 <body>
     <span style="color: #888888; ">
         <i>
@@ -206,7 +206,7 @@
 <body>
     <span style="color: #888888; ">
         <i>
-            ^敬请期待背景的初版设计
+            ^敬请期待背景的初版设计（by CXY-辰）
         </i>
     </span>
 </body>
@@ -243,6 +243,15 @@
     <span style="color: #888888; ">
         <i>
             ^搜索页面的第四种设计
+        </i>
+    </span>
+</body>
+
+![search6](img/search_cur.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^搜索页面的第五种设计
         </i>
     </span>
 </body>

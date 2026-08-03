@@ -1,6 +1,6 @@
 # Levels
 *****
-![cur_menu](img/menu_cur.png)
+![cur_menu](img/menu_cur_new.png)
 <body>
     <span style="color: #888888; ">
         <i>
@@ -75,7 +75,7 @@ In MaxLine, players can find levels quickly by search
 
 Search was added in v1.3.5. The purpose was to make it more convenient to quickly find the level they want to play in increasing levels for players, instead of wasting too much time finding levels
 
-![search1](img/search_cur.png)
+![search1](img/search_cur_new.png)
 <body>
     <span style="color: #888888; ">
         <i>
@@ -206,7 +206,7 @@ Search was added in v1.3.5. The purpose was to make it more convenient to quickl
 <body>
     <span style="color: #888888; ">
         <i>
-            ^The original design of Coming Soon background
+            ^The original design of Coming Soon background (Designed by CXY-辰)
         </i>
     </span>
 </body>
@@ -243,6 +243,15 @@ Search was added in v1.3.5. The purpose was to make it more convenient to quickl
     <span style="color: #888888; ">
         <i>
             ^The forth design of search page
+        </i>
+    </span>
+</body>
+
+![search6](img/search_cur.png)
+<body>
+    <span style="color: #888888; ">
+        <i>
+            ^The fifth design of search page
         </i>
     </span>
 </body>
