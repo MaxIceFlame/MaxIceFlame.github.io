@@ -2,7 +2,7 @@
 *****
 ## 2026
 ### v2.1.2
-Update date: August x
+Update date: August 5th
 
 1, Optimized the performance of level menu
 
