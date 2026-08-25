@@ -1,6 +1,21 @@
 # Change Logs
 *****
 ## 2026
+### v2.1.3
+Update date: August 29th
+
+1, Added new level: _Día de Muertos_
+
+2, Added new language: Traditional Chinese (Hong Kong)
+
+3, Added headphone wearing suggestion page
+
+4, Fixed the issue that the lyrics perform abnormally in _Caramel Star_ and _Caramel Star - 9th Anniversary_
+
+5, Fixed the issue of abnormally colored ground in some levels
+
+6, Other changes
+
 ### v2.1.2
 Update date: August 5th
 

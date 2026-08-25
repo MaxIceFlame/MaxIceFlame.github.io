@@ -6,5 +6,3 @@
 ![b2](img/laoba.png)
 *****
 下载地址：[百度网盘](https://pan.baidu.com/s/1fz9jZU1ubUmRzNTgqNCNBg?pwd=lbhb) (lbhb)
-
-原本有安卓版的，但是已经找不到了

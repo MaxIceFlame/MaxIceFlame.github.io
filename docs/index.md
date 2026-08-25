@@ -13,5 +13,9 @@
 
 ![youtube](img/youtube.png) [Youtube](https://www.youtube.com/@maxiceflame_naheeda "Youtube")
 
+### 个人仓库
+
+![git](img/github.png) [Github](https://github.com/MaxIceFlame "Github")
+
 *****
 <a href="https://icp.gov.moe/?keyword=20241414" target="_blank">萌ICP备20241414号</a>

@@ -42,7 +42,11 @@ Real Nath
 
 Li Ga Yb
 
-:flag_cn: 繁体中文（校正）
+:flag_cn: 繁体中文（香港）
+
+GP0108
+
+:flag_cn: 繁体中文（台湾）
 
 Jim Tsai
 

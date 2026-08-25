@@ -42,7 +42,11 @@ Feng Yan
 
 Li Ga Yb
 
-:flag_cn: Traditional Chinese (Correction)
+:flag_cn: Traditional Chinese (Hong Kong)
+
+GP0108
+
+:flag_cn: Traditional Chinese (Taiwan)
 
 Jim Tsai
 

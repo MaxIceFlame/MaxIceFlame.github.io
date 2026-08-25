@@ -25,6 +25,7 @@
 |             Cloud              |             Cheetah Mobile Games - Cloud             |                    lyckay                    |
 |          Countryside           |        Alan Mackin - The Plain \[Disco Remix]        |                 MaxIceFlame                  |
 |          Desert Maze           |            零燚01 - The Maze \[零燚01 Remix]             |                    qqxqqx                    |
+|         Día de Muertos         |                       梦河 - 彼岸                        |     泝_Lwtiky<br/>Hatcat<br/>MaxIceFlame      |
 |            Dreamer             |                Black Violin - Dreamer                |            qqxqqx<br/>MaxIceFlame            |
 |   Drizzle - Soft Orchestral    |              初云CLoudie - The Rain Remix              |                   HHPStar                    |
 |             Empire             |        Two Steps From Hell - Empire Of Angels        |             Mandroid<br/>GP0108              |

@@ -5,10 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbd77f87-a8f5-41f6-bde0-926c1d25477a" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/burger.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/burger.en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/burger.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/burger.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fish.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/fish.en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fish.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/fish.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/following.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/following.en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/following.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/following.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/about.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/about.en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/achievement.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/achievement.en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/achievement.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/achievement.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/ml_wiki/intro.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/intro.en.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/ml_wiki/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/level.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/level.en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ml_wiki/level.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/level.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/ml_wiki/update.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/update.en.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/ml_wiki/update.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ml_wiki/update.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/regulation.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/regulation.en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tutorial.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tutorial.en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,23 +45,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Notification.DisplayName-DoNotAsk-GitHub Markdown Emojis&quot;: &quot;GitHub Markdown Emojis&quot;,
-    &quot;Notification.DoNotAsk-GitHub Markdown Emojis&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Notification.DisplayName-DoNotAsk-GitHub Markdown Emojis": "GitHub Markdown Emojis",
+    "Notification.DoNotAsk-GitHub Markdown Emojis": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="fbd77f87-a8f5-41f6-bde0-926c1d25477a" name="更改" comment="" />
@@ -61,6 +80,7 @@
       <workItem from="1780063711730" duration="256000" />
       <workItem from="1785751705220" duration="1517000" />
       <workItem from="1785903207461" duration="92000" />
+      <workItem from="1787622015986" duration="5607000" />
     </task>
     <servers />
   </component>

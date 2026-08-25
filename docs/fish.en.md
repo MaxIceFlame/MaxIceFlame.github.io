@@ -1,3 +1,1 @@
-# Electronic Wooden Fish Free
-*****
-No English translation for this page
+**No English translation for this page**

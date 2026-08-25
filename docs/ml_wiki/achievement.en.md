@@ -25,6 +25,7 @@
 |             Cloud              |       Stepping onto the Cloud       | Perfectly complete the level |
 |          Countryside           |         Villages and Fields         | Perfectly complete the level |
 |          Desert Maze           |            Maze Escaper             | Perfectly complete the level |
+|         Día de Muertos         | Vivos y Muertos, Una Misma Alegría. | Perfectly complete the level |
 |            Dreamer             |           A Great Dreamer           | Perfectly complete the level |
 |   Drizzle - Soft Orchestral    |         Breeze and Drizzle          | Perfectly complete the level |
 |             Empire             |          History of Rising          | Perfectly complete the level |
